@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T19:11:40.617Z",
+ "generatedAt": "2026-09-25T19:43:35.981Z",
  "region": "Wasatch Front · Nephi to Tremonton",
  "events": [
   {
@@ -321,6 +321,7 @@
   {
    "id": "75a045c5c827",
    "title": "Bowling for Soup",
+   "description": "Postfontaine Presents: Bowling for Soup on September 25th 2026 at The Union Event Center",
    "category": "Music",
    "start": "2026-09-25T19:00:00-06:00",
    "venue": "The Union",
@@ -371,6 +372,7 @@
   {
    "id": "02b801e17fec",
    "title": "ROLLING QUARTZ [MY TURN] 2026 TOUR in Salt Lake City",
+   "description": "Korean rock girl band ROLLING QUARTZ is coming to North America on their MY TURN 2026 Tour. Rolling Quartz (롤링쿼츠) is a Korean rock band that debuted in 2020. They consist of 5 members: Arem, Hyunjung, Iree, Jayoung and Yeongeun. Tickets for ROLLING QUARTZ 2026 North American Tour will go on sale Friday June 5. General Admission: $29.99 - This is a General Admission ticket to see ROLLING QUARTZ live in concert. VIP: $49.99 - This is a General Admission + Hi Touch ticket to see ROLLING QUARTZ live in concert. DIADEM VVIP: $89.99 - This includes a General Admission ticket, Skip The Line, Hi Touch, and Sound Check with ROLLING QUARTZ. Please arrive by 5PM!! SUPER DIADEM Everything Ticket: $219.99 - This is the Everything Ticket. Includes General Admission, Skip The Line, Hi Touch, Sound Check, Fan Sign (bring one small personal item), Selfie Bundle (1 selfie with each member) and You+ (photo of You+ ROLLING QUARTZ, taken on your phone by us!) LIMITED Please arrive by 4PM!! www.LeoPresents.com",
    "category": "Music",
    "start": "2026-09-25T19:00:00-06:00",
    "venue": "Pearl on Main",
@@ -525,6 +527,28 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "913f26b441db",
+   "title": "PRESEASON: Utah Mammoth vs. Colorado Avalanche",
+   "description": "Utah Mammoth vs. Colorado Avalanche at the Delta Center on September 26! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com</a>.",
+   "category": "Sports",
+   "start": "2026-09-26T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/07/0093-Matchup_Graphics-Mammoth_900x500_COL-scaled.png",
+   "url": "https://www.deltacenter.com/events/preseason-utah-mammoth-vs-colorado-avalanche/",
+   "ticketUrl": "https://www.deltacenter.com/events/preseason-utah-mammoth-vs-colorado-avalanche/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
+  },
+  {
    "id": "95ba1d805a00",
    "title": "Lagoon Frightmares",
    "description": "Lagoon's Halloween season: rides, haunted houses and Frightmares shows. Open 10:00–23:00.",
@@ -556,23 +580,6 @@
    "ticketUrl": "https://seatgeek.com/utah-valley-wolverines-womens-volleyball-tickets/womens-college-volleyball/2026-09-26-1-pm/18419613",
    "source": "SeatGeek",
    "sourceUrl": "https://api.seatgeek.com/2/events"
-  },
-  {
-   "id": "913f26b441db",
-   "title": "PRESEASON: Utah Mammoth vs. Colorado Avalanche",
-   "category": "Sports",
-   "start": "2026-09-26T15:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/07/0093-Matchup_Graphics-Mammoth_900x500_COL-scaled.png",
-   "url": "https://www.deltacenter.com/events/preseason-utah-mammoth-vs-colorado-avalanche/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4jo",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "3c5bc3aeefa4",
@@ -611,6 +618,7 @@
   {
    "id": "c1c207249dee",
    "title": "$uicideboy$ present Grey Day Tour 2026 w. Shoreline Mafia & more",
+   "description": "RAIN OR SHINE EVENT This year for Grey Day Tour 2026, we ($uicideboy$) have partnered with PLUS1 for something very near and dear to us: mental health. $1 per ticket will be contributed by Live Nation to our PLUS1 Mental Health Fund, to help those who need support most. We are very excited to do this, and this is only the beginning of our plans to give back to those that have given us so much. www.plus1.org Please note Lawn/Pit tickets are all general admission. The row and seat numbers listed are strictly for box office tracking. Support Acts are subject to change.",
    "category": "Music",
    "start": "2026-09-26T18:30:00-06:00",
    "venue": "Utah First Credit Union Amphitheatre",
@@ -644,6 +652,7 @@
   {
    "id": "868a723174a1",
    "title": "Jaguares de Nayarit vs. Aguilas De Mexicali",
+   "description": "Children 2 years and older need a ticket. Event is rain or shine. No umbrellas. No chairs allowed. Saturday gates open at 4:30 PM, game begins at 6:35PM and feature the Jaguares de Nayarit vs Aguilas de Mexicali Sunday gates open at 11:00 AM, game begins at 1:05PM and feature the Jaguares de Nayarit vs Aguilas de Mexicali",
    "category": "Sports",
    "start": "2026-09-26T18:35:00-06:00",
    "venue": "The Ballpark at America First Square",
@@ -695,6 +704,7 @@
   {
    "id": "d6096673e8d9",
    "title": "KRCL Presents Cardinal Bloom",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-09-26T19:00:00-06:00",
    "venue": "The Depot",
@@ -712,6 +722,7 @@
   {
    "id": "91e99d10de39",
    "title": "Zeppelin USA",
+   "description": "Zeppelin USA captures the explosive energy and passion of one of rock's most iconic bands - Led Zeppelin. Shedding the wigs and costumes, the band is comprised of seasoned touring and session musicians who put the emphasis on the music, not the gimmicks. With an uncanny ability to channel a younger Robert Plant, vocalist/producer Brody Dolyniuk and his all-star band deliver the classic Zep sound with all the hits (like Stairway to Heaven, Whole Lotta Love, Black Dog, etc) and many of the deeper cuts for die-hard fans. The show also features state-of-the-art multimedia and laser/fog effects for a truly exciting sonic and visual experience.",
    "category": "Music",
    "start": "2026-09-26T19:00:00-06:00",
    "venue": "Sandy Amphitheater",
@@ -830,6 +841,7 @@
   {
    "id": "aba58ef1be54",
    "title": "Aguilas De Mexicali vs. Jaguares de Nayarit",
+   "description": "Children 2 years and older need a ticket. Event is rain or shine. No umbrellas. No chairs allowed. Saturday gates open at 4:30 PM, game begins at 6:35PM and feature the Jaguares de Nayarit vs Aguilas de Mexicali Sunday gates open at 11:00 AM, game begins at 1:05PM and feature the Jaguares de Nayarit vs Aguilas de Mexicali",
    "category": "Sports",
    "start": "2026-09-27T13:05:00-06:00",
    "venue": "The Ballpark at America First Square",
@@ -880,6 +892,7 @@
   {
    "id": "af8d28ce3904",
    "title": "Limelight - An Evening With Gloss Haus",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver?s License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Performing Arts",
    "start": "2026-09-27T18:00:00-06:00",
    "venue": "The Depot",
@@ -963,6 +976,7 @@
   {
    "id": "b51a6cd19908",
    "title": "PRESIDENT: North American Campaign 2026",
+   "description": "No Resale Over Face Value PRESIDENT is using Ticketmaster's Face Value Exchange to help fans get tickets at the original price. Tickets will be non-transferable and can only be resold on Ticketmaster at face value. Tickets listed elsewhere through unauthorized sources may be fake or invalid. Only tickets displayed in the Ticketmaster app will be valid for this event. States Blocking Artist Resale Terms New York, Illinois, Colorado, Virginia, Utah and Connecticut have state laws that prevent resale restrictions. In those states, tickets can be transferred but Ticketmaster will still honor PRESIDENT's terms by keeping resale prices at face value on its site. A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport.",
    "category": "Music",
    "start": "2026-09-28T18:30:00-06:00",
    "venue": "The Depot",
@@ -1129,6 +1143,7 @@
   {
    "id": "0cbc582ea6ad",
    "title": "Wu-Tang Forever: The Final Chamber",
+   "description": "RAIN OR SHINE EVENT Please note Lawn/Pit tickets are all general admission. The row and seat numbers listed are strictly for box office tracking. Support Acts are subject to change.",
    "category": "Music",
    "start": "2026-09-29T19:30:00-06:00",
    "venue": "Utah First Credit Union Amphitheatre",
@@ -1146,6 +1161,7 @@
   {
    "id": "dfdcaca3a392",
    "title": "Chance The Rapper - Coloring Book 10 Year Anniversary Tour",
+   "description": "Live Nation & Postfontaine Present: Chance the Rapper at The Union on September 29th, 2026.",
    "category": "Music",
    "start": "2026-09-29T20:00:00-06:00",
    "venue": "The Union",
@@ -1213,6 +1229,7 @@
   {
    "id": "ded6986c1a08",
    "title": "Breaking Benjamin",
+   "description": "RAIN OR SHINE EVENT Please note Lawn/Pit tickets are all general admission. The row and seat numbers listed are strictly for box office tracking. Support Acts are subject to change.",
    "category": "Music",
    "start": "2026-09-30T18:00:00-06:00",
    "venue": "Utah First Credit Union Amphitheatre",
@@ -1263,6 +1280,7 @@
   {
    "id": "da88a2c80bdc",
    "title": "EsDeeKid - Council House Rat Tour",
+   "description": "Postfontaine Presents: EsDeeKid at the Union Event Center on September 30th 2026",
    "category": "Music",
    "start": "2026-09-30T19:30:00-06:00",
    "venue": "The Union",
@@ -1327,6 +1345,28 @@
    "url": "https://thanksgivingpoint.org/events/spooktober-costume-party/",
    "source": "Thanksgiving Point",
    "sourceUrl": "https://www.thanksgivingpoint.org/events/"
+  },
+  {
+   "id": "828e68a8cefd",
+   "title": "Utah Mammoth vs. Chicago Blackhawks",
+   "description": "Utah Mammoth vs. Chicago Blackhawks at the Delta Center on October 1! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com</a>.",
+   "category": "Sports",
+   "start": "2026-10-01T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/07/0093-Matchup_Graphics-Mammoth_900x500_CHI-scaled.png",
+   "url": "https://www.deltacenter.com/events/utah-mammoth-vs-chicago-blackhawks/",
+   "ticketUrl": "https://www.deltacenter.com/events/utah-mammoth-vs-chicago-blackhawks/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "7fd253a159bc",
@@ -1429,25 +1469,9 @@
    "sourceUrl": "https://www.hebertrain.com/"
   },
   {
-   "id": "828e68a8cefd",
-   "title": "Utah Mammoth vs. Chicago Blackhawks",
-   "category": "Sports",
-   "start": "2026-10-01T19:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/07/0093-Matchup_Graphics-Mammoth_900x500_CHI-scaled.png",
-   "url": "https://www.deltacenter.com/events/utah-mammoth-vs-chicago-blackhawks/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4q-",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
-  },
-  {
    "id": "cf7ba01c1c19",
    "title": "Empire of the Sun - Ask That God: Afterlife North American Tour",
+   "description": "RAIN OR SHINE EVENT Please note Lawn/Pit tickets are all general admission. The row and seat numbers listed are strictly for box office tracking. Support Acts are subject to change.",
    "category": "Music",
    "start": "2026-10-01T19:30:00-06:00",
    "venue": "Utah First Credit Union Amphitheatre",
@@ -1546,8 +1570,31 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "fffd6a85aae9",
+   "title": "Carin Leon",
+   "description": "Carin Leon is bringing the De Sonora Para El Mundo Tour 2026 to the Delta Center on October 2! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com<",
+   "category": "Music",
+   "start": "2026-10-02T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/02/900x500.jpg",
+   "url": "https://www.deltacenter.com/events/carin-leon/",
+   "ticketUrl": "https://www.deltacenter.com/events/carin-leon/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
+  },
+  {
    "id": "6c58b465b44b",
    "title": "Tuck Everlasting",
+   "description": "The Sandy Arts Guild presents Tuck Everlasting What would you do if you had all eternity? Eleven-year-old Winnie Foster yearns for a life of adventure beyond her white picket fence, but not until she becomes unexpectedly entwined with the Tuck Family does she get more than she could have imagined. When Winnie learns of the magic behind the Tuck's unending youth, she must fight to protect their secret from those who would do anything for a chance at eternal life. As her adventure unfolds, Winnie faces an extraordinary choice: return to her life, or continue with the Tucks on their infinite journey.",
    "category": "Performing Arts",
    "start": "2026-10-02T00:00:00-06:00",
    "end": "2026-10-17T23:59:00-06:00",
@@ -1718,6 +1765,7 @@
   {
    "id": "881d8e43aa20",
    "title": "ADÉLA: The Red Bottoms Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-02T19:00:00-06:00",
    "venue": "The Depot",
@@ -1817,23 +1865,6 @@
    "sourceUrl": "https://api.seatgeek.com/2/events"
   },
   {
-   "id": "fffd6a85aae9",
-   "title": "Carin Leon",
-   "category": "Community",
-   "start": "2026-10-02T20:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/02/900x500.jpg",
-   "url": "https://www.deltacenter.com/events/carin-leon/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-Ap8",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
-  },
-  {
    "id": "3634cb1125ab",
    "title": "Tricky (21+)",
    "category": "Music",
@@ -1881,6 +1912,28 @@
    "url": "https://members.boxelderchamber.com/events/details/development-2026-photography-competition-exhibition-5404",
    "source": "Box Elder Chamber of Commerce",
    "sourceUrl": "https://members.boxelderchamber.com/events"
+  },
+  {
+   "id": "41958016a3a5",
+   "title": "UFC 332",
+   "description": "UFC 332 is coming to the Delta Center on October 3! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com</a>.",
+   "category": "Sports",
+   "start": "2026-10-03T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/08/0000000000_332_BoutAnn_NS-WC_1200x675.jpg",
+   "url": "https://www.deltacenter.com/events/ufc-332/",
+   "ticketUrl": "https://www.deltacenter.com/events/ufc-332/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "f8d180f858fe",
@@ -1968,24 +2021,6 @@
    "sourceUrl": "https://api.seatgeek.com/2/events"
   },
   {
-   "id": "41958016a3a5",
-   "title": "UFC 332",
-   "category": "Sports",
-   "start": "2026-10-03T14:00:00-06:00",
-   "allDay": true,
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/08/0000000000_332_BoutAnn_NS-WC_1200x675.jpg",
-   "url": "https://www.deltacenter.com/events/ufc-332/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAvkoE",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
-  },
-  {
    "id": "33cd21648a7c",
    "title": "Breakaway Music Festival (Saturday Pass)",
    "category": "Festivals",
@@ -2017,6 +2052,21 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A70g3b",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "5d3b27f2611f",
+   "title": "BYU Cougars at TCU",
+   "description": "BYU Cougars at TCU",
+   "category": "Sports",
+   "start": "2026-10-03T17:00:00-06:00",
+   "venue": "Fort Worth, Texas",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
   },
   {
    "id": "32a0c330eee3",
@@ -2104,6 +2154,7 @@
   {
    "id": "cfa2eeee67e1",
    "title": "It's A 2000s Party: Salt Lake City (18+)",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-03T20:00:00-06:00",
    "venue": "The Depot",
@@ -2189,6 +2240,7 @@
   {
    "id": "28a4d1e5d2a1",
    "title": "Tinlicker North America 2026",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-04T19:00:00-06:00",
    "venue": "The Depot",
@@ -2356,8 +2408,31 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "6eb0f505864b",
+   "title": "PRESEASON: Utah Jazz vs. Denver Nuggets",
+   "description": "Utah Jazz vs. Denver Nuggets at the Delta Center on October 6! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com</a>.",
+   "category": "Sports",
+   "start": "2026-10-06T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/08/0093-2526-Matchup_Graphics-Jazz-Deliverables_Nuggets_900x500.png",
+   "url": "https://www.deltacenter.com/events/utah-jazz-vs-denver-nuggets-3/",
+   "ticketUrl": "https://www.deltacenter.com/events/utah-jazz-vs-denver-nuggets-3/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
+  },
+  {
    "id": "736d3da95211",
    "title": "Taking Back Sunday",
+   "description": "Postfontaine Presents: Taking Back Sunday at The Union Event Center on October 6th 2026",
    "category": "Music",
    "start": "2026-10-06T18:30:00-06:00",
    "venue": "The Union",
@@ -2422,23 +2497,6 @@
    "ticketUrl": "https://www.axs.com/events/1472190/mastodon-tickets",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
-  },
-  {
-   "id": "6eb0f505864b",
-   "title": "PRESEASON: Utah Jazz vs. Denver Nuggets",
-   "category": "Sports",
-   "start": "2026-10-06T19:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/08/0093-2526-Matchup_Graphics-Jazz-Deliverables_Nuggets_900x500.png",
-   "url": "https://www.deltacenter.com/events/utah-jazz-vs-denver-nuggets-3/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZYqb",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "6f3dd7d15676",
@@ -2528,6 +2586,7 @@
   {
    "id": "3aa8ab20e767",
    "title": "Staind: Break The Cycle 25th Anniversary Tour",
+   "description": "RAIN OR SHINE EVENT Please note Lawn/Pit tickets are all general admission. The row and seat numbers listed are strictly for box office tracking. Support Acts are subject to change.",
    "category": "Music",
    "start": "2026-10-07T18:00:00-06:00",
    "venue": "Utah First Credit Union Amphitheatre",
@@ -2562,6 +2621,7 @@
   {
    "id": "a491e226aa42",
    "title": "Loathe: A Stranger to You",
+   "description": "Live Nation & Postfontaine Present Loathe at The Union on October 7th, 2026.",
    "category": "Music",
    "start": "2026-10-07T19:00:00-06:00",
    "venue": "The Union",
@@ -2625,6 +2685,28 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7JfCk",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "71c85fc788fb",
+   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
+   "description": "Garth Brooks is bringing the <em>Blame It All On My Roots Arena Tour</em> to the Delta Center on October 8, 9, 10, and 11! Tickets go on sale Wednesday, September 23 at 10AM MT. The waiting room opens 30 minutes before the on sale begins. Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are DeltaCenter.com, UtahJazz.com, UtahMammoth.com, and SeatGeek.com.",
+   "category": "Music",
+   "start": "2026-10-08T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
+   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3-450/",
+   "ticketUrl": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3-450/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "c302b1f0b254",
@@ -2697,6 +2779,7 @@
   {
    "id": "f40d4d5e521e",
    "title": "Judah & the Lion",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-08T18:30:00-06:00",
    "venue": "The Depot",
@@ -2714,6 +2797,7 @@
   {
    "id": "9cf015b1b27e",
    "title": "Sleeping With Sirens: An Ending In Itself Tour",
+   "description": "X96 Presents: Sleeping With Sirens at The Union on October 8th, 2026.",
    "category": "Music",
    "start": "2026-10-08T18:30:00-06:00",
    "venue": "The Union",
@@ -2731,6 +2815,7 @@
   {
    "id": "c9e121af6575",
    "title": "Dwight Yoakam",
+   "description": "Postfontaine Presents: Dwight Yoakam at Sandy Amphitheater on October 8th, 2026.",
    "category": "Music",
    "start": "2026-10-08T19:00:00-06:00",
    "venue": "Sandy Amphitheater",
@@ -2779,23 +2864,6 @@
    "ticketUrl": "https://seatgeek.com/weber-state-wildcats-womens-soccer-tickets/womens-college-soccer/2026-10-08-7-pm/18394583",
    "source": "SeatGeek",
    "sourceUrl": "https://api.seatgeek.com/2/events"
-  },
-  {
-   "id": "71c85fc788fb",
-   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
-   "category": "Music",
-   "start": "2026-10-08T19:30:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
-   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3-450/",
-   "ticketUrl": "https://seatgeek.com/garth-brooks-tickets/salt-lake-city-utah-delta-center-1-2026-10-08-7-30-pm/concert/18595298",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "c3cf57273993",
@@ -2847,6 +2915,28 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAv-qo",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "fd2c261e86ea",
+   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
+   "description": "Garth Brooks is bringing the <em>Blame It All On My Roots Arena Tour</em> to the Delta Center on October 8, 9, 10, and 11! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are DeltaCenter.com, UtahJazz.com, UtahMammoth.com, and SeatGeek.com.",
+   "category": "Music",
+   "start": "2026-10-09T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
+   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour/",
+   "ticketUrl": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "06826e6e6f9e",
@@ -2920,6 +3010,7 @@
   {
    "id": "76247f2aadcb",
    "title": "Iron & Wine",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-09T19:00:00-06:00",
    "venue": "The Depot",
@@ -2985,23 +3076,6 @@
    "sourceUrl": "https://api.seatgeek.com/2/events"
   },
   {
-   "id": "fd2c261e86ea",
-   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
-   "category": "Music",
-   "start": "2026-10-09T20:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
-   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour/",
-   "ticketUrl": "https://seatgeek.com/garth-brooks-tickets/salt-lake-city-utah-delta-center-1-2026-10-09-8-pm/concert/18266854",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
-  },
-  {
    "id": "430a85f4aaac",
    "title": "Hey, Nothing",
    "category": "Music",
@@ -3021,6 +3095,7 @@
   {
    "id": "791b21d6391e",
    "title": "Juanes North America Tour 2026",
+   "description": "Live Nation & Postfontaine Present: Juanes at The Union on October 9th, 2026.",
    "category": "Music",
    "start": "2026-10-09T20:00:00-06:00",
    "venue": "The Union",
@@ -3051,6 +3126,21 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7OEAV",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "508059998131",
+   "title": "BYU Cougars vs. Iowa State",
+   "description": "BYU Cougars vs. Iowa State",
+   "category": "Sports",
+   "start": "2026-10-09T20:15:00-06:00",
+   "venue": "Provo, Utah",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
   },
   {
    "id": "7e51a76ecd66",
@@ -3100,6 +3190,28 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7JeuA",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "ad6886755ca5",
+   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
+   "description": "Garth Brooks is bringing the <em>Blame It All On My Roots Arena Tour</em> to the Delta Center on October 8, 9, 10, and 11! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are DeltaCenter.com, UtahJazz.com, UtahMammoth.com, and SeatGeek.com.",
+   "category": "Music",
+   "start": "2026-10-10T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
+   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-2/",
+   "ticketUrl": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-2/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "093903a5046d",
@@ -3389,23 +3501,6 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
-   "id": "ad6886755ca5",
-   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
-   "category": "Music",
-   "start": "2026-10-10T20:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
-   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-2/",
-   "ticketUrl": "https://seatgeek.com/garth-brooks-tickets/salt-lake-city-utah-delta-center-1-2026-10-10-8-pm/concert/18572965",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
-  },
-  {
    "id": "019eb76a404d",
    "title": "glaive",
    "category": "Music",
@@ -3424,6 +3519,7 @@
   {
    "id": "8f93aab8c83c",
    "title": "SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) ft. Frank Carter",
+   "description": "Postfontaine Presents: SEX PISTOLS (Steve Jones, Paul Cook, Glen Matlock) featuring Frank Carter at The Union Event Center on October 10th 2026",
    "category": "Music",
    "start": "2026-10-10T20:00:00-06:00",
    "venue": "The Union",
@@ -3437,6 +3533,28 @@
    "ticketUrl": "https://www.ticketmaster.com/sex-pistols-steve-jones-paul-cook-salt-lake-city-utah-10-10-2026/event/1E00645AB8F9A9CE",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "06a27807beed",
+   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
+   "description": "Garth Brooks is bringing the <em>Blame It All On My Roots Arena Tour</em> to the Delta Center on October 8, 9, 10, and 11! Tickets go on sale Tuesday, September 22 at 10AM MT. The waiting room opens 30 minutes before the on sale begins. Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are DeltaCenter.com, UtahJazz.com, UtahMammoth.com, and SeatGeek.com.",
+   "category": "Music",
+   "start": "2026-10-11T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
+   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3/",
+   "ticketUrl": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "14995c4ecf5f",
@@ -3470,23 +3588,6 @@
    "ticketUrl": "https://seatgeek.com/weber-state-wildcats-womens-soccer-tickets/womens-college-soccer/2026-10-11-1-pm/18394584",
    "source": "SeatGeek",
    "sourceUrl": "https://api.seatgeek.com/2/events"
-  },
-  {
-   "id": "06a27807beed",
-   "title": "Garth Brooks – Blame It All On My Roots Arena Tour",
-   "category": "Music",
-   "start": "2026-10-11T14:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/09/GBTour_SaltLakeCity_4shows_Announce_Website_1920x1080.jpg",
-   "url": "https://www.deltacenter.com/events/garth-brooks-blame-it-all-on-my-roots-arena-tour-3/",
-   "ticketUrl": "https://seatgeek.com/garth-brooks-tickets/salt-lake-city-utah-delta-center-1-2026-10-11-2-pm/concert/18595155",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "9ca708b73dff",
@@ -3588,6 +3689,28 @@
    "sourceUrl": "https://api.seatgeek.com/2/events"
   },
   {
+   "id": "5cb473db9a28",
+   "title": "PRESEASON: Utah Jazz vs. San Antonio Spurs",
+   "description": "Utah Jazz vs. San Antonio Spurs at the Delta Center on October 12! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com</a>.",
+   "category": "Sports",
+   "start": "2026-10-12T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/08/0093-2526-Matchup_Graphics-Jazz-Deliverables_Spurs_900x500.png",
+   "url": "https://www.deltacenter.com/events/utah-jazz-vs-san-antonio-spurs-3/",
+   "ticketUrl": "https://www.deltacenter.com/events/utah-jazz-vs-san-antonio-spurs-3/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
+  },
+  {
    "id": "39c28bc37b2d",
    "title": "Halloween Express Train",
    "description": "A 90-minute family-friendly train ride that's fun and not scary, with entertainment and costumed characters aboard.",
@@ -3640,25 +3763,9 @@
    "sourceUrl": "https://api.seatgeek.com/2/events"
   },
   {
-   "id": "5cb473db9a28",
-   "title": "PRESEASON: Utah Jazz vs. San Antonio Spurs",
-   "category": "Sports",
-   "start": "2026-10-12T19:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/08/0093-2526-Matchup_Graphics-Jazz-Deliverables_Spurs_900x500.png",
-   "url": "https://www.deltacenter.com/events/utah-jazz-vs-san-antonio-spurs-3/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1AAZ7ZK",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
-  },
-  {
    "id": "3edf68b540ba",
    "title": "Steel Pulse - Reggae Against Racism Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-12T19:00:00-06:00",
    "venue": "The Depot",
@@ -3725,6 +3832,28 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "b750c8237bd2",
+   "title": "Utah Mammoth vs. Toronto Maple Leafs",
+   "description": "Utah Mammoth vs. Toronto Maple Leafs at the Delta Center on October 13! Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>, <a href=\"http://www.utahjazz.com/\">UtahJazz.com</a>, <a href=\"http://utahhockeyclub.com/\">UtahMammoth.com</a>, and <a href=\"https://seatgeek.com/venues/delta-center-1/tickets\">SeatGeek.com</a>.",
+   "category": "Sports",
+   "start": "2026-10-13T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/07/0093-Matchup_Graphics-Mammoth_900x500_TOR-scaled.png",
+   "url": "https://www.deltacenter.com/events/utah-mammoth-vs-toronto-maple-leafs/",
+   "ticketUrl": "https://www.deltacenter.com/events/utah-mammoth-vs-toronto-maple-leafs/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
+  },
+  {
    "id": "bf0cc9e049e3",
    "title": "Bebe Stockwell",
    "category": "Music",
@@ -3777,6 +3906,7 @@
   {
    "id": "b76f948368c2",
    "title": "The Green - Titles Tour 2026",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-13T19:00:00-06:00",
    "venue": "The Depot",
@@ -3790,23 +3920,6 @@
    "ticketUrl": "https://www.ticketmaster.com/the-green-titles-tour-2026-salt-lake-city-utah-10-13-2026/event/1E0064A89C4486B7",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
-  },
-  {
-   "id": "b750c8237bd2",
-   "title": "Utah Mammoth vs. Toronto Maple Leafs",
-   "category": "Sports",
-   "start": "2026-10-13T19:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2025/07/0093-Matchup_Graphics-Mammoth_900x500_TOR-scaled.png",
-   "url": "https://www.deltacenter.com/events/utah-mammoth-vs-toronto-maple-leafs/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7J4qx",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "387d96eaf8a1",
@@ -3845,6 +3958,7 @@
   {
    "id": "09d3f8dd3d3d",
    "title": "Malcolm Todd: Do That Again Tour",
+   "description": "Live Nation & Postfontaine Present: Malcolm Todd at The Union on October 13th, 2026.",
    "category": "Music",
    "start": "2026-10-13T20:00:00-06:00",
    "venue": "The Union",
@@ -3858,6 +3972,28 @@
    "ticketUrl": "https://www.ticketmaster.com/malcolm-todd-do-that-again-tour-salt-lake-city-utah-10-13-2026/event/1E0064C3D426F256",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "b740b15a1c1f",
+   "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+   "description": "The Disney Worlds Collide Concert Tour, featuring the cast of the Descendants, ZOMBIES, and Camp Rock movies, comes to Salt Lake City on October 14! <div class=\"\" data-block=\"true\" data-editor=\"3cs3s\" data-offset-key=\"d09bq-0-0\"> <div class=\"_1mf _1mj\" data-offset-key=\"d09bq-0-0\"> Bags are not allowed inside. Diaper and medical bags will be allowed if they are no larger than 14”x14”x6”. Clutches will be allowed but must be no larger than 4”x6”x2”. Be advised that the only authorized ticketing outlets for events at Delta Center are <a href=\"http://deltacenter.com/\">DeltaCenter.com</a>,",
+   "category": "Music",
+   "start": "2026-10-14T00:00:00-06:00",
+   "allDay": true,
+   "venue": "Delta Center",
+   "address": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7683,
+   "lng": -111.9011,
+   "priceMin": 0,
+   "priceMax": 0,
+   "isFree": true,
+   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/03/DisneyWorldsCollide_web_900x500_V2.jpg",
+   "url": "https://www.deltacenter.com/events/disney-worlds-collide-concert-tour/",
+   "ticketUrl": "https://www.deltacenter.com/events/disney-worlds-collide-concert-tour/",
+   "source": "Delta Center",
+   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "958c0e3a40c5",
@@ -3941,23 +4077,6 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7Pd8Z",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
-  },
-  {
-   "id": "b740b15a1c1f",
-   "title": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
-   "category": "Music",
-   "start": "2026-10-14T19:00:00-06:00",
-   "venue": "Delta Center",
-   "address": "301 S Temple, Salt Lake City, UT 84101",
-   "city": "Salt Lake City",
-   "county": "Salt Lake",
-   "lat": 40.7683,
-   "lng": -111.9011,
-   "imageUrl": "https://www.deltacenter.com/wp-content/uploads/2026/03/DisneyWorldsCollide_web_900x500_V2.jpg",
-   "url": "https://www.deltacenter.com/events/disney-worlds-collide-concert-tour/",
-   "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7-zAa",
-   "source": "Delta Center",
-   "sourceUrl": "https://www.deltacenter.com/events"
   },
   {
    "id": "b5c48305f391",
@@ -4113,6 +4232,7 @@
   {
    "id": "fc5ac0d22f9a",
    "title": "The Wrecks - Finally : OUTSIDE Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-15T18:00:00-06:00",
    "venue": "The Depot",
@@ -4434,6 +4554,7 @@
   {
    "id": "79bcba8f2cc5",
    "title": "Sammy Rae & The Friends with special guest Melt",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-16T19:00:00-06:00",
    "venue": "The Depot",
@@ -4602,6 +4723,21 @@
    "sourceUrl": "https://www.hebertrain.com/"
   },
   {
+   "id": "2272089803c1",
+   "title": "BYU Cougars vs. Notre Dame",
+   "description": "BYU Cougars vs. Notre Dame",
+   "category": "Sports",
+   "start": "2026-10-17T12:00:00-06:00",
+   "venue": "Provo, Utah",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
+  },
+  {
    "id": "371b38dfdf96",
    "title": "Cal State Fullerton Titans at Utah Valley Wolverines Womens Volleyball",
    "category": "Sports",
@@ -4735,6 +4871,7 @@
   {
    "id": "5b2389080e44",
    "title": "Julia Wolf - Show Moved To the Union",
+   "description": "All Ages Doors: 7pm Show: 8pm The Deep End Meet & Greet Package includes: One General Admission Ticket One Group Photo with Julia Wolf Access to a Pre-show 3 song acoustic set One Exclusive VIP Poster One Signed Demo CD One Commemorative VIP Laminate & Lanyard Crowd Free Merchandise Shopping Early Entry All support acts subject to change without notice.",
    "category": "Music",
    "start": "2026-10-17T19:00:00-06:00",
    "venue": "The Union",
@@ -4768,6 +4905,7 @@
   {
    "id": "e9dd52ba8623",
    "title": "MC Magic & Lil Rob",
+   "description": "All Ages Doors: 7pm Show: 8pm All support acts subject to change without notice.",
    "category": "Music",
    "start": "2026-10-17T19:00:00-06:00",
    "venue": "The Depot",
@@ -4852,6 +4990,7 @@
   {
    "id": "b420300c02ca",
    "title": "Rise Against: Ricochet 2026",
+   "description": "Postfontaine Presents: Rise Against at The Union on October 18th, 2026.",
    "category": "Music",
    "start": "2026-10-18T18:30:00-06:00",
    "venue": "The Union",
@@ -4886,6 +5025,7 @@
   {
    "id": "843f0ed3a158",
    "title": "Michael Franti Trio - Heartstrings & Dynamite",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-18T19:00:00-06:00",
    "venue": "The Depot",
@@ -5123,6 +5263,7 @@
   {
    "id": "74e065938fe3",
    "title": "Knox",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-21T18:30:00-06:00",
    "venue": "The Depot",
@@ -5327,6 +5468,7 @@
   {
    "id": "512ff17c0bed",
    "title": "Stephen Lynch: The Me Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Comedy",
    "start": "2026-10-22T19:30:00-06:00",
    "venue": "The Depot",
@@ -5411,6 +5553,7 @@
   {
    "id": "d6bd6ef15941",
    "title": "Skillet: Comatose 20 Years, Still Screaming Tour",
+   "description": "Live Nation & Postfontaine Present: Skillet at The Union on October 23rd, 2026.",
    "category": "Music",
    "start": "2026-10-23T18:30:00-06:00",
    "venue": "The Union",
@@ -5463,6 +5606,7 @@
   {
    "id": "e2be867b1bc4",
    "title": "Jose Madero - USA Tour 2026",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-23T19:00:00-06:00",
    "venue": "The Depot",
@@ -5682,6 +5826,21 @@
    "sourceUrl": "https://www.hebertrain.com/"
   },
   {
+   "id": "045adb291882",
+   "title": "BYU Cougars at UCF",
+   "description": "BYU Cougars at UCF",
+   "category": "Sports",
+   "start": "2026-10-24T12:00:00-06:00",
+   "venue": "Orlando, Florida",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
+  },
+  {
    "id": "55df9575c5a4",
    "title": "Sacramento State Hornets at Utah Valley Wolverines Womens Volleyball",
    "category": "Sports",
@@ -5716,6 +5875,7 @@
   {
    "id": "3125d75a8945",
    "title": "Catch Your Breath - Not Broken Enough Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-24T18:00:00-06:00",
    "venue": "The Depot",
@@ -6324,6 +6484,7 @@
   {
    "id": "e5fd4f9a6cbf",
    "title": "George Clanton",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-28T19:00:00-06:00",
    "venue": "The Depot",
@@ -6592,6 +6753,7 @@
   {
    "id": "2c7e4f64e2c6",
    "title": "Plini - An Unnameable Desire North American Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-10-30T18:00:00-06:00",
    "venue": "The Depot",
@@ -6873,6 +7035,21 @@
    "ticketUrl": "https://seatgeek.com/utah-symphony-tickets/orchestral/2026-10-31-11-am/18560605",
    "source": "SeatGeek",
    "sourceUrl": "https://api.seatgeek.com/2/events"
+  },
+  {
+   "id": "e16656159611",
+   "title": "BYU Cougars vs. Arizona State",
+   "description": "BYU Cougars vs. Arizona State",
+   "category": "Sports",
+   "start": "2026-10-31T12:00:00-06:00",
+   "venue": "Provo, Utah",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
   },
   {
    "id": "4159134ca676",
@@ -7164,6 +7341,7 @@
   {
    "id": "049dc038d5eb",
    "title": "Knocked Loose & Denzel Curry",
+   "description": "S&S and Postfontaine Present: Knocked Loose & Denzel Curry at The Union on November 2nd, 2026.",
    "category": "Music",
    "start": "2026-11-02T18:30:00-07:00",
    "venue": "The Union",
@@ -7299,6 +7477,7 @@
   {
    "id": "512754067ffe",
    "title": "Periphery A Pale White Dot US Tour",
+   "description": "Live Nation & Postfontaine Present: Periphery at The Union on November 3rd, 2026.",
    "category": "Music",
    "start": "2026-11-03T18:00:00-07:00",
    "venue": "The Union",
@@ -7332,6 +7511,7 @@
   {
    "id": "21190891d6a8",
    "title": "Quadeca",
+   "description": "Quadeca has partnered with City of Hope, with a portion of proceeds benefiting the organization's efforts to advance cancer research, provide lifesaving treatments, and support children and families facing cancer. A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-03T19:00:00-07:00",
    "venue": "The Depot",
@@ -7958,6 +8138,21 @@
    "sourceUrl": "https://www.lagoonpark.com/park-info/schedule-hours/"
   },
   {
+   "id": "874562ed5671",
+   "title": "BYU Cougars at Utah",
+   "description": "BYU Cougars at Utah",
+   "category": "Sports",
+   "start": "2026-11-07T12:00:00-07:00",
+   "venue": "Salt Lake City, Utah",
+   "city": "Salt Lake City",
+   "county": "Salt Lake",
+   "lat": 40.7608,
+   "lng": -111.891,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
+  },
+  {
    "id": "9049ab03dcbf",
    "title": "UC Irvine Anteaters at Utah Valley Wolverines Womens Volleyball",
    "category": "Sports",
@@ -8074,6 +8269,7 @@
   {
    "id": "2b9fe8e31e73",
    "title": "Pearl Jam Experience",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver?s License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-07T19:00:00-07:00",
    "venue": "The Depot",
@@ -8173,6 +8369,7 @@
   {
    "id": "b144a2cf361e",
    "title": "20 Years of Nekrogoblikon with Special Guests Aborted",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-08T18:00:00-07:00",
    "venue": "The Depot",
@@ -8443,6 +8640,7 @@
   {
    "id": "e8f870d14252",
    "title": "On Cinema - The Certified \"Five Bags of Popcorn\" Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Comedy",
    "start": "2026-11-10T20:00:00-07:00",
    "venue": "The Depot",
@@ -8496,6 +8694,7 @@
   {
    "id": "5a3d7198a5fa",
    "title": "ALL Elite Wrestling presents Dynamite & Collision",
+   "description": "A night at an All Elite Wrestling show is packed with action. Boasting an impressive roster of diverse male and female wrestlers, All Elite Wrestling features a wide variety of wrestling styles and twist-filled plots. A typical AEW night involves being right there for the broadcast of its flagship TBS show, AEW Dynamite, or the newest TNT show, AEW Collision. Be there live to see all the athleticism, big personalities, exciting storylines, and hard-hitting wrestling action that has become synonymous with AEW and expect a night of epic rivalries and unforgettable matches with all the stars you love to watch.",
    "category": "Sports",
    "start": "2026-11-11T17:30:00-07:00",
    "venue": "Maverik Center",
@@ -8920,6 +9119,21 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "b737f901b37b",
+   "title": "BYU Cougars vs. Baylor",
+   "description": "BYU Cougars vs. Baylor",
+   "category": "Sports",
+   "start": "2026-11-14T12:00:00-07:00",
+   "venue": "Provo, Utah",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
+  },
+  {
    "id": "c1a5434006a4",
    "title": "BYU Cougars Womens Volleyball vs. Texas Tech Red Raider Womens Volleyball",
    "category": "Sports",
@@ -8973,6 +9187,7 @@
   {
    "id": "438c53ae1213",
    "title": "ROCK FIGHT! Nickelback vs Creed",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-14T19:00:00-07:00",
    "venue": "The Depot",
@@ -9361,6 +9576,7 @@
   {
    "id": "a86344e4b2b7",
    "title": "Sabaton: Legends on Tour",
+   "description": "Live Nation, FPC, & Postfontaine Present: Sabaton at The Union on February 24th, 2026.",
    "category": "Music",
    "start": "2026-11-17T19:00:00-07:00",
    "venue": "The Union",
@@ -9529,6 +9745,7 @@
   {
    "id": "290fcdec1472",
    "title": "Arcángel - La 8va Maravilla World Tour",
+   "description": "Live Nation & Postfontaine Present: Arcángel at The Union on November 18th, 2026.",
    "category": "Music",
    "start": "2026-11-18T20:00:00-07:00",
    "venue": "The Union",
@@ -9581,6 +9798,7 @@
   {
    "id": "d735f57dcf3f",
    "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+   "description": "Live Nation & Postfontaine Present: Underoath at The Union on November 19th, 2026.",
    "category": "Music",
    "start": "2026-11-19T18:30:00-07:00",
    "venue": "The Union",
@@ -9755,6 +9973,7 @@
   {
    "id": "b422f109d0f4",
    "title": "Punchis! Punchis! Banda Rave (18+)",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-20T21:00:00-07:00",
    "venue": "The Depot",
@@ -9820,6 +10039,21 @@
    "ticketUrl": "https://www.ticketmaster.com/event/Z7r9jZ1A7x9vO",
    "source": "Ticketmaster",
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "8bd644d3bba0",
+   "title": "BYU Cougars at Kansas",
+   "description": "BYU Cougars at Kansas",
+   "category": "Sports",
+   "start": "2026-11-21T12:00:00-07:00",
+   "venue": "Lawrence, Kansas",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
   },
   {
    "id": "8ed77c010764",
@@ -10203,6 +10437,7 @@
   {
    "id": "55156e9658d0",
    "title": "Senses Fail Presents Still Searching",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-27T18:00:00-07:00",
    "venue": "The Depot",
@@ -10337,6 +10572,21 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "1a35d8458fe6",
+   "title": "BYU Cougars vs. Cincinnati",
+   "description": "BYU Cougars vs. Cincinnati",
+   "category": "Sports",
+   "start": "2026-11-28T12:00:00-07:00",
+   "venue": "Provo, Utah",
+   "city": "Provo",
+   "county": "Utah",
+   "lat": 40.2338,
+   "lng": -111.6585,
+   "url": "https://byucougars.com/sports/football/schedule",
+   "source": "BYU Athletics",
+   "sourceUrl": "https://byucougars.com/sports/football/schedule"
+  },
+  {
    "id": "35facbfb11e4",
    "title": "Jimmy Failla",
    "category": "Performing Arts",
@@ -10372,6 +10622,7 @@
   {
    "id": "f11038cfa37b",
    "title": "Royal Bliss Annual Hometown Thanksgiving Bash",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-11-28T19:00:00-07:00",
    "venue": "The Depot",
@@ -10474,6 +10725,7 @@
   {
    "id": "3a1de066d78f",
    "title": "Imminence - Axis Mundi Tour: North America 2026",
+   "description": "Live Nation & Postfontaine Present: Imminence at The Union on Decemeber 1st, 2026.",
    "category": "Music",
    "start": "2026-12-01T19:00:00-07:00",
    "venue": "The Union",
@@ -10526,6 +10778,7 @@
   {
    "id": "0696fbc9105a",
    "title": "Frost Children",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-12-02T19:00:00-07:00",
    "venue": "The Depot",
@@ -10611,6 +10864,7 @@
   {
    "id": "a7bcd617a008",
    "title": "Whitechapel - 20th Anniversary Tour",
+   "description": "Live Nation & Postfontaine Present: Whitechapel at the Union Event Center on December 3rd, 2026.",
    "category": "Music",
    "start": "2026-12-03T18:00:00-07:00",
    "venue": "The Union",
@@ -10763,6 +11017,7 @@
   {
    "id": "f3f492229963",
    "title": "Matt Hansen - The Orchid Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-12-05T19:00:00-07:00",
    "venue": "The Depot",
@@ -10970,6 +11225,7 @@
   {
    "id": "60665a612484",
    "title": "DragonForce: Inhuman Rampage 20th Anniversary",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2026-12-09T18:30:00-07:00",
    "venue": "The Depot",
@@ -11188,6 +11444,7 @@
   {
    "id": "88724baa08f9",
    "title": "Beartooth: Pure Ecstasy World Tour",
+   "description": "Live Nation & Postfontaine Present: Beartooth at The Union on December 13th, 2026.",
    "category": "Music",
    "start": "2026-12-13T18:00:00-07:00",
    "venue": "The Union",
@@ -11239,20 +11496,21 @@
   },
   {
    "id": "b1355d5ac01b",
-   "title": "Lindsey Stirling – The Snow Waltz Tour",
+   "title": "Lindsey Stirling - The Snow Waltz Tour",
+   "description": "$1 Per Ticket goes towards Lindsey's foundation, The Upside Fund, which focuses on equitable healthcare and medical debt relief, mental health access, and nutrition education and food justice.",
    "category": "Music",
    "start": "2026-12-15T19:00:00-07:00",
-   "venue": "Maverik Center",
-   "address": "3200 S Decker Lake Dr, West Valley City, UT 84119",
+   "venue": "Canyon View Credit Union Stage at Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
    "city": "West Valley City",
    "county": "Salt Lake",
    "lat": 40.7086,
    "lng": -111.953,
-   "imageUrl": "https://maverikcenter.com/wp-content/uploads/2026/08/website-event-listing-2026-LS-2-1024x576.jpg",
-   "url": "https://maverikcenter.com/event/lindsey-stirling-the-snow-waltz-tour-2/",
+   "imageUrl": "https://s1.ticketm.net/dam/a/727/e1b0d529-1e0d-4f13-bafa-d51796b64727_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-15-2026/event/1E006513AAA6B04D",
    "ticketUrl": "https://www.ticketmaster.com/lindsey-stirling-the-snow-waltz-tour-west-valley-city-utah-12-15-2026/event/1E006513AAA6B04D",
-   "source": "Maverik Center",
-   "sourceUrl": "https://www.maverikcenter.com/events"
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
    "id": "48682539d42d",
@@ -11532,6 +11790,7 @@
   {
    "id": "437827c63f90",
    "title": "Discover NHL Winter Classic® - Colorado Avalanche v Utah Mammoth",
+   "description": "As of today, the Utah Mammoth® will be shooting twice on the goal that will be placed towards the north endzone of Rice-Eccles stadium (in the direction of Section N23).",
    "category": "Sports",
    "start": "2026-12-31T16:00:00-07:00",
    "venue": "Rice-Eccles Stadium",
@@ -11686,6 +11945,40 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "23d0a28b57a7",
+   "title": "Championship Pairs Short Program",
+   "category": "Sports",
+   "start": "2027-01-07T12:55:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/6c0/88e2a709-59cc-4fd4-b41d-18bf6cabc6c0_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-pairs-short-program-west-valley-city-utah-01-07-2027/event/1E0065399246698C",
+   "ticketUrl": "https://www.ticketmaster.com/championship-pairs-short-program-west-valley-city-utah-01-07-2027/event/1E0065399246698C",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "8f398e628d2d",
+   "title": "Championship Rhythm Dance",
+   "category": "Sports",
+   "start": "2027-01-07T15:05:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/262/b7f44519-d622-417c-b492-67856902d262_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-rhythm-dance-west-valley-city-utah-01-07-2027/event/1E006539A06F8AA5",
+   "ticketUrl": "https://www.ticketmaster.com/championship-rhythm-dance-west-valley-city-utah-01-07-2027/event/1E006539A06F8AA5",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
    "id": "0646ee240dac",
    "title": "Montana at Weber State",
    "category": "Sports",
@@ -11700,6 +11993,41 @@
    "ticketUrl": "https://seatgeek.com/weber-state-wildcats-mens-basketball-tickets/ncaa-basketball/2027-01-07-6-pm/18532137",
    "source": "SeatGeek",
    "sourceUrl": "https://api.seatgeek.com/2/events"
+  },
+  {
+   "id": "48714064593c",
+   "title": "Championship Women's Short Program",
+   "category": "Sports",
+   "start": "2027-01-07T19:10:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/128/50c9fac0-1de6-404b-bc5a-6ad669b93128_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-womens-short-program-west-valley-city-utah-01-07-2027/event/1E006539A0B68B4F",
+   "ticketUrl": "https://www.ticketmaster.com/championship-womens-short-program-west-valley-city-utah-01-07-2027/event/1E006539A0B68B4F",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "67ca6d2da3be",
+   "title": "Championship - Men's Short Program (1) & Women's Free Skate (1)",
+   "description": "Championship Men's Short Program (Group 1) & Championship Women's Free Skate (Group 1)",
+   "category": "Sports",
+   "start": "2027-01-08T14:00:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/081/c237bcb1-ac11-4716-bba0-77117b10d081_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-mens-short-program-1-womens-west-valley-city-utah-01-08-2027/event/1E006539A56F98A3",
+   "ticketUrl": "https://www.ticketmaster.com/championship-mens-short-program-1-womens-west-valley-city-utah-01-08-2027/event/1E006539A56F98A3",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
    "id": "b28ddfd49975",
@@ -11754,6 +12082,23 @@
    "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
+   "id": "432cc1b90a8e",
+   "title": "Championship Free Dance / Awards",
+   "category": "Sports",
+   "start": "2027-01-09T13:25:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/637/15a6c7ce-7ea8-420e-b0a3-7dc27f6f1637_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-free-dance-awards-west-valley-city-utah-01-09-2027/event/1E006539A9E9A2C6",
+   "ticketUrl": "https://www.ticketmaster.com/championship-free-dance-awards-west-valley-city-utah-01-09-2027/event/1E006539A9E9A2C6",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
    "id": "fbd0f8c6d066",
    "title": "Montana State at Weber State",
    "category": "Sports",
@@ -11768,6 +12113,40 @@
    "ticketUrl": "https://seatgeek.com/weber-state-wildcats-mens-basketball-tickets/ncaa-basketball/2027-01-09-4-pm/18532140",
    "source": "SeatGeek",
    "sourceUrl": "https://api.seatgeek.com/2/events"
+  },
+  {
+   "id": "8209c15580d8",
+   "title": "Championship Pairs Free Skate / Awards",
+   "category": "Sports",
+   "start": "2027-01-09T18:30:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/34c/eac22051-adc6-44a6-8301-57e611c3c34c_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-pairs-free-skate-awards-west-valley-city-utah-01-09-2027/event/1E006539AA13A329",
+   "ticketUrl": "https://www.ticketmaster.com/championship-pairs-free-skate-awards-west-valley-city-utah-01-09-2027/event/1E006539AA13A329",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
+  },
+  {
+   "id": "a9beec3e204b",
+   "title": "Championship Men's Free Skate / Awards",
+   "category": "Sports",
+   "start": "2027-01-10T12:45:00-07:00",
+   "venue": "Maverik Center",
+   "address": "3200 South Decker Lake Drive, West Valley City",
+   "city": "West Valley City",
+   "county": "Salt Lake",
+   "lat": 40.7086,
+   "lng": -111.953,
+   "imageUrl": "https://s1.ticketm.net/dam/e/715/92bf96b6-e6fa-4c29-a429-6123835a5715_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/championship-mens-free-skate-awards-west-valley-city-utah-01-10-2027/event/1E006539AA56A3AC",
+   "ticketUrl": "https://www.ticketmaster.com/championship-mens-free-skate-awards-west-valley-city-utah-01-10-2027/event/1E006539AA56A3AC",
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
    "id": "9a861ea082c1",
@@ -11994,6 +12373,7 @@
   {
    "id": "02d1c08d3114",
    "title": "Watch What Crappens: In The Mix Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver?s License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Comedy",
    "start": "2027-01-23T20:00:00-07:00",
    "venue": "The Depot",
@@ -12181,6 +12561,7 @@
   {
    "id": "43a102bbb140",
    "title": "Rise Up Select Presents: Atmosphere - The Winter Carnival Tour 2027",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2027-01-30T18:00:00-07:00",
    "venue": "The Depot",
@@ -12469,6 +12850,7 @@
   {
    "id": "26961c422f6a",
    "title": "Stella Lefty: Long Way Home Tour",
+   "description": "Live Nation & Postfontaine Present: Stella Lefty at The Union on February 12th, 2026.",
    "category": "Music",
    "start": "2027-02-12T20:00:00-07:00",
    "venue": "The Union",
@@ -12504,20 +12886,21 @@
   {
    "id": "3bfae6ee0115",
    "title": "Hot Wheels Stunt Show",
-   "category": "Family",
+   "description": "Watch as world class drivers take Hot Wheels vehicles through a series of stunt challenges, with each competition getting more difficult and even more epic. Witness iconic Hot Wheels cars, Street Bikes, and ATVs execute precision driving skills, backflips, ramp jumps, take on the iconic 45 feet tall 360 loop and more! Featuring interactive fan experiences, larger than life Hot Wheels displays, and special appearances by legendary Hot Wheels vehicles including GT Scorcher, Boneshaker, Rodger Dodger and more. Hot Wheels Stunt Show is the next level experience for fans of all ages. Whether you're a die-hard collector or a young challenger dreaming of racing glory, this show is a must-see, edge of your seat experience for audiences of all ages.",
+   "category": "Sports",
    "start": "2027-02-13T12:00:00-07:00",
    "end": "2027-02-14T23:59:00-07:00",
    "venue": "Maverik Center",
-   "address": "3200 S Decker Lake Dr, West Valley City, UT 84119",
+   "address": "3200 South Decker Lake Drive, West Valley City",
    "city": "West Valley City",
    "county": "Salt Lake",
    "lat": 40.7086,
    "lng": -111.953,
-   "imageUrl": "https://maverikcenter.com/wp-content/uploads/2026/09/cc07adee-87fd-475d-959c-a41b24e0876f_TABLET_LANDSCAPE_LARGE_16_9-1024x576.webp",
-   "url": "https://maverikcenter.com/event/hot-wheels-stunt-show-3/",
+   "imageUrl": "https://s1.ticketm.net/dam/a/76f/cc07adee-87fd-475d-959c-a41b24e0876f_RETINA_LANDSCAPE_16_9.jpg",
+   "url": "https://www.ticketmaster.com/hot-wheels-stunt-show-west-valley-city-utah-02-13-2027/event/1E006522D23BD9EA",
    "ticketUrl": "https://www.ticketmaster.com/hot-wheels-stunt-show-west-valley-city-utah-02-13-2027/event/1E006522D23BD9EA",
-   "source": "Maverik Center",
-   "sourceUrl": "https://www.maverikcenter.com/events"
+   "source": "Ticketmaster",
+   "sourceUrl": "https://app.ticketmaster.com/discovery/v2/events.json"
   },
   {
    "id": "464b65cc8c04",
@@ -12606,6 +12989,7 @@
   {
    "id": "9b1cf982822f",
    "title": "Polyphia: BE NOT AFRAID World Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver?s License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2027-02-19T18:30:00-07:00",
    "venue": "The Depot",
@@ -12640,6 +13024,7 @@
   {
    "id": "2b3075de91a2",
    "title": "Polyphia Tour *MOVED TO THE DEPOT*",
+   "description": "Live Nation & Postfontaine Present: Polyphia at The Depot on September 16th, 2026.",
    "category": "Music",
    "start": "2027-02-19T19:30:00-07:00",
    "venue": "The Depot",
@@ -12928,6 +13313,7 @@
   {
    "id": "c8717a53fd0b",
    "title": "Valley - Do You Need to Be Entertained Tour",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver?s License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2027-03-05T19:00:00-07:00",
    "venue": "The Depot",
@@ -13565,6 +13951,7 @@
   {
    "id": "c49c8db7cdd1",
    "title": "The Interrupters",
+   "description": "Postfontaine Presents: The Interrupters at The Union on April 23rd, 2027.",
    "category": "Music",
    "start": "2027-04-24T18:30:00-06:00",
    "venue": "The Union",
@@ -13688,6 +14075,7 @@
   {
    "id": "fb4dd2d1e4df",
    "title": "The Airborne Toxic Event",
+   "description": "A valid physical ID is required to attend any age restricted events and to consume alcohol. Accepted forms of identification include state-issued ID or Driver's License, valid non-expired US Government or US Military ID, or an official passport. The Depot has a very strict underage drinking policy that follows state law, and if you do not have acceptable ID that states your age at 21 or older, you will be considered the same as a minor and will not be able to purchase, consume or possess alcohol in the venue. Violators will be removed from the building without warnings and will not be eligible for a refund.",
    "category": "Music",
    "start": "2027-06-09T19:00:00-06:00",
    "venue": "The Depot",
@@ -13722,6 +14110,7 @@
   {
    "id": "ad71d53e56cf",
    "title": "Stick Figure - Enjoy the Ride Tour",
+   "description": "Presented by Kona Big Wave Resale tickets may exceed face value, and prices are NOT set by the artist team. RAIN OR SHINE EVENT Please note Lawn/Pit tickets are all general admission. The row and seat numbers listed are strictly for box office tracking. Support Acts are subject to change.",
    "category": "Music",
    "start": "2027-07-08T18:30:00-06:00",
    "venue": "Utah First Credit Union Amphitheatre",

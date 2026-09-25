@@ -1,0 +1,77 @@
+{
+  "at": "2026-09-25T19:43:35.985Z",
+  "report": {
+    "maverikcenter": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "deltacenter": {
+      "ok": true,
+      "raw": 12,
+      "kept": 12
+    },
+    "hct": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "utahsymphony": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "hoglezoo": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "utahutes": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "scera": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "byu-football": {
+      "ok": true,
+      "raw": 13,
+      "kept": 13
+    },
+    "lagoon": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "thanksgivingpoint": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "weberstate-football": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "seatgeek": {
+      "ok": true,
+      "raw": 435,
+      "kept": 401
+    },
+    "juab-is": {
+      "ok": false,
+      "error": "Unexpected token '<', \"<html><hea\"... is not valid JSON"
+    },
+    "hebertrain": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "boxelder-chamber": {
+      "ok": false,
+      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+    },
+    "davisarts": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.davisarts.org/upcoming-events/"
+    },
+    "ticketmaster": {
+      "ok": true,
+      "raw": 556,
+      "kept": 537
+    }
+  }
+}
