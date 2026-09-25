@@ -1,72 +1,122 @@
 {
-  "at": "2026-09-25T19:43:35.985Z",
+  "at": "2026-09-25T20:20:24.931Z",
+  "aiRefresh": false,
+  "events": 3588,
   "report": {
-    "maverikcenter": {
+    "visitsaltlake": {
       "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+      "error": "HTTP 403 for https://www.visitsaltlake.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%7B%22filter%22%3A%7B%22active%22%3Atrue%2C%22date_range%22%3A%7B%22start%22%3A%7B%22%24date%22%3A%222026-09-25T20%3A19%3A31.038Z%22%7D%2C%22end%22%3A%7B%22%24date%22%3A%222027-07-22T20%3A19%3A31.038Z%22%7D%7D%7D%2C%22options%22%3A%7B%22limit%22%3A100%2C%22skip%22%3A0%2C%22count%22%3Atrue%2C%22castDocs%22%3Afalse%2C%22fields%22%3A%7B%22_id%22%3A1%2C%22title%22%3A1%2C%22date%22%3A1%2C%22startDate%22%3A1%2C%22endDate%22%3A1%2C%22startTime%22%3A1%2C%22endTime%22%3A1%2C%22location%22%3A1%2C%22address1%22%3A1%2C%22city%22%3A1%2C%22url%22%3A1%2C%22latitude%22%3A1%2C%22longitude%22%3A1%2C%22categories%22%3A1%2C%22media_raw%22%3A1%2C%22admission%22%3A1%2C%22description%22%3A1%2C%22linkUrl%22%3A1%7D%2C%22sort%22%3A%7B%22date%22%3A1%2C%22rank%22%3A1%7D%7D%7D&token=8174ac046317bbd44a9ea52e90efab17"
     },
-    "deltacenter": {
-      "ok": true,
-      "raw": 12,
-      "kept": 12
-    },
-    "hct": {
+    "utahvalley": {
       "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "utahsymphony": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "hoglezoo": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "utahutes": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "scera": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "byu-football": {
-      "ok": true,
-      "raw": 13,
-      "kept": 13
-    },
-    "lagoon": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "thanksgivingpoint": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
-    },
-    "weberstate-football": {
-      "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+      "error": "HTTP 403 for https://www.utahvalley.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%7B%22filter%22%3A%7B%22active%22%3Atrue%2C%22date_range%22%3A%7B%22start%22%3A%7B%22%24date%22%3A%222026-09-25T20%3A19%3A31.117Z%22%7D%2C%22end%22%3A%7B%22%24date%22%3A%222027-07-22T20%3A19%3A31.117Z%22%7D%7D%7D%2C%22options%22%3A%7B%22limit%22%3A100%2C%22skip%22%3A0%2C%22count%22%3Atrue%2C%22castDocs%22%3Afalse%2C%22fields%22%3A%7B%22_id%22%3A1%2C%22title%22%3A1%2C%22date%22%3A1%2C%22startDate%22%3A1%2C%22endDate%22%3A1%2C%22startTime%22%3A1%2C%22endTime%22%3A1%2C%22location%22%3A1%2C%22address1%22%3A1%2C%22city%22%3A1%2C%22url%22%3A1%2C%22latitude%22%3A1%2C%22longitude%22%3A1%2C%22categories%22%3A1%2C%22media_raw%22%3A1%2C%22admission%22%3A1%2C%22description%22%3A1%2C%22linkUrl%22%3A1%7D%2C%22sort%22%3A%7B%22date%22%3A1%2C%22rank%22%3A1%7D%7D%7D&token=8174ac046317bbd44a9ea52e90efab17"
     },
     "seatgeek": {
       "ok": true,
       "raw": 435,
       "kept": 401
     },
-    "juab-is": {
+    "snowbasin": {
       "ok": false,
-      "error": "Unexpected token '<', \"<html><hea\"... is not valid JSON"
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "slc-library": {
+      "ok": false,
+      "error": "HTTP 404 for https://events.slcpl.org/eeventcaldata?event_type=0&req=%7B%22private%22%3Afalse%2C%22date%22%3A%222026-09-25%22%2C%22days%22%3A3%2C%22locations%22%3A%5B%5D%2C%22ages%22%3A%5B%5D%2C%22types%22%3A%5B%5D%7D"
+    },
+    "powdermountain": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "brighton": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "nordicvalley": {
+      "ok": true,
+      "raw": 105,
+      "kept": 0
+    },
+    "sundance": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "solitude": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "nhmu": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "deltacenter": {
+      "ok": true,
+      "raw": 12,
+      "kept": 12,
+      "note": "structured data (free)"
+    },
+    "hct": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "utahsymphony": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "hoglezoo": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "utahutes": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "maverikcenter": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.maverikcenter.com/events"
+    },
+    "slco-library": {
+      "ok": true,
+      "raw": 1466,
+      "kept": 1466
+    },
+    "scera": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "byu-football": {
+      "ok": true,
+      "raw": 13,
+      "kept": 13,
+      "note": "structured data (free)"
+    },
+    "thanksgivingpoint": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "weberstate-football": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "lagoon": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
     },
     "hebertrain": {
       "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+      "error": "no saved results yet (first refresh on Sunday)"
     },
     "boxelder-chamber": {
       "ok": false,
-      "error": "ANTHROPIC_API_KEY not set (needed for AI extraction)"
+      "error": "no saved results yet (first refresh on Sunday)"
     },
     "davisarts": {
       "ok": false,
       "error": "HTTP 403 for https://www.davisarts.org/upcoming-events/"
+    },
+    "juab-is": {
+      "ok": false,
+      "error": "HTTP 403 for https://juab.is/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-25"
     },
     "ticketmaster": {
       "ok": true,
