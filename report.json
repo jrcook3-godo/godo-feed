@@ -1,17 +1,15 @@
 {
-  "at": "2026-09-26T06:37:19.927Z",
+  "at": "2026-09-26T12:36:26.113Z",
   "aiRefresh": false,
   "events": 3749,
   "report": {
     "visitsaltlake": {
-      "ok": true,
-      "raw": 0,
-      "kept": 0
+      "ok": false,
+      "error": "HTTP 403 for https://www.visitsaltlake.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%"
     },
     "utahvalley": {
-      "ok": true,
-      "raw": 0,
-      "kept": 0
+      "ok": false,
+      "error": "HTTP 403 for https://www.utahvalley.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%"
     },
     "snowbasin": {
       "ok": false,
@@ -25,6 +23,11 @@
       "ok": true,
       "raw": 105,
       "kept": 105
+    },
+    "seatgeek": {
+      "ok": true,
+      "raw": 437,
+      "kept": 409
     },
     "brighton": {
       "ok": false,
@@ -48,16 +51,7 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "seatgeek": {
-      "ok": true,
-      "raw": 437,
-      "kept": 409
-    },
     "nhmu": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
-    "ogdennature": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
@@ -67,7 +61,19 @@
       "kept": 12,
       "note": "structured data (free)"
     },
+    "ogdennature": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
     "hct": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "utahsymphony": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "hoglezoo": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
@@ -75,7 +81,11 @@
       "ok": false,
       "error": "HTTP 403 for https://www.maverikcenter.com/events"
     },
-    "hoglezoo": {
+    "utahutes": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "scera": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
@@ -84,29 +94,17 @@
       "raw": 1479,
       "kept": 1479
     },
-    "utahutes": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
-    "utahsymphony": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
     "byu-football": {
       "ok": true,
       "raw": 13,
       "kept": 13,
       "note": "structured data (free)"
     },
-    "lagoon": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
     "thanksgivingpoint": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "scera": {
+    "lagoon": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
@@ -118,14 +116,9 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "juab-is": {
-      "ok": false,
-      "error": "HTTP 403 for https://juab.is/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-26"
-    },
     "visitparkcity": {
-      "ok": true,
-      "raw": 0,
-      "kept": 0
+      "ok": false,
+      "error": "HTTP 403 for https://www.visitparkcity.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%"
     },
     "davisarts": {
       "ok": false,
@@ -135,18 +128,22 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "boxelder-chamber": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
     "kimballart": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
+    "boxelder-chamber": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "juab-is": {
+      "ok": false,
+      "error": "HTTP 403 for https://juab.is/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-26"
+    },
     "ticketmaster": {
       "ok": true,
-      "raw": 550,
-      "kept": 535
+      "raw": 546,
+      "kept": 531
     }
   },
   "activities": {
@@ -164,7 +161,7 @@
   "images": {
     "stock": {
       "total": 342,
-      "downloaded": 342,
+      "downloaded": 0,
       "linked": 0,
       "failed": 162
     },
@@ -172,19 +169,19 @@
       "place": 128,
       "stock": 1024,
       "none": 0,
-      "pricesFromSites": 2,
-      "pagesLooked": 56,
+      "pricesFromSites": 0,
+      "pagesLooked": 0,
       "pagesPending": 0
     },
     "events": {
       "event": 1960,
-      "page": 35,
+      "page": 34,
       "venue": 10,
-      "stock": 1744,
+      "stock": 1745,
       "none": 0,
-      "pricesFromPages": 48,
+      "pricesFromPages": 59,
       "pagesLooked": 600,
-      "pagesPending": 3318
+      "pagesPending": 2718
     }
   }
 }
