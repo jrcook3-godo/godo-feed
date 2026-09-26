@@ -1,7 +1,7 @@
 {
   "name": "Go Do — live life",
   "short_name": "Go Do",
-  "description": "Everything happening around Utah's Wasatch Front, soonest first — plus friends, plans and chat.",
+  "description": "Everything happening across Utah, soonest first — plus friends, plans and chat.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
