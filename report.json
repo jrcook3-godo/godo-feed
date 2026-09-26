@@ -1,7 +1,7 @@
 {
-  "at": "2026-09-26T12:36:26.113Z",
+  "at": "2026-09-26T18:35:25.281Z",
   "aiRefresh": false,
-  "events": 3749,
+  "events": 3924,
   "report": {
     "visitsaltlake": {
       "ok": false,
@@ -19,19 +19,19 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "nordicvalley": {
-      "ok": true,
-      "raw": 105,
-      "kept": 105
-    },
     "seatgeek": {
       "ok": true,
-      "raw": 437,
-      "kept": 409
+      "raw": 375,
+      "kept": 375
     },
     "brighton": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "nordicvalley": {
+      "ok": true,
+      "raw": 105,
+      "kept": 105
     },
     "solitude": {
       "ok": false,
@@ -61,13 +61,17 @@
       "kept": 12,
       "note": "structured data (free)"
     },
-    "ogdennature": {
+    "maverikcenter": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
     "hct": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "ogdennature": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.ogdennaturecenter.org/events"
     },
     "utahsymphony": {
       "ok": false,
@@ -77,11 +81,16 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "maverikcenter": {
-      "ok": false,
-      "error": "HTTP 403 for https://www.maverikcenter.com/events"
-    },
     "utahutes": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "ticketmaster": {
+      "ok": true,
+      "raw": 580,
+      "kept": 580
+    },
+    "thanksgivingpoint": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
@@ -89,24 +98,15 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "slco-library": {
-      "ok": true,
-      "raw": 1479,
-      "kept": 1479
+    "lagoon": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
     },
     "byu-football": {
       "ok": true,
       "raw": 13,
       "kept": 13,
       "note": "structured data (free)"
-    },
-    "thanksgivingpoint": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
-    "lagoon": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
     },
     "weberstate-football": {
       "ok": false,
@@ -116,38 +116,266 @@
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
+    "juab-is": {
+      "ok": false,
+      "error": "Unexpected token '<', \"<html><hea\"... is not valid JSON"
+    },
+    "slco-library": {
+      "ok": true,
+      "raw": 1479,
+      "kept": 1479
+    },
     "visitparkcity": {
       "ok": false,
       "error": "HTTP 403 for https://www.visitparkcity.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%"
-    },
-    "davisarts": {
-      "ok": false,
-      "error": "HTTP 403 for https://www.davisarts.org/upcoming-events/"
-    },
-    "parkcityshows": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
-    },
-    "kimballart": {
-      "ok": false,
-      "error": "no saved results yet (first refresh on Sunday)"
     },
     "boxelder-chamber": {
       "ok": false,
       "error": "no saved results yet (first refresh on Sunday)"
     },
-    "juab-is": {
+    "parkcityshows": {
       "ok": false,
-      "error": "HTTP 403 for https://juab.is/wp-json/tribe/events/v1/events?per_page=50&start_date=2026-09-26"
+      "error": "no saved results yet (first refresh on Sunday)"
     },
-    "ticketmaster": {
-      "ok": true,
-      "raw": 546,
-      "kept": 531
+    "davisarts": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.davisarts.org/upcoming-events/"
+    },
+    "kimballart": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "byu-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://byucougars.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "utah-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://utahutes.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "uvu-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://gouvu.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "weber-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://weberstatesports.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "usu-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://utahstateaggies.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "suu-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://suutbirds.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "utahtech-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://utahtechtrailblazers.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "westminster-athletics": {
+      "ok": false,
+      "error": "HTTP 404 for https://westminstergriffins.com/calendar.ashx/calendar.ics?sport_id=0"
+    },
+    "uvu-events": {
+      "ok": false,
+      "error": "fetch failed"
+    },
+    "utah-events": {
+      "ok": false,
+      "error": "fetch failed"
+    },
+    "usu-events": {
+      "ok": false,
+      "error": "HTTP 404 for https://events.usu.edu/api/2/events?days=180&pp=100&page=1&distinct=true"
+    },
+    "weber-events": {
+      "ok": false,
+      "error": "fetch failed"
+    },
+    "greaterzion": {
+      "ok": false,
+      "error": "HTTP 403 for https://greaterzion.com/events/"
+    },
+    "suu-events": {
+      "ok": false,
+      "error": "fetch failed"
+    },
+    "visitutah": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.visitutah.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%"
+    },
+    "discovermoab": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "visitcedarcity": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.visitcedarcity.com/includes/rest_v2/plugins_events_events_by_date/find/?json=%"
+    },
+    "utahtech-events": {
+      "ok": false,
+      "error": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON"
+    },
+    "shakespeare": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "wiseguys": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "explorelogan": {
+      "ok": false,
+      "error": "HTTP 404 for https://www.explorelogan.com/plugins/core/get_simple_token/"
+    },
+    "comedybox": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "eventbrite-salt-lake-city": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--salt-lake-city/all-events/"
+    },
+    "tuacahn": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "eventbrite-provo": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--provo/all-events/"
+    },
+    "stgeorge-city": {
+      "ok": false,
+      "error": "HTTP 403 for https://www.sgcity.org/events"
+    },
+    "eventbrite-ogden": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--ogden/all-events/"
+    },
+    "eventbrite-sandy": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--sandy/all-events/"
+    },
+    "eventbrite-lehi": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--lehi/all-events/"
+    },
+    "eventbrite-layton": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--layton/all-events/"
+    },
+    "eventbrite-st-george": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--st-george/all-events/"
+    },
+    "eventbrite-logan": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--logan/all-events/"
+    },
+    "eventbrite-park-city": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--park-city/all-events/"
+    },
+    "eventbrite-cedar-city": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--cedar-city/all-events/"
+    },
+    "eventbrite-moab": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--moab/all-events/"
+    },
+    "eventbrite-heber-city": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--heber-city/all-events/"
+    },
+    "eventbrite-tooele": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--tooele/all-events/"
+    },
+    "eventbrite-vernal": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--vernal/all-events/"
+    },
+    "eventbrite-price": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--price/all-events/"
+    },
+    "eventbrite-richfield": {
+      "ok": false,
+      "error": "HTTP 405 for https://www.eventbrite.com/d/ut--richfield/all-events/"
+    },
+    "byu-club-lacrosse": {
+      "ok": false,
+      "error": "HTTP 403 for https://extramuralsports.byu.edu/lacrosse"
+    },
+    "byu-club-soccer": {
+      "ok": false,
+      "error": "HTTP 403 for https://extramuralsports.byu.edu/soccer"
+    },
+    "byu-club-womenslacrosse": {
+      "ok": false,
+      "error": "HTTP 403 for https://extramuralsports.byu.edu/womenslacrosse"
+    },
+    "byu-club-rugby": {
+      "ok": false,
+      "error": "HTTP 403 for https://extramuralsports.byu.edu/rugby"
+    },
+    "byu-club-womensrugby": {
+      "ok": false,
+      "error": "HTTP 403 for https://extramuralsports.byu.edu/womensrugby"
+    },
+    "mcla-utah": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "mcla-utah-tech": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "mcla-brigham-young": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "utah-hockey-m1": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "utah-hockey-m2": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "utah-hockey-w1": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "mcla-southern-utah-university": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "usu-hockey": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "improvbroadway": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "weber-hockey": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "mcla-utah-state": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
+    },
+    "mcla-utah-valley": {
+      "ok": false,
+      "error": "no saved results yet (first refresh on Sunday)"
     }
   },
   "activities": {
-    "count": 1152,
+    "count": 1153,
     "note": "reused last published list"
   },
   "restaurants": {
@@ -166,22 +394,22 @@
       "failed": 162
     },
     "activities": {
-      "place": 128,
+      "place": 129,
       "stock": 1024,
       "none": 0,
       "pricesFromSites": 0,
-      "pagesLooked": 0,
+      "pagesLooked": 1,
       "pagesPending": 0
     },
     "events": {
-      "event": 1960,
-      "page": 34,
+      "event": 2088,
+      "page": 35,
       "venue": 10,
-      "stock": 1745,
+      "stock": 1791,
       "none": 0,
-      "pricesFromPages": 59,
+      "pricesFromPages": 68,
       "pagesLooked": 600,
-      "pagesPending": 2718
+      "pagesPending": 2355
     }
   }
 }
