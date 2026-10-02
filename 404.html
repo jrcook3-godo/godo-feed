@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><script>(function(){var p=location.pathname;if(p==='/app'||p.indexOf('/app/')===0){location.replace((p.slice(4)||'/')+location.search+location.hash);}})();</script>
+    <meta charset="utf-8" />
+    <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Go Do</title>
+    <meta name="description" content="Everything happening across Utah, soonest first — plus friends, plans and chat." />
+    <meta name="theme-color" content="#1E4A78" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Go Do" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" href="/icons/favicon-64.png" />
+    <script>/* iPhone/iPad: don't zoom in when a text box is tapped (pinch-zoom still works there). */
+      if (/iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) {
+        var v = document.querySelector('meta[name=viewport]');
+        if (v) v.setAttribute('content', 'width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover');
+      }
+    </script>
+    <script>/* Opened from the iPhone Home Screen: iOS reports the page as shorter than the screen (by the height of the
+         clock/battery bar), which left an empty band under the bottom tabs. Size the app to the whole screen instead. */
+      if (navigator.standalone === true && /iPhone|iPod/.test(navigator.userAgent)) {
+        var fit = function () {
+          var land = window.matchMedia('(orientation: landscape)').matches;
+          var h = land ? Math.min(screen.width, screen.height) : Math.max(screen.width, screen.height);
+          // Never shrink below what the page reports; only fill the missing strip.
+          h = Math.max(h, window.innerHeight);
+          document.documentElement.style.setProperty('--app-height', h + 'px');
+        };
+        fit();
+        window.addEventListener('resize', fit);
+        window.addEventListener('orientationchange', function () { setTimeout(fit, 250); });
+        var st = document.createElement('style');
+        st.textContent = 'html,body,#root{height:var(--app-height,100%) !important;}';
+        document.head.appendChild(st);
+      }
+    </script>
+    <!-- The `react-native-web` recommended style reset: https://necolas.github.io/react-native-web/docs/setup/#root-element -->
+    <style id="expo-reset">
+      /* These styles make the body full-height */
+      html,
+      body {
+        height: 100%;
+      }
+      /* These styles disable body scrolling if you are using <ScrollView> */
+      body {
+        overflow: hidden;
+      }
+      /* These styles make the root element full-height */
+      #root {
+        display: flex;
+        height: 100%;
+        flex: 1;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Use static rendering with Expo Router to support running without JavaScript. -->
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <!-- The root element for your Expo app. -->
+    <div id="root"></div>
+  <script src="/_expo/static/js/web/entry-2d23fc880859bd119dc25a5c3d95029b.js" defer></script>
+</body>
+</html>

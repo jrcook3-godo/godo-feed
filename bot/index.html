@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GoDoBot · Go Do</title>
+<meta name="description" content="GoDoBot is how Go Do reads public event calendars across Utah. What it does, how it behaves, and how to reach us.">
+<style>
+  :root { --ink:#1f2933; --muted:#5f6b76; --navy:#1F4E7A; --bg:#ffffff; --line:#e3e7eb; --bar:#1F4E7A; --foot:#0F2C48; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --ink:#e8edf2; --muted:#a7b3bf; --navy:#8fb8e6; --bg:#0f1720; --line:#26313c; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  header { background:var(--bar); }
+  .bar { max-width:1320px; margin:0 auto; height:64px; display:flex; align-items:center; gap:4px; padding:0 16px; }
+  .bar img { height:36px; width:auto; display:block; }
+  .bar .sp { flex:1; }
+  .bar nav { display:flex; gap:4px; flex-wrap:wrap; }
+  .bar nav a { color:#fff; text-decoration:none; font-weight:600; font-size:15px; padding:8px 12px; border-radius:8px; }
+  .bar nav a:hover { background:rgba(255,255,255,.12); }
+  .bar nav a.btn { border:1px solid rgba(255,255,255,.55); }
+  @media (max-width:640px) { .bar { height:auto; padding:10px 12px; flex-wrap:wrap; } .bar nav a { font-size:14px; padding:6px 8px; } }
+  main { max-width:760px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { color:var(--navy); font-size:30px; line-height:1.2; margin:0 0 4px; }
+  h2 { color:var(--navy); font-size:20px; margin:32px 0 6px; }
+  h3 { font-size:16px; margin:18px 0 4px; }
+  .date { color:var(--muted); margin:0 0 20px; }
+  li { margin:4px 0; }
+  a { color:var(--navy); }
+  .caps { text-transform:uppercase; font-size:14px; }
+  footer { background:var(--foot); color:rgba(255,255,255,.72); text-align:center; padding:18px 16px; font-size:12px; }
+  footer a { color:#DCE6F2; font-weight:600; font-size:13px; text-decoration:none; margin:0 6px; }
+  footer p { margin:6px 0 0; }
+</style>
+</head>
+<body>
+<header><div class="bar">
+  <a href="/" aria-label="Go Do home"><img src="/brand/logo-white.png" alt="Go Do"></a>
+  <div class="sp"></div>
+  <nav><a href="/advertisers">Advertise</a><a href="/data-feed">Data Feed</a><a href="/ai-agents">AI Agents</a><a class="btn" href="/admin">Admin</a></nav>
+</div></header>
+<main>
+  <h1>GoDoBot</h1>
+  <p class="date">How Go Do reads public event calendars</p>
+  <p>Go Do lists everything to do in Utah in one free app, with a link back to the organizer for tickets and details. To keep it complete, a small program called <strong>GoDoBot</strong> reads public event calendars — venues, cities, libraries, parks, schools and organizers — a few times a day.</p>
+  <h2>How it behaves</h2>
+  <ul>
+    <li>It identifies itself honestly as <code>GoDoBot</code> with a link to this page.</li>
+    <li>It follows <code>robots.txt</code>. To keep GoDoBot out of all or part of your site, add a rule for <code>User-agent: GoDoBot</code> (or <code>*</code>).</li>
+    <li>It only reads public event listings, a few pages at a time, and no more than every few hours.</li>
+    <li>Each event on Go Do links back to your page, so people buy tickets and get details from you.</li>
+  </ul>
+  <h2>Want your events on Go Do — or corrected, or removed?</h2>
+  <p>The easiest way is to send them to us directly with a free <a href="/data-feed">Go Do data feed</a>, so they're always accurate. For anything else, use <a href="/report-problem">Contact Us</a> and we'll take care of it quickly.</p>
+  <p>Go Do, LLC · Utah, USA</p>
+</main>
+<footer>
+  <a href="/privacy.html">Privacy Policy</a> · <a href="/terms.html">Terms &amp; Conditions</a> · <a href="/report-problem">Contact Us</a>
+  <p>Copyright &copy; 2016&ndash;<span class="cy">2026</span> Go Do - Live Life. All Rights Reserved Worldwide.</p><script>document.querySelectorAll('.cy').forEach(function(e){e.textContent=new Date().getFullYear()})</script>
+</footer>
+</body>
+</html>

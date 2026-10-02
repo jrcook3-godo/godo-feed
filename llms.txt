@@ -1,0 +1,27 @@
+# Go Do
+
+> Go Do (go-do.live) is a free app and website that lists every event and activity in Utah — concerts, games, festivals, theater, family events, classes, community events and outdoor activities — in one feed, soonest first, and helps people make plans with friends. Operated by Go Do, LLC.
+
+## Key pages
+- [What is Go Do?](https://go-do.live/what-is-go-do/): what Go Do is, how it started, and its purpose
+- [Things to do in Utah this week](https://go-do.live/things-to-do/): upcoming events by day, city and category
+- [This weekend in Utah](https://go-do.live/things-to-do/this-weekend/) and [free things to do this week](https://go-do.live/things-to-do/free/)
+- [Activities in Utah](https://go-do.live/activities/): things to do any time (hikes, hot springs, museums, climbing gyms…) by kind (e.g. https://go-do.live/activities/hot-springs/) and by city (e.g. https://go-do.live/activities/in/provo/)
+- [How to install](https://go-do.live/how-to-install/): add Go Do to an iPhone or Android Home Screen
+- [Advertise](https://go-do.live/advertisers/), [Data feed for partners](https://go-do.live/data-feed/), [AI agents](https://go-do.live/ai-agents/)
+
+## Listing pages
+- Each event has a page at https://go-do.live/event/{id}/ with schema.org Event data
+- Each activity has a page at https://go-do.live/activity/{id}/ with schema.org place data (address, hours, cost)
+
+## For AI assistants
+- MCP server with "Sign in with Go Do" (OAuth): https://mcp.go-do.live/mcp
+- Public search without an account: https://mcp.go-do.live/mcp/public
+- OpenAPI: https://mcp.go-do.live/openapi.json
+
+## Using Go Do's listings
+- Assistants are welcome to search Go Do for a person who asked (the MCP server and pages above) and to link people to go-do.live.
+- Go Do's listings may not be bulk-downloaded, republished, resold or used to train AI models (Terms & Conditions, section 10).
+
+## Policies
+- [Privacy Policy](https://go-do.live/privacy.html) · [Terms & Conditions](https://go-do.live/terms.html)
