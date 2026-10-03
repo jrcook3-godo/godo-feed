@@ -1,0 +1,1356 @@
+{
+ "at": "2026-10-03T03:15:09.861Z",
+ "seconds": 189,
+ "stats": {
+  "read": 322,
+  "failed": 162,
+  "pages": 691,
+  "pending": 0
+ },
+ "sample": 500,
+ "before": {
+  "phone": 430,
+  "hours": 43,
+  "description": 10,
+  "price": 25
+ },
+ "after": {
+  "phone": 452,
+  "hours": 123,
+  "description": 224,
+  "price": 44
+ },
+ "errors": {
+  "HTTP # for ": 89,
+  "fetch failed": 60,
+  "too large (over 8 MB) at ": 1,
+  "robots.txt disallows ": 9,
+  "not a web page (application/pdf) at ": 1,
+  "The operation was aborted due to timeout": 2
+ },
+ "wiki": 75,
+ "examples": [
+  {
+   "name": "USA Gymnastics World",
+   "website": "http://www.momentumgym.co/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-801-298-2219",
+   "description": "Momentum Gymnastics is club for all ages and skill levels. Beginning to advanced gymnastics and Rhythmic Gymnastics. Parkour and ninja classes. Birthday parties"
+  },
+  {
+   "name": "Robert L. Stoddard Football Field;Snow College Football Field",
+   "website": "https://www.snow.edu/athletics/ac/index.html",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14352837039",
+   "hours": "Mo-Th 05:30-10:00",
+   "description": "The Snow College Horne Activity Center is open free to all Snow students with their student ID cards and to the open to the public for a small price. Fees, hour"
+  },
+  {
+   "name": "Cinemark Century 16",
+   "website": "https://www.cinemark.com/theatres/ut-salt-lake-city/century-16-salt-lake-and-xd-33rd-at-state",
+   "filled": [
+    "description",
+    "price"
+   ],
+   "phone": "+1-801-486-9652",
+   "description": "Find Cinemark Movie Theatres near you. Check showtimes for new movies, buy tickets online and enjoy cinematic movie experience at Cinemark!",
+   "price": 12.5
+  },
+  {
+   "name": "Squashworks",
+   "website": "http://Squashworks.org/",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+18013555800",
+   "hours": "Mo-Fr 06:00-21:00; Sa 09:00-18:00; Su 13:00-17:00"
+  },
+  {
+   "name": "Body 20",
+   "website": "https://www.body20.com/location/sandy",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 385-295-9108",
+   "hours": "Mo-Fr 08:00-12:00, 15:00-18:00; Sa 08:00-14:00; Su off",
+   "description": "Train smarter at the BODY20 Sandy studio. Our EMS training combines Electro Muscle Stimulation with trained EMS coaches to deliver efficient personal workouts i"
+  },
+  {
+   "name": "Daughters of Utah Pioneers Museum",
+   "website": "https://www.wasatchcountydup.org/Home/Museum",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 435-654-2868",
+   "hours": "Tu-Sa 13:00-16:00",
+   "description": "Daughters of the Utah Pioneers was organized solely for historical, educational, and public purposes and is completely non-political and non-sectarian. We are d"
+  },
+  {
+   "name": "Old Towne Gallery",
+   "website": "http://oldtownegallery.com/",
+   "filled": [
+    "phone"
+   ],
+   "phone": "4355035683"
+  },
+  {
+   "name": "Kamas City Park",
+   "website": "https://kamasaction.org/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+17028842011",
+   "description": "Community projects for Kamas Valley, Utah"
+  },
+  {
+   "name": "CorePower Yoga",
+   "website": "https://www.corepoweryoga.com/yoga-studios/utah/salt-lake-city/trolley-square",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+1-801-363-9642",
+   "hours": "Mo-Su 06:00-22:00",
+   "description": "CorePower Yoga - Trolley Square is a heated yoga and fitness studio in Salt Lake City, UT offering hot yoga, Yoga Sculpt, Power Vinyasa Flow, functional strengt"
+  },
+  {
+   "name": "EOS Fitness",
+   "website": "https://www.eosfitness.com/gym/salt-lake-city-s-700-e-500-s",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 801-850-9810",
+   "hours": "24/7",
+   "description": "EōS Fitness in Salt Lake City, Salt Lake City at 515 S 700 E is a place where you belong. From the serious athlete to the casual gym goer, our High Value. Low P",
+   "price": 9.99
+  },
+  {
+   "name": "VASA Fitness",
+   "website": "https://vasafitness.com/locations/ut/murray-van-winkle/?utm_medium=organic&utm_source=GMBlisting&utm_campaign=maps",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18012778668",
+   "hours": "Mo-Fr 05:00-00:00; Sa 05:00-22:00; Su 07:00-16:00",
+   "description": "Get your fitness journey started at our Murray, UT gym location just off of Van Winkle. We have all the tools you need to succeed including child care and perso",
+   "price": "$"
+  },
+  {
+   "name": "Gaia on Main",
+   "website": "http://www.topofmainbrewpub.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "4356490900",
+   "description": "Utah's original craft brewery since 1989. Award-winning beer, locally sourced pub food and cocktails across 7 locations in Salt Lake City and Park City.",
+   "price": "$$"
+  },
+  {
+   "name": "9 Line Bike Park",
+   "website": "https://www.slc.gov/parks/parks-division/9-line-bike-park/",
+   "filled": [
+    "phone"
+   ],
+   "phone": "8019727800"
+  },
+  {
+   "name": "Lodestone Park",
+   "website": "http://www.slco.org",
+   "filled": [
+    "description"
+   ],
+   "phone": "+13854687275",
+   "hours": "Mo-Su 06:00-22:00",
+   "description": "Salt Lake County Government provides many services to residents and businesses in the county."
+  },
+  {
+   "name": "Curves",
+   "website": "https://www.curves.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-801-796-6060",
+   "description": "Curves has helped millions of women around the world to get healthier and stronger. Visit your local Curves gym and meet with a Curves coach today!"
+  },
+  {
+   "name": "Davis Conference Center",
+   "website": "https://www.davisconferencecenter.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 801-416-8888",
+   "description": "Davis County is known as “Utah’s Amusement Capital” and an excellent spot for an all-inclusive day of fun for both travelers and Utah locals. Conveniently locat"
+  },
+  {
+   "name": "Riverside Walk Trailhead",
+   "website": "http://www.zionnational-park.com/zion-gateway-to-the-narrows.htm",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14357723256",
+   "description": "TOTO88JP adalah link resmi game penghasil uang terpercaya dengan layanan terbaik, akses cepat, bonus menarik, dan pengalaman bermain aman."
+  },
+  {
+   "name": "Bountiful Davis Art Center",
+   "website": "http://www.bdac.org/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18012953618",
+   "hours": "Fr 10:00-18:00; Sa 12:00-17:00",
+   "description": "The Bountiful Davis Art Center (BDAC) in Bountiful, Utah, enriches the community with diverse art exhibitions, educational programs, and events. Showcasing loca"
+  },
+  {
+   "name": "VASA Fitness",
+   "website": "https://vasafitness.com/locations/ut/st-george/?utm_medium=organic&utm_source=GMBlisting&utm_campaign=maps",
+   "filled": [
+    "hours",
+    "description",
+    "price"
+   ],
+   "phone": "+14356289201",
+   "hours": "Mo-Th 05:00-00:00; Fr,Sa 05:00-22:00; Su 08:00-16:00",
+   "description": "Looking for the best gyms St. George has to offer? VASA Fitness offers unbeatable memberships, premium amenities, group classes, and a welcoming community. Join",
+   "price": "$"
+  },
+  {
+   "name": "Prince Gallery",
+   "website": "https://www.princegallerylogan.com/",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+1-435-750-6089",
+   "hours": "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
+  },
+  {
+   "name": "Magna Copper Park",
+   "website": "http://www.slco.org/recreation/parks/magnaCopper/index.html",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18014835473",
+   "hours": "Mo-Fr 08:00-17:00",
+   "description": "Parks, trails, open space, community farming, reservations and rentals, picnic areas, and a yurt for residents and visitors to enjoy."
+  },
+  {
+   "name": "Luxe Beauty Day Spa & Aesthetics",
+   "website": "https://squareup.com/appointments/book/dde95c74-8615-4964-aa17-8aca60e29863/17TSA5RBF93B8/services",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18018988919",
+   "hours": "Mo-Fr 09:00-21:00; Sa 10:00-18:00",
+   "description": "Book appointments online with Luxe Beauty Day Spa, LLC in SALT LAKE CITY, UT. View services and real-time availability, and book securely with Square."
+  },
+  {
+   "name": "Tree of Life",
+   "website": "http://www.ksl.com/?nid=1284&sid=32619763",
+   "filled": [
+    "phone",
+    "description"
+   ],
+   "phone": "8013337422",
+   "description": "KSL is Utah's #1 source for news, sports, weather, and classifieds. Get the latest breaking news Utah cares about - today's news, current headlines, and more."
+  },
+  {
+   "name": "The RANDI",
+   "website": "https://meettherandi.com/?utm_source=googlelisting&utm_medium=organic",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18779084255",
+   "hours": "Mo-Fr 09:00-18:00; Sa,Su off",
+   "description": "The Randi is Salt Lake City's premier urban apartment community located in the heart of downtown featuring studio, one, two and three-bedroom apartments."
+  },
+  {
+   "name": "Rose Wagner Performing Arts Center",
+   "website": "https://www.saltlakecountyarts.org",
+   "filled": [
+    "description"
+   ],
+   "phone": "18013552787",
+   "description": "We are a Salt Lake County agency, dedicated to building deep and engaging connections and dialogue around the arts and culture in our community. For more than f"
+  },
+  {
+   "name": "Susan Swartz Studios",
+   "website": "http://www.susanswartz.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14356551201",
+   "hours": "Mo-Su 12:00-19:00",
+   "description": "Contemporary art gallery on Main Street in Park City, UT founded by acclaimed artist Susan Swartz.",
+   "price": "free"
+  },
+  {
+   "name": "Heber Valley Brewing Company",
+   "website": "https://www.hebervalleybrewing.com",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14353153816",
+   "hours": "Mo-Th 15:00-21:00; Fr,Sa 12:00-22:00; Su 12:00-18:00",
+   "description": "Heber Valley Brewing Company is the first craft brewery in Wasatch Count, UT. Our focus is on serving small batch, quality beer in a relaxed setting."
+  },
+  {
+   "name": "Oquirrh Park",
+   "website": "http://www.kopfc.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18019665555",
+   "description": "All non-member patrons entering the facility must pay admission fees unless they enter for an organized program."
+  },
+  {
+   "name": "Upgrade Labs Park City",
+   "website": "https://upgradelabs.com/park-city/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14352004757",
+   "hours": "Mo-Th 07:00-19:00; Fr 07:00-17:00; Sa 07:00-16:00; Su 09:00-16:00",
+   "description": "At Upgrade Labs Park City, we bring the most advanced biohacking technologies, typically reserved for professional athletes to your doorstep"
+  },
+  {
+   "name": "Village on the Parkway",
+   "website": "http://www.VillageParkway.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18012246005",
+   "hours": "Mo-Fr 10:00-18:00",
+   "description": "Student Housing Near Utah Valley University",
+   "price": "$"
+  },
+  {
+   "name": "Temple Quarry Amphitheater",
+   "website": "https://intermountainhealthcare.org/services/wellness-preventive-medicine/live-well/move-well/healthy-hikes/find-a-hike/temple-quarry-trail",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14356287863",
+   "description": "Our expert team helps people of all ages and abilities recover, perform, and thrive in sports and in life. With an integrated care model tailored to your goals,"
+  },
+  {
+   "name": "Talent Gyms",
+   "website": "http://talentgyms.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "4352612306",
+   "description": "Get a new domain name for your startup. Quick and professional service. Seamless domain transfers."
+  },
+  {
+   "name": "Squatters Pub Brewery Downtown SLC",
+   "website": "http://www.squatters.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18013632739",
+   "description": "Wasatch and Squatters became sister breweries in 2002 when they formed the Utah Brewers Cooperative and the rest is history! Become part of our story, stop by o"
+  },
+  {
+   "name": "PLUNJ Park City",
+   "website": "https://plunj.co",
+   "filled": [
+    "description"
+   ],
+   "phone": "(435) 346-1277",
+   "description": "Nordic-inspired contrast therapy studio combining sauna and cold plunge to help you feel better."
+  },
+  {
+   "name": "Latino Mall",
+   "website": "http://www.studiosrubi.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18013471378",
+   "description": "Wedding - Quinceañeras Preserve every precious moment of your special day with our professional service. My experience ensured that no detail goes unnoticed, ca"
+  },
+  {
+   "name": "Midway Social Hall",
+   "website": "https://www.midwaycityut.org",
+   "filled": [
+    "description"
+   ],
+   "phone": "14356543223",
+   "description": "Getting Here Please be aware that we are a small but growing community, therefore, the availability of transportation options such … Continue reading \"Direction"
+  },
+  {
+   "name": "Nora Eccles Harrison Museum of Art",
+   "website": "https://artmuseum.usu.edu/about/visit",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 435-797-0163",
+   "hours": "Tu-Th 10:00-17:00; Fr 10:00-19:00; Sa 10:00-15:00",
+   "description": "NEHMA is free and open to the public, including free parking available for visitors in stalls labeled \"Museum Visitor\" in the lot behind the Performance Hall. G",
+   "price": "free"
+  },
+  {
+   "name": "Peckleball Palace",
+   "website": "https://www.peckleballpalace.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14353273465",
+   "description": "Peckleball Palace - Indoor pickleball offering amazing surface to play on, great lighting, friendly staff, great pricing structure, privacy screens for fewer er"
+  },
+  {
+   "name": "Orangetheory Fitness",
+   "website": "https://www.orangetheory.com/en-us/locations/utah/salt-lake-city/1202-e-wilmington-avenue-suite-100",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-385-236-1122",
+   "hours": "Mo-Fr 05:00-20:00; Sa-Su 07:00-13:00",
+   "description": "Orangetheory Fitness delivers coach-led, full-body workouts that combine strength and heart rate–based cardio with real-time performance tracking. Our science-i"
+  },
+  {
+   "name": "Classic Fun Center",
+   "website": "https://www.classicfuncenterorem.com/",
+   "filled": [
+    "description",
+    "price"
+   ],
+   "phone": "+1 801-224-5016",
+   "hours": "Mo-We 12:00-21:00; Th-Sa 12:00-24:00",
+   "description": "Are you looking for Family Fun Center in Orem, Utah? Experience the best birthday party places at Classic Fun Center! Classic Skating offers deals on inflatable",
+   "price": 13
+  },
+  {
+   "name": "Windgate at Bountiful",
+   "website": "https://www.windgateut.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18012925565",
+   "hours": "Mo-Fr 09:00-17:00; Sa,Su 00:00-00:00",
+   "description": "Windgate at Bountiful offers bedroom apartments in West Bountiful, UT! Fantastic amenities + Great location & near . Click for more info!"
+  },
+  {
+   "name": "Cathedral Church of Saint Mark",
+   "website": "https://stmarksutah.org/",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+1 801-322-3400",
+   "hours": "Mo-Th 09:00-16:00; Fr off; Sa 17:00-18:00; Su 08:00-13:00"
+  },
+  {
+   "name": "Brigham City Library",
+   "website": "https://library.bcutah.gov/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 435-723-5850",
+   "hours": "Mo-Th 10:00-20:45; Fr-Sa 10:00-17:45; Fr[-1] off",
+   "description": "The Brigham City Carnegie Library, at 26 E. Forest St. in Brigham City in Box Elder County, Utah, dates from 1915. It was listed on the National Register of His"
+  },
+  {
+   "name": "Senior Citizen Center",
+   "website": "https://www.americanfork.gov/351/Senior-Center",
+   "filled": [
+    "phone",
+    "description"
+   ],
+   "phone": "8017633090",
+   "hours": "Mo-Fr 09:00-14:00",
+   "description": "Gather information about services offered throughout the community."
+  },
+  {
+   "name": "Hurricane City Pool",
+   "website": "https://www.hurricanerecreation.com/poolhours",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+14356350256",
+   "hours": "Tu-Th 19:00-20:00"
+  },
+  {
+   "name": "Kamas Main Street",
+   "website": "http://www.fs.usda.gov/recarea/uwcnf/recarea/?recid=9908",
+   "filled": [
+    "phone",
+    "description"
+   ],
+   "phone": "8019992103",
+   "description": "When fires start or there is an incident happening on the Uinta-Wasatch-Cache National Forest, the public information officers typically try to notify the publi"
+  },
+  {
+   "name": "Basalt Day Spa",
+   "website": "http://www.basaltdayspa.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18015322991",
+   "description": "Basalt Day Spa is a boutique wellness center and gift shop located in Salt Lake City, Utah specializing in skin care, facials, massage, body treatments and waxi"
+  },
+  {
+   "name": "Black Desert Golf Course",
+   "website": "https://blackdesertresort.com/golf/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "4352227830",
+   "hours": "Mo 06:00-18:00; Tu 08:00-16:00; We-Su 06:00-18:00",
+   "description": "Discover world-class golf in the heart of Southern Utah. Experience premier golf like never before at Black Desert Resort."
+  },
+  {
+   "name": "Club Pilates",
+   "website": "https://clubpilates.com/parkcity",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14358009904",
+   "description": "Club Pilates studios offer low-impact, full-body workouts with a variety of classes that challenge your mind as well as your body."
+  },
+  {
+   "name": "Brigham City Museum",
+   "website": "https://www.brighamcitymuseum.org/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14352261450",
+   "hours": "Tu-Fr 10:00-17:00; Sa 13:00-17:00",
+   "description": "Development 2026 Photography Competition Exhibition October 3rd- December 4th, 2026 Ant Flat Road by Mary Bybee See What's Next Upcoming Events & Exhibitions Br"
+  },
+  {
+   "name": "The Movement Training Day",
+   "website": "https://themovementtrainingday.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 801-747-9803",
+   "description": "Join The Movement Training Day for Hyrox training in West Jordan, Utah. Book classes and achieve your fitness goals!"
+  },
+  {
+   "name": "The Hardison",
+   "website": "https://www.liveathardisonapartments.com/?utm_source=facebook&utm_medium=social",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+13857154927",
+   "hours": "Mo-Fr 09:00-17:00; Sa 10:00-17:00; Su 00:00-00:00",
+   "description": "The Hardison is rising above the downtown streets of Salt Lake City, Utah. Here, doers, makers, and thought leaders come together to thrive in an ultra-urban, s"
+  },
+  {
+   "name": "The Dugout Baseball/Softball Training Facility",
+   "website": "https://thedugoututah.com/teams-and-tryouts/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18015609614",
+   "description": "Our STARS Teams AGE REQUIREMENT IS BASED ON HOW OLD THEY ARE APRIL 30: SEASONS RUN AUGUST-JULY. EXAMPLE FALL 2026 Teams are based on how old your player is Apri"
+  },
+  {
+   "name": "RedStone Theater",
+   "website": "https://www.redstonetheater.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14356447421",
+   "description": "Historic RedStone Theater in Kanab, Utah. Live concerts, film festivals, comedy, and community events in our beautifully restored 1930 venue. Tickets, events, a"
+  },
+  {
+   "name": "Joaquin Park",
+   "website": "http://www.provo.org",
+   "filled": [
+    "description"
+   ],
+   "phone": "(801) 852-6606",
+   "description": "The official website of Provo City, Utah. Find city services and information useful to residents, businesses, and visitors."
+  },
+  {
+   "name": "Personal Training Zone",
+   "website": "http://www.ptzfitness.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "18015565964",
+   "description": "Salt Lake City Utah Tai Chi and Qigong classes, personal training, and coaching taught by expert Scott White."
+  },
+  {
+   "name": "Once upon A Time In America Museum",
+   "website": "http://onceuponatimeinamericamuseum.com/",
+   "filled": [
+    "hours",
+    "description",
+    "price"
+   ],
+   "phone": "+14356913452",
+   "hours": "Tu 10:00-17:00; We-Sa 10:00-21:00",
+   "description": "A 40,000 sq ft immersive walk through American history, Hollywood, and the Wild West. Located in Kanab, Utah between Zion and Bryce Canyon.",
+   "price": "$"
+  },
+  {
+   "name": "Hells Revenge Trailhead",
+   "website": "https://utah.com/atv/hells-revenge",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14352592444",
+   "description": "This premier slickrock trail lies northeast of town between the Sand Flats Road and the river. There are steep climbs, descents and some edges that"
+  },
+  {
+   "name": "Salt Lake Game Show Experience",
+   "website": "http://www.saltlakegameshow.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+13853865330",
+   "description": "You've watched...now it's time to play. Compete in an immersive game show experience inspired by your favorite TV game shows!"
+  },
+  {
+   "name": "Eagle Mountain Farmers Market",
+   "website": "http://www.eaglemountainfarmersmarket.org/",
+   "filled": [
+    "description",
+    "price"
+   ],
+   "phone": "+18013497355",
+   "description": "The Eagle Mountain Farmer's Market runs Saturdays 9 a.m. – 1 p.m., June 6, 2026 through October 10, 2026, at Cory B. Wride Memorial Park. Farmers, food trucks, ",
+   "price": "free"
+  },
+  {
+   "name": "Rock Canyon Campground",
+   "website": "https://www.fs.usda.gov/recarea/uwcnf/recarea/?recid=9630",
+   "filled": [
+    "phone"
+   ],
+   "phone": "8019992103",
+   "hours": "May-Oct 00:00-24:00; Nov-Apr off",
+   "description": "Seven day stay limit. Check website for exact opening dates each season."
+  },
+  {
+   "name": "Midvale Main Street Theatre",
+   "website": "http://www.midvalearts.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+13853130278",
+   "description": "The Midvale Arts Council is a group of citizens who believe that the arts are vital to a community. They meet the second Saturday of the month at 10am, discussi"
+  },
+  {
+   "name": "Payson Lakes Campground",
+   "website": "https://www.fs.usda.gov/recarea/uwcnf/recarea/?recid=9844",
+   "filled": [
+    "phone",
+    "description"
+   ],
+   "phone": "8019992103",
+   "description": "When fires start or there is an incident happening on the Uinta-Wasatch-Cache National Forest, the public information officers typically try to notify the publi"
+  },
+  {
+   "name": "VASA Fitness",
+   "website": "https://vasafitness.com/locations/ut/saratoga-springs/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 801-766-8272",
+   "hours": "Mo-Fr 04:00-24:00; Sa 04:00-22:00; Su 07:00-16:00",
+   "description": "Join our Saratoga Springs, UT gym on Redwood Road. We've got all the gym amenities you could ever need and personal trainers to help you achieve your fitness go",
+   "price": "$"
+  },
+  {
+   "name": "Red Butte Garden Amphitheater",
+   "website": "https://www.redbuttegarden.org/concerts",
+   "filled": [
+    "description",
+    "price"
+   ],
+   "phone": "+18015850556",
+   "description": "Botanical garden, arboretum, and amphitheatre in Salt Lake City, Utah, operated by the University of Utah.",
+   "price": "free"
+  },
+  {
+   "name": "Anytime Fitness",
+   "website": "https://www.anytimefitness.com/gyms/1202/highland-ut-84003/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1 801-230-9119",
+   "hours": "24/7",
+   "description": "Visit your 24/7 gym in Highland, UT 84003. Enjoy a variety of equipment, personalized plans, and supportive community to reach your fitness goals. Join today!"
+  },
+  {
+   "name": "Hopebox Theatre",
+   "website": "https://www.hopeboxtheatre.com/tickets",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+18014515259",
+   "hours": "Tu 18:00-20:00; Th 10:00-12:00"
+  },
+  {
+   "name": "Easton Salt Lake Archery Center",
+   "website": "https://www.eastonsaltlakearcherycenter.org/",
+   "filled": [
+    "hours",
+    "description",
+    "price"
+   ],
+   "phone": "+18015235232",
+   "hours": "Mo off; Tu-Fr 11:00-20:00; Sa 09:00-18:00; Su off",
+   "description": "Try archery! Easton Archery Center Salt Lake City offers both indoor & outdoor ranges where all skill levels are welcome; from beginners to Olympic level athlet",
+   "price": 6
+  },
+  {
+   "name": "\"Down the Street\" food truck park",
+   "website": "https://downthestreetfoodtrucks.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14352004330",
+   "hours": "Mo-Sa 10:00-22:00; Su 00:00-00:00",
+   "description": "Find the best food and drink options in town at Down the Street Food Trucks. From tasty churros to savory tacos, we have something for everyone."
+  },
+  {
+   "name": "Toquerville Falls",
+   "website": "http://www.hikestgeorge.com/toquerville-falls-toquerville-utah/",
+   "filled": [
+    "phone"
+   ],
+   "phone": "8013910153"
+  },
+  {
+   "name": "Homestead Golf Club",
+   "website": "https://www.homesteadresort.com/golf",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+1-435-657-3848; +1-888-327-7220; +1-800-327-7220",
+   "hours": "Mo-Su 00:00-23:59",
+   "description": "18 hole Par 72",
+   "price": "$$$"
+  },
+  {
+   "name": "9th East Lofts",
+   "website": "https://www.9theastlofts.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18019068729",
+   "hours": "Mo-Fr 09:00-17:00; Sa,Su off",
+   "description": "Welcome to 9th East Lofts, where comfort and convenience enhance your modern lifestyle. Our Salt Lake City, UT, apartments feature everything you need to live a",
+   "price": 0
+  },
+  {
+   "name": "Clark Planetarium",
+   "website": "http://www.clarkplanetarium.org",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-385-468-7827",
+   "hours": "Su-Th 10:00-19:00; Fr-Sa 10:00-22:45",
+   "description": "Clark Planetarium offers free interactive exhibits, plus educational shows in the IMAX and dome theatres. Learn about science, planet Earth and the ever-expansi",
+   "price": "free"
+  },
+  {
+   "name": "Weber County Library Southwest Branch",
+   "website": "https://www.weberpl.lib.ut.us/locations-and-hours/southwest-branch",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+1 801-337-2671",
+   "hours": "Mo-Th 10:00-21:00; Fr,Sa 10:00-18:00; Su 13:00-17:00"
+  },
+  {
+   "name": "North Canyon Trailhead",
+   "website": "https://www.fs.usda.gov/recarea/uwcnf/recreation/recarea/?recid=9542&actid=50",
+   "filled": [
+    "phone",
+    "description"
+   ],
+   "phone": "8019992103",
+   "description": "When fires start or there is an incident happening on the Uinta-Wasatch-Cache National Forest, the public information officers typically try to notify the publi",
+   "price": "free"
+  },
+  {
+   "name": "Cherry Hill Campground",
+   "website": "https://cherry-hill.com/stay/camping",
+   "filled": [
+    "description",
+    "price"
+   ],
+   "phone": "+1-801-451-5379",
+   "description": "With 180 campsites, Cherry Hill camping can acommodate tents and all RV’s up to 40 feet. Plan your group outing or family getaway today!",
+   "price": "free"
+  },
+  {
+   "name": "Crandall's Fruit Farm",
+   "website": "https://www.crandallsfruitfarm.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-801-225-3722",
+   "description": "Crandall's Fruit Farm and Greenhouse has been a locally owned and opperated farm since 1887. Our family is passionate about providing quality farm fresh fruit t"
+  },
+  {
+   "name": "Floating Lotus Sanctuary",
+   "website": "http://flolosanctuary.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18018198763",
+   "hours": "Mo off; Tu-Fr 18:00-22:00; Sa 10:00-20:00; Su 10:00-16:00",
+   "description": "Specializing in floatation therapy, we house 3 of the newest sensory deprivation floatation tanks at our i-float sensations Bountiful float center. Each isolati"
+  },
+  {
+   "name": "Millcreek Common",
+   "website": "https://millcreekcommon.org/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+18012142700",
+   "hours": "Mo-Th 11:00-21:00; Fr,Sa 11:00-22:00; Su 11:00-21:00",
+   "description": "Ice Skating, Roller Skating, Events & More!"
+  },
+  {
+   "name": "Take A Break Spas and Billiards",
+   "website": "http://www.takeabreakspas.com/",
+   "filled": [
+    "description",
+    "price"
+   ],
+   "phone": "+18014896005",
+   "description": "As Utah's award-winning hot tub dealer, Take A Break Spas & Billiards offers top-quality hot tubs for sale with the best brands and affordable service.",
+   "price": "$$"
+  },
+  {
+   "name": "Promontory Equistrian Center",
+   "website": "https://www.promontoryclub.com/equestrian-center",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14353334573",
+   "description": "Promontory Club is a premier private residential community in Park City, Utah, offering world-class golf, skiing, luxurious amenities, and a serene utah mountai"
+  },
+  {
+   "name": "Atrium Weddings and Events",
+   "website": "http://atriumweddings.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "8016649369",
+   "description": "BONANZA99 hadir sebagai situs slot88 gacor hari ini dengan akses ringan, tampilan modern, pilihan game seru, promo harian, dan pengalaman main yang siap bikin p"
+  },
+  {
+   "name": "Olympus Gymnastics",
+   "website": "http://olympusgymnastics.org/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18014460279",
+   "description": "Olympus is a family owned and operated business. Our goal is provide a structured and fun environment in gymnastics where safety is our main priority!"
+  },
+  {
+   "name": "Inner Glow Massage & Spa",
+   "website": "http://www.innerglowmassageandspa.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "(801) 309-8422",
+   "description": "Gentle, hot stone massage and nervous system regulation will calm your frazzled nerves. Soothing, hydrating skincare facials to reduce inflammation and get you "
+  },
+  {
+   "name": "Kid's Place Indoor Playground",
+   "website": "http://www.universityplaceorem.com/",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+18012240694",
+   "hours": "Mo-Fr 09:00-17:00; Su 12:00-18:00"
+  },
+  {
+   "name": "Mrm Salt Lake City",
+   "website": "https://mrm-mccann.com/en",
+   "filled": [
+    "description"
+   ],
+   "phone": "18012577700",
+   "description": "We are MRM. We connect tech, data, creative, and strategy to build enduring relationships that foster long-term growth. And we can help you do it too."
+  },
+  {
+   "name": "Burn Boot Camp",
+   "website": "https://locations.burnbootcamp.com/locations/bountiful-ut/?utm_source=facebook&utm_medium=listings",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+13853249080",
+   "hours": "Mo-Fr 05:30-18:45; Sa 07:30-10:30",
+   "description": "Stop into your local Burn Boot Camp gym in Bountiful, UT. Visit us for HIIT workouts, nutritional guidance, free gym childcare, and a supportive community."
+  },
+  {
+   "name": "Garden City Library",
+   "website": "http://www.gardencityutlibrary.gov/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14359462950",
+   "hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+   "description": "Discover the Garden City Library in Utah - your community hub for books, programs, and resources for all ages!"
+  },
+  {
+   "name": "HOTWORX",
+   "website": "https://www.hotworx.net/studio/westjordan-redwood",
+   "filled": [
+    "hours",
+    "description",
+    "price"
+   ],
+   "phone": "+18019963124",
+   "hours": "Mo-Su 00:00-23:59",
+   "description": "HOTWORX - West Jordan (Redwood), UT is a 24-hour infrared fitness studio &amp; gym. Experience Hot Yoga, Pilates, Barre, Cycle, HIIT workouts &amp; more. Get yo",
+   "price": "$$"
+  },
+  {
+   "name": "Avenues Day Spa",
+   "website": "http://www.avenuesdayspa.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "(801) 519-8181",
+   "description": "乐鱼网页版登录入口,乐鱼页面在线登录,官方平台客服24小时在线为您服务!【综合体育、官方网站、娱乐平台、首页注册、最新官网、官网入口、APP下载链接、手机全站客户端、游戏网址中心、手机网页版登录等】乐鱼网页版登录页面以简洁明了的方式展示网站的主要内容和服务信息，帮助用户在较短时间内完成页面识别和功能了解。通过乐鱼网页版"
+  },
+  {
+   "name": "VASA Fitness",
+   "website": "https://vasafitness.com/locations/ut/lehi/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-801-939-3452",
+   "hours": "Mo-Fr 04:00-24:00; Sa 04:00-22:00; Su 07:00-16:00",
+   "description": "Set yourself up for fitness success at our Lehi, UT gym location. When you sign up for a gym membership you'll have access to the equipment you need to succeed.",
+   "price": "$"
+  },
+  {
+   "name": "Cherry Hill Miniature Golf Course",
+   "website": "http://www.cherry-hill.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18014515379",
+   "description": "Cherry Hill in Kaysville, UT has been delighting families for 50 years with our Water Park, Family Fun Center and Shady Campsites.Plan your visit today!"
+  },
+  {
+   "name": "Timpanogos Cave National Monument",
+   "website": "https://www.nps.gov/tica/index.htm",
+   "filled": [
+    "phone"
+   ],
+   "phone": "8017565239"
+  },
+  {
+   "name": "Hand and Stone Massage and Facial Spa",
+   "website": "https://handandstone.com/locations/bountiful/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+13855254167",
+   "hours": "Mo-Fr 09:00-22:00; Sa 08:00-20:00; Su 10:00-18:00",
+   "description": "Book hot stone massage in Bountiful, UT at Hand & Stone. Personalized massage therapy helps ease stress, muscle tension, and everyday fatigue."
+  },
+  {
+   "name": "Copper Chase Condominiums",
+   "website": "http://copperchase.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14352001934",
+   "description": "Disclaimer: This website is not associated with the Copper Chase Homeowners Association. Copper Chase HOA does not engage in Condominium Rentals. Each individua"
+  },
+  {
+   "name": "Wild Rose Trailhead",
+   "website": "http://nslcity.org",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18013358721",
+   "description": "View contact information for the City of North Salt Lake.",
+   "price": "free"
+  },
+  {
+   "name": "Amplified Fitness",
+   "website": "https://amplifiedfitness.net",
+   "filled": [
+    "description"
+   ],
+   "phone": "18016662715",
+   "description": "personal trainer sandy utah South Jordan, Draper, Midvale, West jordan, weight loss, nutrition,"
+  },
+  {
+   "name": "Centennial Park",
+   "website": "http://www.centennialmd.org",
+   "filled": [
+    "description"
+   ],
+   "description": "Pemudatogel - menyediakan daftar pemudatogel serta link resmi pemudatogel terpercaya hanya disini."
+  },
+  {
+   "name": "Pop City Utah",
+   "website": "http://popcityutah.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+13855572902",
+   "description": "Pop City Utah sells Funko's unique pop culture collectibles, accessories, and toys."
+  },
+  {
+   "name": "Perspire Sauna Studio",
+   "website": "https://www.perspiresaunastudio.com/ut/draper/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+13852904157",
+   "description": "Sauna Draper - book a private session at Perspire Sauna Studio and enjoy Full Spectrum Infrared with red light therapy for better wellbeing"
+  },
+  {
+   "name": "BTG Wine Bar",
+   "website": "http://www.btgwinebar.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18013592814",
+   "description": "BTG Wine Bar in Salt Lake City, Utah, offers wine, beer, craft cocktails, and event space in downtown Salt Lake City."
+  },
+  {
+   "name": "Classic Fun Center",
+   "website": "https://www.classicfuncenter.com/",
+   "filled": [
+    "price"
+   ],
+   "phone": "+1 801-561-1791",
+   "hours": "Mo,Th 10:00-23:00; Tu 10:00-21:00; We,Fr 10:00-00:00; Sa 12:00-00:00",
+   "price": 9.95
+  },
+  {
+   "name": "Bear Lake State Park",
+   "website": "https://stateparks.utah.gov/parks/bear-lake/",
+   "filled": [
+    "phone",
+    "description"
+   ],
+   "phone": "4359463343",
+   "description": "Bear Lake State Park is a state park of Utah, United States, along the shore of Bear Lake on the Idaho border. It offers three recreation areas: Rendezvous Beac"
+  },
+  {
+   "name": "Provo Recreation Center",
+   "website": "https://www.provo.gov/492/Recreation-Center",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18018526600",
+   "hours": "Mo-Sa 05:00-22:00",
+   "description": "Experience the Provo Recreation Center with indoor pools, fitness areas, sports courts, and family activities. Enjoy amenities for all ages in a state-of-the-ar"
+  },
+  {
+   "name": "Fitbliss Fitness",
+   "website": "http://fitblissfitness.com",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "hours": "Mo-Fr 09:00-17:00",
+   "description": "Online personal training and nutrition coaching for women. Work with expert fitness trainers and health coaches, wherever you are."
+  },
+  {
+   "name": "Day-Riverside Library",
+   "website": "https://about.slcpl.org/day-riverside",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-801-594-8632",
+   "hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-18:00",
+   "description": "The City Library is committed to advancing knowledge, fostering creativity, encouraging the exchange of ideas, building community, and enhancing the quality of "
+  },
+  {
+   "name": "Unite Fitness Retreat",
+   "website": "http://www.unitefitnessretreat.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18448648388",
+   "description": "All-inclusive weight loss and fitness retreat for adults in Salt Lake City. 5:1 staff ratio, chef-prepared meals, from $2,400. 45% of guests come back"
+  },
+  {
+   "name": "Zionzen Massage & Skincare",
+   "website": "https://www.zionzenmassage.com",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "14356322851",
+   "hours": "Mo-Su 09:00-17:00",
+   "description": "Boutique massage, facials, couples experiences, and restorative bodywork near Zion National Park.",
+   "price": "$$"
+  },
+  {
+   "name": "RC Arena",
+   "website": "http://rc-arena.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18014770447",
+   "description": "We’re Back! RC Arena is partnering with Canyon Hobbies RC Arena is excited to announce a new partnership with Canyon Hobbies!Come drive RC Crawlers, Soccer cars"
+  },
+  {
+   "name": "Crossfit Dixie",
+   "website": "http://www.crossfitdixie.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14353134376",
+   "description": "Since 2009 CrossFit Dixie has been helping people in St. George live a stronger and healthier lifestyle. Come see why Best of Southern Utah has named us the #1 "
+  },
+  {
+   "name": "Crossfit",
+   "website": "https://www.crossfit.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "(435) 828-2997",
+   "description": "CrossFit offers a results-based, community-driven approach that helps you build fitness and improve your health. Learn more about CrossFit here!"
+  },
+  {
+   "name": "Hotworx",
+   "website": "https://www.hotworx.net/studio/saltlakecity-sugarhouse",
+   "filled": [
+    "description"
+   ],
+   "phone": "+1-385-420-9679",
+   "hours": "Mo-Th 11:00-20:00; Fr 09:00-18:00; Sa 11:00-16:00",
+   "description": "HOTWORX - Salt Lake City, UT is a 24-hour infrared fitness studio &amp; gym. Experience Hot Yoga, Pilates, Barre, Cycle, HIIT workouts &amp; more. Get your 1st ",
+   "price": "$$"
+  },
+  {
+   "name": "Bull Hollow Raceway",
+   "website": "http://Bullhollow.com/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+14354591370",
+   "description": "Shop a wide selection of domains at HugeDomains.com. Find the right domain name today."
+  },
+  {
+   "name": "Color Me Mine",
+   "website": "https://logan.colormemine.com/",
+   "filled": [
+    "hours",
+    "description",
+    "price"
+   ],
+   "phone": "4358908505",
+   "hours": "Mo-Th 11:00-20:00; Fr,Sa 11:00-21:00; Su off",
+   "description": "Color Me Mine Logan - Utah • Ceramics, Classes, Parties, Painting, and More!",
+   "price": 5
+  },
+  {
+   "name": "Utah Museum of Fine Arts",
+   "website": "https://umfa.utah.edu/",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18015817332",
+   "hours": "Mo off; Tu 10:00-17:00; We 10:00-20:00; Th-Su 10:00-17:00",
+   "description": "Inspiring Critical Dialogue and Illuminating the Role of Art in Our Lives. The UMFA is about more than objects—it’s about helping you connect in meaningful ways"
+  },
+  {
+   "name": "Mill Hollow",
+   "website": "http://www.amcapartments.com",
+   "filled": [
+    "description"
+   ],
+   "phone": "+18012966094",
+   "description": "National leaders in multifamily property management, delivering exceptional operations, optimized financial performance, and elevated resident living."
+  },
+  {
+   "name": "Tee Box",
+   "website": "https://tbx.golf/morgan",
+   "filled": [
+    "hours",
+    "description",
+    "price"
+   ],
+   "phone": "8013329146",
+   "hours": "Mo-Su 00:00-23:59",
+   "description": "Experience the best indoor virtual golf simulators in Morgan, UT. Perfect for play, practice, and events!",
+   "price": "$$"
+  },
+  {
+   "name": "Soulstice Studios",
+   "website": "https://soulsticestudiosut.com",
+   "filled": [
+    "description"
+   ],
+   "description": "BAKSO108 Property Group hadir sebagai solusi terbaik untuk Anda yang mencari rumah strategis, nyaman, dan berkualitas tinggi dengan harga yang kompetitif."
+  },
+  {
+   "name": "Dinoland Bowl, Inc",
+   "website": "http://dinolandbowl.com/",
+   "filled": [
+    "hours"
+   ],
+   "phone": "+14357897467",
+   "hours": "Mo-Th 12:00-22:00; Fr 11:00-00:00; Sa 10:00-00:00; Su off"
+  },
+  {
+   "name": "La Vida",
+   "website": "https://lavidaapts.com/",
+   "filled": [
+    "hours",
+    "description"
+   ],
+   "phone": "+14359222030",
+   "hours": "We 10:00-18:00; Fr 09:00-18:00; Sa 10:00-17:00; Su off",
+   "description": "Find apartments for rent at La Vida at Sienna Hills Washington, UT 84780 - You will find your new home today! La Vida at Sienna Hills offers convenient apartmen"
+  }
+ ],
+ "wikiExamples": [
+  [
+   "Q14711448",
+   {
+    "at": 1790997295005,
+    "title": "Benson Grist Mill",
+    "text": "Benson Grist Mill is a restoration-replica museum located in Tooele County, Utah in the western United States, which allows visitors to see the inner workings of a latter-nineteenth-century pioneer gristmill. It has four other historic (nineteenth-century) buildings which have been moved onto the site, as well as four ancillary structures, including an open-air pavilion."
+   }
+  ],
+  [
+   "Q5178923",
+   {
+    "at": 1790997295005,
+    "title": "Cove Fort",
+    "text": "Cove Fort is a fort, unincorporated community, and historical site located in Millard County, Utah. It was founded in 1867 by Ira Hinckley at the request of Brigham Young. One of its distinctive features is the use of volcanic rock in the construction of the walls, rather than the wood used in many mid-19th-century western forts."
+   }
+  ],
+  [
+   "Q6818523",
+   {
+    "at": 1790997295005,
+    "title": "Mercur, Utah",
+    "text": "Mercur is a historical hard rock mining ghost town in Tooele County, Utah, United States. In 1891, it became the site of the first successful use of the cyanide process of gold extraction in the United States, the dominant metallurgy today. Its elevation above sea level is approximately 2,042 m."
+   }
+  ],
+  [
+   "Q7824771",
+   {
+    "at": 1790997295005,
+    "title": "Topaz War Relocation Center",
+    "text": "The Topaz War Relocation Center, also known as the Central Utah Relocation Center (Topaz) and briefly as the Abraham Relocation Center, was an American concentration camp in which Americans of Japanese descent and immigrants who had come to the United States from Japan, called Nikkei were incarcerated."
+   }
+  ],
+  [
+   "Q14711892",
+   {
+    "at": 1790997295005,
+    "title": "Tooele Valley Railroad Complex",
+    "text": "The Tooele Valley Railroad Complex, 35 N. Broadway in Tooele, Utah, dates from 1909. It was listed on the National Register of Historic Places in 1984. The complex is currently operated as the Tooele Valley Museum and Historic Park (formerly Tooele Valley Railroad Museum and prior to that as the Tooele County Museum)."
+   }
+  ],
+  [
+   "Q691587",
+   {
+    "at": 1790997295005,
+    "title": "Utah Motorsports Campus",
+    "text": "The Utah Motorsports Campus, officially known as West Desert Motorsports Park, is a race track facility located in Grantsville near Tooele, Utah, United States. It operated under the name of Burt Brothers Motorpark from between March 2025 and January 2026."
+   }
+  ],
+  [
+   "Q541856",
+   {
+    "at": 1790997295005,
+    "title": "Canyonlands National Park",
+    "text": "Canyonlands National Park is a national park of the United States located in southeastern Utah near the town of Moab. The park preserves a colorful landscape eroded into numerous canyons, mesas, and buttes by the Colorado River, the Green River, and their respective tributaries. Legislation creating the park was signed into law by President Lyndon B. Johnson on September 12, 1964."
+   }
+  ],
+  [
+   "Q129902",
+   {
+    "at": 1790997295005,
+    "title": "Capitol Reef National Park",
+    "text": "Capitol Reef National Park is a national park of the United States in south-central Utah. The park is approximately 60 miles (100 km) long on its north–south axis and just 6 miles (10 km) wide on its east-west axis, on average."
+   }
+  ],
+  [
+   "Q5056815",
+   {
+    "at": 1790997295005,
+    "title": "Cedar Mountain Wilderness",
+    "text": "The Cedar Mountain Wilderness is located in northwestern Utah, United States, just south of Interstate 80. The vegetation on the upper elevations of the Cedar Mountains is dominated by junipers (referred to as \"cedars\" by early pioneers). The foothill and valley regions include mixed desert shrubs."
+   }
+  ],
+  [
+   "Q5263873",
+   {
+    "at": 1790997295005,
+    "title": "Deseret Peak Wilderness",
+    "text": "The Deseret Peak Wilderness is located in the Stansbury Mountains of Tooele County, Utah, United States near the towns of Tooele and Grantsville, not far from the Great Salt Lake. It is part of the Wasatch-Cache (of late the Uinta-Wasatch-Cache) National Forest. This semi-arid wilderness is part of the Great Basin ecosystem."
+   }
+  ],
+  [
+   "Q2642417",
+   {
+    "at": 1790997295005,
+    "title": "Fishlake National Forest",
+    "text": "Fishlake National Forest is a U.S. national forest located in south central Utah. The namesake for the forest is Fish Lake, the largest freshwater mountain lake in the state."
+   }
+  ],
+  [
+   "Q1373278",
+   {
+    "at": 1790997295005,
+    "title": "Glen Canyon National Recreation Area",
+    "text": "Glen Canyon National Recreation Area (shortened to Glen Canyon NRA or GCNRA) is a national recreation area and conservation unit of the United States National Park Service that encompasses the area around Lake Powell and lower Cataract Canyon in Utah and Arizona, covering 1,254,429 acres (5,076.49 km2) of mostly rugged high desert terrain."
+   }
+  ],
+  [
+   "Q6465062",
+   {
+    "at": 1790997295005,
+    "title": "La Sal National Forest",
+    "text": "La Sal National Forest was established as the La Sal Forest Reserve by the U.S. Forest Service in Utah and Colorado on January 25, 1906, with 158,462 acres (641.27 km2), mostly in Utah. It became a National Forest on March 4, 1907. On July 1, 1908, it was combined with Monticello National Forest and renamed La Salle National Forest."
+   }
+  ],
+  [
+   "Q6752084",
+   {
+    "at": 1790997295005,
+    "title": "Manti National Forest",
+    "text": "Manti National Forest was established as the Manti Forest Reserve by the United States General Land Office in Colorado and Utah on May 29, 1903 with 584,640 acres (2,366.0 km2). After the transfer of federal forests to the U.S. Forest Service in 1905, it became a National Forest on March 4, 1907. On July 1, 1915 Nebo National Forest was added."
+   }
+  ],
+  [
+   "Q7127586",
+   {
+    "at": 1790997295005,
+    "title": "Palisade State Park",
+    "text": "Palisade State Park is a state park of Utah, United States, located just outside the small town of Sterling. The park offers tent, RV, and cabin camping, along with fishing, swimming, non-motorized (and electric motor) boating, golfing, and hiking. Off highway vehicle trails are also accessible from the park."
+   }
+  ]
+ ]
+}
