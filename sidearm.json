@@ -1,7 +1,7 @@
 {
  "https://weberstatesports.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; Disallow: /site/ ; Disallow: /hidden/ ; Disallow: /tags/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
-  "home": "551263b",
+  "home": "551262b",
   "sports": [
    "mens-basketball",
    "mens-cross-country",
@@ -47,14 +47,14 @@
    "sample": ""
   },
   "textPage": {
-   "bytes": 106162,
+   "bytes": 106164,
    "games": 13,
    "sample": " Weber State University Athletics {\"imports\":{\"#entry\":\"/_nuxt/DGEagGYl.js\"}} window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement(\"iframe\");t.style.cssText=\"display:none\",t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFr"
   }
  },
  "https://utahutes.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; Disallow: /site/ ; Disallow: /hidden/ ; Disallow: /tags/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
-  "home": "900085b",
+  "home": "900088b",
   "sports": [
    "baseball",
    "mens-basketball",
@@ -95,43 +95,47 @@
    "sample": ""
   },
   "textPage": {
-   "bytes": 316588,
+   "bytes": 316589,
    "games": 14,
    "sample": " University of Utah Athletics {\"imports\":{\"#entry\":\"/_nuxt/C1Xpnv6F.js\"}} window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement(\"iframe\");t.style.cssText=\"display:none\",t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,"
   }
  },
- "https://gouvu.com": {
+ "https://utahtechtrailblazers.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
-  "home": "HTTP 404 for https://gouvu.com/",
+  "home": "HTTP 404 for https://utahtechtrailblazers.com/",
   "sports": [
    "baseball",
    "mens-basketball",
-   "cross-country",
+   "mens-cross-country",
+   "football",
    "mens-golf",
    "mens-soccer",
-   "track-and-field",
-   "wrestling",
+   "mens-track-field",
    "womens-basketball",
+   "womens-cross-country",
    "womens-golf",
    "womens-soccer",
    "softball",
+   "womens-swimming-and-diving",
+   "womens-tennis",
+   "womens-track-and-field",
    "womens-volleyball"
   ],
   "schedule": {
-   "sport": "mens-basketball",
-   "bytes": 923023,
+   "sport": "football",
+   "bytes": 526042,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
-   "sportsEvents": 33,
-   "sidearmGames": 33,
+   "sportsEvents": 12,
+   "sidearmGames": 12,
    "nuxt": false,
    "nextData": false,
    "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
-   "textLink": "https://gouvu.com/sports/mens-basketball/schedule?print=true",
-   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Valley University Vs Western Colorado\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Valley University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Colorado\"},\"startDate\":\"2026-11-02T18:00:00\",\"endDate\":\"2026-11-02T18:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"UCCU Ce"
+   "textLink": "https://utahtechtrailblazers.com/sports/football/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Tech University At Montana \",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Tech University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Montana \"},\"startDate\":\"2026-09-12T13:00:00\",\"endDate\":\"2026-09-12T13:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Washington-Grizzly Stadiu"
   },
   "textPage": {
-   "bytes": 923024,
+   "bytes": 526042,
    "games": 6,
    "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
   }
@@ -158,7 +162,7 @@
   ],
   "schedule": {
    "sport": "football",
-   "bytes": 559131,
+   "bytes": 559132,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
    "sportsEvents": 12,
@@ -194,7 +198,7 @@
   ],
   "schedule": {
    "sport": "football",
-   "bytes": 598824,
+   "bytes": 598825,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
    "sportsEvents": 11,
@@ -206,8 +210,44 @@
    "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah State University At #19 Washington\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah State University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"#19 Washington\"},\"startDate\":\"2026-09-12T13:30:00\",\"endDate\":\"2026-09-12T13:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Husky Stadium"
   },
   "textPage": {
-   "bytes": 598825,
+   "bytes": 598826,
    "games": 5,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
+ },
+ "https://gouvu.com": {
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://gouvu.com/",
+  "sports": [
+   "baseball",
+   "mens-basketball",
+   "cross-country",
+   "mens-golf",
+   "mens-soccer",
+   "track-and-field",
+   "wrestling",
+   "womens-basketball",
+   "womens-golf",
+   "womens-soccer",
+   "softball",
+   "womens-volleyball"
+  ],
+  "schedule": {
+   "sport": "mens-basketball",
+   "bytes": 923024,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 33,
+   "sidearmGames": 33,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
+   "textLink": "https://gouvu.com/sports/mens-basketball/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Valley University Vs Western Colorado\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Valley University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Colorado\"},\"startDate\":\"2026-11-02T18:00:00\",\"endDate\":\"2026-11-02T18:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"UCCU Ce"
+  },
+  "textPage": {
+   "bytes": 923023,
+   "games": 6,
    "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
   }
  },
@@ -231,7 +271,7 @@
   ],
   "schedule": {
    "sport": "mens-basketball",
-   "bytes": 675581,
+   "bytes": 675582,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
    "sportsEvents": 34,
@@ -243,47 +283,7 @@
    "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Westminster University At Montana State University Billings\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Westminster University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Montana State University Billings\"},\"startDate\":\"2026-11-09T19:00:00\",\"endDate\":\"2026-11-09T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":nu"
   },
   "textPage": {
-   "bytes": 675582,
-   "games": 6,
-   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
-  }
- },
- "https://utahtechtrailblazers.com": {
-  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
-  "home": "HTTP 404 for https://utahtechtrailblazers.com/",
-  "sports": [
-   "baseball",
-   "mens-basketball",
-   "mens-cross-country",
-   "football",
-   "mens-golf",
-   "mens-soccer",
-   "mens-track-field",
-   "womens-basketball",
-   "womens-cross-country",
-   "womens-golf",
-   "womens-soccer",
-   "softball",
-   "womens-swimming-and-diving",
-   "womens-tennis",
-   "womens-track-and-field",
-   "womens-volleyball"
-  ],
-  "schedule": {
-   "sport": "football",
-   "bytes": 526043,
-   "ldScripts": 1,
-   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
-   "sportsEvents": 12,
-   "sidearmGames": 12,
-   "nuxt": false,
-   "nextData": false,
-   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
-   "textLink": "https://utahtechtrailblazers.com/sports/football/schedule?print=true",
-   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Tech University At Montana \",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Tech University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Montana \"},\"startDate\":\"2026-09-12T13:00:00\",\"endDate\":\"2026-09-12T13:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Washington-Grizzly Stadiu"
-  },
-  "textPage": {
-   "bytes": 526041,
+   "bytes": 675448,
    "games": 6,
    "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
   }
