@@ -1,7 +1,7 @@
 {
  "https://weberstatesports.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; Disallow: /site/ ; Disallow: /hidden/ ; Disallow: /tags/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
-  "home": "551262b",
+  "home": "551263b",
   "sports": [
    "mens-basketball",
    "mens-cross-country",
@@ -47,7 +47,7 @@
    "sample": ""
   },
   "textPage": {
-   "bytes": 106165,
+   "bytes": 106162,
    "games": 13,
    "sample": " Weber State University Athletics {\"imports\":{\"#entry\":\"/_nuxt/DGEagGYl.js\"}} window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement(\"iframe\");t.style.cssText=\"display:none\",t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFr"
   }
@@ -83,7 +83,7 @@
   ],
   "schedule": {
    "sport": "football",
-   "bytes": 921834,
+   "bytes": 921894,
    "ldScripts": 0,
    "ldTypes": "",
    "sportsEvents": 0,
@@ -103,10 +103,23 @@
  "https://gouvu.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
   "home": "HTTP 404 for https://gouvu.com/",
-  "sports": [],
+  "sports": [
+   "baseball",
+   "mens-basketball",
+   "cross-country",
+   "mens-golf",
+   "mens-soccer",
+   "track-and-field",
+   "wrestling",
+   "womens-basketball",
+   "womens-golf",
+   "womens-soccer",
+   "softball",
+   "womens-volleyball"
+  ],
   "schedule": {
    "sport": "mens-basketball",
-   "bytes": 923024,
+   "bytes": 923023,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
    "sportsEvents": 33,
@@ -123,25 +136,77 @@
    "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
   }
  },
+ "https://suutbirds.com": {
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://suutbirds.com/",
+  "sports": [
+   "mens-basketball",
+   "mens-cross-country",
+   "football",
+   "mens-golf",
+   "mens-track-and-field",
+   "womens-basketball",
+   "womens-cross-country",
+   "womens-golf",
+   "womens-gymnastics",
+   "womens-soccer",
+   "softball",
+   "womens-track-and-field",
+   "womens-volleyball",
+   "cheerleading",
+   "suu-dance-team"
+  ],
+  "schedule": {
+   "sport": "football",
+   "bytes": 559131,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 12,
+   "sidearmGames": 12,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
+   "textLink": "https://suutbirds.com/sports/football/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Southern Utah University Vs Weber State University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Southern Utah University \"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Weber State University\"},\"startDate\":\"2026-09-05T18:00:00\",\"endDate\":\"2026-09-05T18:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Plac"
+  },
+  "textPage": {
+   "bytes": 559132,
+   "games": 6,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
+ },
  "https://utahstateaggies.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
   "home": "HTTP 404 for https://utahstateaggies.com/",
-  "sports": [],
+  "sports": [
+   "mens-basketball",
+   "cross-country",
+   "football",
+   "mens-golf",
+   "mens-tennis",
+   "track-and-field",
+   "womens-basketball",
+   "womens-gymnastics",
+   "womens-soccer",
+   "softball",
+   "womens-tennis",
+   "womens-volleyball"
+  ],
   "schedule": {
-   "sport": "mens-basketball",
-   "bytes": 613335,
+   "sport": "football",
+   "bytes": 598824,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
-   "sportsEvents": 35,
+   "sportsEvents": 11,
    "sidearmGames": 1,
    "nuxt": false,
    "nextData": false,
    "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx",
-   "textLink": "https://utahstateaggies.com/sports/mens-basketball/schedule?&print=true",
-   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah State University At Saint Mary's (Exhibition)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah State University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary's (Exhibition)\"},\"startDate\":\"2026-10-17T20:00:00\",\"endDate\":\"2026-10-17T20:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\""
+   "textLink": "https://utahstateaggies.com/sports/football/schedule?&print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah State University At #19 Washington\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah State University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"#19 Washington\"},\"startDate\":\"2026-09-12T13:30:00\",\"endDate\":\"2026-09-12T13:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Husky Stadium"
   },
   "textPage": {
-   "bytes": 613334,
+   "bytes": 598825,
    "games": 5,
    "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
   }
@@ -149,10 +214,24 @@
  "https://westminstergriffins.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
   "home": "HTTP 404 for https://westminstergriffins.com/",
-  "sports": [],
+  "sports": [
+   "mens-basketball",
+   "mens-cross-country",
+   "mens-golf",
+   "mens-lacrosse",
+   "mens-soccer",
+   "mens-track-and-field",
+   "womens-basketball",
+   "womens-cross-country",
+   "womens-golf",
+   "womens-lacrosse",
+   "womens-soccer",
+   "womens-track-and-field",
+   "womens-volleyball"
+  ],
   "schedule": {
    "sport": "mens-basketball",
-   "bytes": 675582,
+   "bytes": 675581,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
    "sportsEvents": 34,
@@ -172,45 +251,39 @@
  "https://utahtechtrailblazers.com": {
   "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
   "home": "HTTP 404 for https://utahtechtrailblazers.com/",
-  "sports": [],
+  "sports": [
+   "baseball",
+   "mens-basketball",
+   "mens-cross-country",
+   "football",
+   "mens-golf",
+   "mens-soccer",
+   "mens-track-field",
+   "womens-basketball",
+   "womens-cross-country",
+   "womens-golf",
+   "womens-soccer",
+   "softball",
+   "womens-swimming-and-diving",
+   "womens-tennis",
+   "womens-track-and-field",
+   "womens-volleyball"
+  ],
   "schedule": {
-   "sport": "mens-basketball",
-   "bytes": 708736,
+   "sport": "football",
+   "bytes": 526043,
    "ldScripts": 1,
    "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
-   "sportsEvents": 43,
-   "sidearmGames": 43,
+   "sportsEvents": 12,
+   "sidearmGames": 12,
    "nuxt": false,
    "nextData": false,
    "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
-   "textLink": "https://utahtechtrailblazers.com/sports/mens-basketball/schedule?print=true",
-   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Tech University Vs Final Four\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Tech University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Final Four\"},\"startDate\":\"2027-04-03T00:00:00\",\"endDate\":\"2027-04-03T00:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ford Field\",\"address\":{"
+   "textLink": "https://utahtechtrailblazers.com/sports/football/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Tech University At Montana \",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Tech University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Montana \"},\"startDate\":\"2026-09-12T13:00:00\",\"endDate\":\"2026-09-12T13:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Washington-Grizzly Stadiu"
   },
   "textPage": {
-   "bytes": 708736,
-   "games": 6,
-   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
-  }
- },
- "https://suutbirds.com": {
-  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
-  "home": "HTTP 404 for https://suutbirds.com/",
-  "sports": [],
-  "schedule": {
-   "sport": "mens-basketball",
-   "bytes": 818075,
-   "ldScripts": 1,
-   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
-   "sportsEvents": 31,
-   "sidearmGames": 34,
-   "nuxt": false,
-   "nextData": false,
-   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
-   "textLink": "https://suutbirds.com/sports/mens-basketball/schedule?print=true",
-   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Southern Utah University Vs Weber State University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Southern Utah University \"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Weber State University\"},\"startDate\":\"2026-12-05T18:30:00\",\"endDate\":\"2026-12-05T18:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Plac"
-  },
-  "textPage": {
-   "bytes": 818076,
+   "bytes": 526041,
    "games": 6,
    "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
   }
