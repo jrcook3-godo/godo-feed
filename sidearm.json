@@ -1,30 +1,218 @@
 {
  "https://weberstatesports.com": {
-  "robots": "User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves ; Disallow: / ; User-agent: daumoa ; Disallow: / ; User-agent: Jaxified ; Disallow: / ; User-agent: Yeti",
-  "sports": []
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; Disallow: /site/ ; Disallow: /hidden/ ; Disallow: /tags/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "551262b",
+  "sports": [
+   "mens-basketball",
+   "mens-cross-country",
+   "football",
+   "mens-golf",
+   "mens-tennis",
+   "mens-track-and-field",
+   "womens-basketball",
+   "womens-cross-country",
+   "womens-golf",
+   "womens-soccer",
+   "softball",
+   "womens-tennis",
+   "track-and-field",
+   "womens-volleyball",
+   "2020",
+   "2007",
+   "2015",
+   "2011",
+   "general",
+   "2014",
+   "spiritsquad",
+   "2025",
+   "2022",
+   "2010",
+   "2021",
+   "2026",
+   "2008",
+   "2012",
+   "2017"
+  ],
+  "schedule": {
+   "sport": "football",
+   "bytes": 691956,
+   "ldScripts": 0,
+   "ldTypes": "",
+   "sportsEvents": 0,
+   "sidearmGames": 0,
+   "nuxt": true,
+   "nextData": false,
+   "apiPaths": "/api/v2/promotions/9/click,/api/v2/promotions/10/click,/api/v2/promotions/17/click,/api/v2/promotions/20/click,/api/v2/promotions/21/click,/api/v2/promotions/22/click,/api/v2/promotions/4/click,/api/v2/promotions/5/click",
+   "textLink": "/sports/football/schedule/text",
+   "sample": ""
+  },
+  "textPage": {
+   "bytes": 106165,
+   "games": 13,
+   "sample": " Weber State University Athletics {\"imports\":{\"#entry\":\"/_nuxt/DGEagGYl.js\"}} window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement(\"iframe\");t.style.cssText=\"display:none\",t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFr"
+  }
  },
  "https://utahutes.com": {
-  "robots": "User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves ; Disallow: / ; User-agent: daumoa ; Disallow: / ; User-agent: Jaxified ; Disallow: / ; User-agent: Yeti",
-  "sports": []
- },
- "https://utahtechtrailblazers.com": {
-  "robots": "User-agent: AmazonAdBot ; Allow: / ; Allow: /documents/ ; Allow: /*print=true* ; Allow: /hidden/ ; Allow: /*.jpg$ ; User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves",
-  "sports": []
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; Disallow: /site/ ; Disallow: /hidden/ ; Disallow: /tags/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "900085b",
+  "sports": [
+   "baseball",
+   "mens-basketball",
+   "womens-basketball",
+   "cross-country",
+   "football",
+   "mens-golf",
+   "womens-gymnastics",
+   "mens-lacrosse",
+   "ski",
+   "womens-soccer",
+   "softball",
+   "mens-swimming-and-diving",
+   "womens-swimming-and-diving",
+   "mens-tennis",
+   "womens-tennis",
+   "track-and-field",
+   "womens-volleyball",
+   "2016",
+   "2024",
+   "2023",
+   "general",
+   "2021",
+   "2026",
+   "2025"
+  ],
+  "schedule": {
+   "sport": "football",
+   "bytes": 921834,
+   "ldScripts": 0,
+   "ldTypes": "",
+   "sportsEvents": 0,
+   "sidearmGames": 0,
+   "nuxt": true,
+   "nextData": false,
+   "apiPaths": "/api/v2/promotions/1197/click,/api/v2/promotions/1140/click,/api/v2/promotions/1191/click,/api/v2/promotions/1187/click,/api/v2/promotions/1188/click,/api/v2/promotions/1189/click,/api/v2/promotions/1183/click,/api/v2/promotions/1184/click",
+   "textLink": "/sports/football/schedule/text",
+   "sample": ""
+  },
+  "textPage": {
+   "bytes": 316588,
+   "games": 14,
+   "sample": " University of Utah Athletics {\"imports\":{\"#entry\":\"/_nuxt/C1Xpnv6F.js\"}} window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement(\"iframe\");t.style.cssText=\"display:none\",t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,"
+  }
  },
  "https://gouvu.com": {
-  "robots": "User-agent: AmazonAdBot ; Allow: / ; Allow: /documents/ ; Allow: /*print=true* ; Allow: /hidden/ ; Allow: /*.jpg$ ; User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves",
-  "sports": []
- },
- "https://westminstergriffins.com": {
-  "robots": "User-agent: AmazonAdBot ; Allow: / ; Allow: /documents/ ; Allow: /*print=true* ; Allow: /hidden/ ; Allow: /*.jpg$ ; User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves",
-  "sports": []
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://gouvu.com/",
+  "sports": [],
+  "schedule": {
+   "sport": "mens-basketball",
+   "bytes": 923024,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 33,
+   "sidearmGames": 33,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
+   "textLink": "https://gouvu.com/sports/mens-basketball/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Valley University Vs Western Colorado\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Valley University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Western Colorado\"},\"startDate\":\"2026-11-02T18:00:00\",\"endDate\":\"2026-11-02T18:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"UCCU Ce"
+  },
+  "textPage": {
+   "bytes": 923024,
+   "games": 6,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
  },
  "https://utahstateaggies.com": {
-  "robots": "User-agent: AmazonAdBot ; Allow: / ; Allow: /documents/ ; Allow: /*print=true* ; Allow: /hidden/ ; Allow: /*.jpg$ ; User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves",
-  "sports": []
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://utahstateaggies.com/",
+  "sports": [],
+  "schedule": {
+   "sport": "mens-basketball",
+   "bytes": 613335,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 35,
+   "sidearmGames": 1,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx",
+   "textLink": "https://utahstateaggies.com/sports/mens-basketball/schedule?&print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah State University At Saint Mary's (Exhibition)\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah State University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Saint Mary's (Exhibition)\"},\"startDate\":\"2026-10-17T20:00:00\",\"endDate\":\"2026-10-17T20:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\""
+  },
+  "textPage": {
+   "bytes": 613334,
+   "games": 5,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
+ },
+ "https://westminstergriffins.com": {
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://westminstergriffins.com/",
+  "sports": [],
+  "schedule": {
+   "sport": "mens-basketball",
+   "bytes": 675582,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 34,
+   "sidearmGames": 34,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
+   "textLink": "https://westminstergriffins.com/sports/mens-basketball/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Westminster University At Montana State University Billings\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Westminster University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Montana State University Billings\"},\"startDate\":\"2026-11-09T19:00:00\",\"endDate\":\"2026-11-09T19:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":nu"
+  },
+  "textPage": {
+   "bytes": 675582,
+   "games": 6,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
+ },
+ "https://utahtechtrailblazers.com": {
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://utahtechtrailblazers.com/",
+  "sports": [],
+  "schedule": {
+   "sport": "mens-basketball",
+   "bytes": 708736,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 43,
+   "sidearmGames": 43,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
+   "textLink": "https://utahtechtrailblazers.com/sports/mens-basketball/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Utah Tech University Vs Final Four\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Utah Tech University\"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Final Four\"},\"startDate\":\"2027-04-03T00:00:00\",\"endDate\":\"2027-04-03T00:00:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Place\",\"name\":\"Ford Field\",\"address\":{"
+  },
+  "textPage": {
+   "bytes": 708736,
+   "games": 6,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
  },
  "https://suutbirds.com": {
-  "robots": "User-agent: AmazonAdBot ; Allow: / ; Allow: /documents/ ; Allow: /*print=true* ; Allow: /hidden/ ; Allow: /*.jpg$ ; User-agent: BLP_bbot/0.1 ; Disallow: / ; User-agent: BLP_bbot ; Disallow: / ; User-agent: Slurp ; Disallow: / ; User-agent: Spinn3r ; Disallow: / ; User-agent: Baiduspider ; Disallow: / ; User-agent: BaiduImagespider ; Disallow: / ; User-agent: Speedy Spider ; Disallow: / ; User-agent: psbot ; Disallow: / ; User-agent: VoilaBot ; Disallow: / ; User-agent: Ask Jeeves",
-  "sports": []
+  "robots": "User-agent: * ; Disallow: /common/ ; Disallow: /images/ ; Disallow: /documents/ ; Disallow: /admin/ ; Disallow: /services/ ; DisAllow: /site/ ; DisAllow: /hidden/ ; Disallow: /*.js$ ; Disallow: /*.css$ ; Disallow: /*.jpg$ ; Disallow: /*.gif$ ; Disallow: /*.axd ; Disallow: /*print=true* ; Allow: / ; Crawl-delay: 30",
+  "home": "HTTP 404 for https://suutbirds.com/",
+  "sports": [],
+  "schedule": {
+   "sport": "mens-basketball",
+   "bytes": 818075,
+   "ldScripts": 1,
+   "ldTypes": "SportsTeam/Place/PostalAddress/ImageObject/SportsEvent",
+   "sportsEvents": 31,
+   "sidearmGames": 34,
+   "nuxt": false,
+   "nextData": false,
+   "apiPaths": "/services/schedule_txt.ashx,/services/responsive-schedule.ashx,/services/weplayed.ashx/moments/game",
+   "textLink": "https://suutbirds.com/sports/mens-basketball/schedule?print=true",
+   "sample": "ght\":50,\"@type\":\"ImageObject\"},\"@type\":\"SportsEvent\"},{\"@context\":\"https://schema.org/\",\"name\":\"Southern Utah University Vs Weber State University\",\"url\":null,\"homeTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Southern Utah University \"},\"awayTeam\":{\"@type\":\"SportsTeam\",\"sameAs\":null,\"name\":\"Weber State University\"},\"startDate\":\"2026-12-05T18:30:00\",\"endDate\":\"2026-12-05T18:30:00\",\"eventStatus\":null,\"location\":{\"sameAs\":null,\"image\":null,\"@type\":\"Plac"
+  },
+  "textPage": {
+   "bytes": 818076,
+   "games": 6,
+   "sample": " window.__gpp_addFrame=function(e){if(!window.frames[e]){if(document.body){var t=document.createElement('iframe');t.style.cssText='display:none',t.name=e,document.body.appendChild(t)}else window.setTimeout(window.__gppaddFrame,10,e)}},window.__gpp_stub=function(){var e=arguments;if(__gpp.queue=__gpp"
+  }
  }
 }
