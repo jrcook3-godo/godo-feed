@@ -1,10 +1,4 @@
 {
- "weber-athletics": {
-  "error": "no sports found on https://weberstatesports.com"
- },
- "utah-athletics": {
-  "error": "no sports found on https://utahutes.com"
- },
  "usu-athletics": [
   {
    "title": "Utah State Men’s Basketball vs. Denver (Exhibition)",
@@ -440,6 +434,447 @@
    "venue": "Wayne Estes Center",
    "city": "Logan",
    "url": "https://utahstateaggies.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  }
+ ],
+ "suu-athletics": [
+  {
+   "title": "SUU Men’s Basketball vs. Idaho State University",
+   "date": "2026-12-03",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Weber State University",
+   "date": "2026-12-05",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. University of Northern Colorado",
+   "date": "2027-01-07",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Portland State University",
+   "date": "2027-01-09",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Montana State University",
+   "date": "2027-01-18",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. University of Idaho",
+   "date": "2027-02-04",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Eastern Washington University",
+   "date": "2027-02-06",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Utah Tech",
+   "date": "2027-02-13",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Northern Arizona University",
+   "date": "2027-02-27",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. University of Montana",
+   "date": "2027-03-01",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Ottawa University Arizona",
+   "date": "2026-10-12",
+   "time": "12:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. West Coast Baptist College",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Grace University (California)",
+   "date": "2026-11-05",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Men’s Basketball vs. Bethesda University of California",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Football vs. UC Davis",
+   "date": "2026-10-17",
+   "time": "18:00",
+   "venue": "Eccles Coliseum",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Football vs. Northern Arizona University",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "venue": "Eccles Coliseum",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Football vs. University of Northern Colorado",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "venue": "Eccles Coliseum",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Football vs. Chicago State University",
+   "date": "2026-11-21",
+   "time": "12:00",
+   "venue": "Eccles Coliseum",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Fort Lewis",
+   "date": "2026-10-16",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Eastern Washington",
+   "date": "2026-11-22",
+   "time": "13:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. University of San Diego",
+   "date": "2026-11-28",
+   "time": "14:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Idaho",
+   "date": "2027-01-02",
+   "time": "14:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Weber State",
+   "date": "2027-01-28",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Northern Arizona",
+   "date": "2027-02-08",
+   "time": "19:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Portland State",
+   "date": "2027-02-17",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Montana State University",
+   "date": "2027-02-22",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. University of Redlands",
+   "date": "2026-11-02",
+   "time": "17:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Park University Gilbert (AZ)",
+   "date": "2026-11-09",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Nelson University (AZ)",
+   "date": "2026-11-24",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Cal State Fullerton",
+   "date": "2026-12-18",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Eastern Washington",
+   "date": "2026-12-31",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Utah Tech",
+   "date": "2027-01-16",
+   "time": "14:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Montana",
+   "date": "2027-01-25",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Idaho State",
+   "date": "2027-01-30",
+   "time": "14:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Basketball vs. Northern Colorado",
+   "date": "2027-02-20",
+   "time": "12:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Golf vs. Pizza Hut Lady Thunderbird Invitational",
+   "date": "2027-03-06",
+   "venue": "Sunbrook Golf Club",
+   "city": "St. George",
+   "url": "https://suutbirds.com/sports/womens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Soccer vs. Portland State University",
+   "date": "2026-10-04",
+   "time": "11:00",
+   "venue": "Thunderbird Soccer Field",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Soccer vs. Northern Arizona University",
+   "date": "2026-10-15",
+   "time": "15:00",
+   "venue": "Thunderbird Soccer Field",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Soccer vs. University of Northern Colorado",
+   "date": "2026-10-18",
+   "time": "13:00",
+   "venue": "Thunderbird Soccer Field",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Soccer vs. Utah Tech",
+   "date": "2026-11-05",
+   "time": "13:00",
+   "venue": "Thunderbird Soccer Field",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Softball vs. Salt Lake Community College",
+   "date": "2026-10-18",
+   "time": "15:30",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/softball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Idaho State University",
+   "date": "2026-10-08",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Weber State University",
+   "date": "2026-10-10",
+   "time": "13:00",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Eastern Washington University",
+   "date": "2026-10-22",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Montana State University",
+   "date": "2026-10-29",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. University of Montana",
+   "date": "2026-10-31",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Utah Tech",
+   "date": "2026-11-10",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Portland State University",
+   "date": "2026-11-18",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "SUU Women’s Volleyball vs. Northern Arizona University",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "venue": "America First Event Center",
+   "city": "Cedar City",
+   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
    "category": "Sports"
   }
  ],
@@ -959,447 +1394,6 @@
    "category": "Sports"
   }
  ],
- "suu-athletics": [
-  {
-   "title": "SUU Men’s Basketball vs. Idaho State University",
-   "date": "2026-12-03",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Weber State University",
-   "date": "2026-12-05",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. University of Northern Colorado",
-   "date": "2027-01-07",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Portland State University",
-   "date": "2027-01-09",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Montana State University",
-   "date": "2027-01-18",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. University of Idaho",
-   "date": "2027-02-04",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Eastern Washington University",
-   "date": "2027-02-06",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Utah Tech",
-   "date": "2027-02-13",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Northern Arizona University",
-   "date": "2027-02-27",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. University of Montana",
-   "date": "2027-03-01",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Ottawa University Arizona",
-   "date": "2026-10-12",
-   "time": "12:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. West Coast Baptist College",
-   "date": "2026-11-02",
-   "time": "20:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Grace University (California)",
-   "date": "2026-11-05",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Men’s Basketball vs. Bethesda University of California",
-   "date": "2026-11-07",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/mens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Football vs. UC Davis",
-   "date": "2026-10-17",
-   "time": "18:00",
-   "venue": "Eccles Coliseum",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/football/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Football vs. Northern Arizona University",
-   "date": "2026-10-31",
-   "time": "13:00",
-   "venue": "Eccles Coliseum",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/football/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Football vs. University of Northern Colorado",
-   "date": "2026-11-07",
-   "time": "13:00",
-   "venue": "Eccles Coliseum",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/football/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Football vs. Chicago State University",
-   "date": "2026-11-21",
-   "time": "12:00",
-   "venue": "Eccles Coliseum",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/football/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Fort Lewis",
-   "date": "2026-10-16",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Eastern Washington",
-   "date": "2026-11-22",
-   "time": "13:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. University of San Diego",
-   "date": "2026-11-28",
-   "time": "14:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Idaho",
-   "date": "2027-01-02",
-   "time": "14:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Weber State",
-   "date": "2027-01-28",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Northern Arizona",
-   "date": "2027-02-08",
-   "time": "19:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Portland State",
-   "date": "2027-02-17",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Montana State University",
-   "date": "2027-02-22",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. University of Redlands",
-   "date": "2026-11-02",
-   "time": "17:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Park University Gilbert (AZ)",
-   "date": "2026-11-09",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Nelson University (AZ)",
-   "date": "2026-11-24",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Cal State Fullerton",
-   "date": "2026-12-18",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Eastern Washington",
-   "date": "2026-12-31",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Utah Tech",
-   "date": "2027-01-16",
-   "time": "14:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Montana",
-   "date": "2027-01-25",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Idaho State",
-   "date": "2027-01-30",
-   "time": "14:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Basketball vs. Northern Colorado",
-   "date": "2027-02-20",
-   "time": "12:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-basketball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Golf vs. Pizza Hut Lady Thunderbird Invitational",
-   "date": "2027-03-06",
-   "venue": "Sunbrook Golf Club",
-   "city": "St. George",
-   "url": "https://suutbirds.com/sports/womens-golf/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Soccer vs. Portland State University",
-   "date": "2026-10-04",
-   "time": "11:00",
-   "venue": "Thunderbird Soccer Field",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Soccer vs. Northern Arizona University",
-   "date": "2026-10-15",
-   "time": "15:00",
-   "venue": "Thunderbird Soccer Field",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Soccer vs. University of Northern Colorado",
-   "date": "2026-10-18",
-   "time": "13:00",
-   "venue": "Thunderbird Soccer Field",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Soccer vs. Utah Tech",
-   "date": "2026-11-05",
-   "time": "13:00",
-   "venue": "Thunderbird Soccer Field",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-soccer/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Softball vs. Salt Lake Community College",
-   "date": "2026-10-18",
-   "time": "15:30",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/softball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Idaho State University",
-   "date": "2026-10-08",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Weber State University",
-   "date": "2026-10-10",
-   "time": "13:00",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Eastern Washington University",
-   "date": "2026-10-22",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Montana State University",
-   "date": "2026-10-29",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. University of Montana",
-   "date": "2026-10-31",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Utah Tech",
-   "date": "2026-11-10",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Portland State University",
-   "date": "2026-11-18",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  },
-  {
-   "title": "SUU Women’s Volleyball vs. Northern Arizona University",
-   "date": "2026-11-20",
-   "time": "18:30",
-   "venue": "America First Event Center",
-   "city": "Cedar City",
-   "url": "https://suutbirds.com/sports/womens-volleyball/schedule",
-   "category": "Sports"
-  }
- ],
  "westminster-athletics": [
   {
    "title": "Westminster Men’s Basketball vs. Northwest Nazarene University",
@@ -1719,6 +1713,33 @@
    "time": "10:00",
    "city": "Salt Lake City",
    "url": "https://westminstergriffins.com/sports/womens-cross-country/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Westminster Wlax vs. Brigham Young University",
+   "date": "2026-10-28",
+   "time": "18:00",
+   "venue": "Dumke Field",
+   "city": "Salt Lake City",
+   "url": "https://westminstergriffins.com/sports/wlax/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Westminster Wlax vs. Utah Valley University",
+   "date": "2026-11-06",
+   "time": "16:00",
+   "venue": "Dumke Field",
+   "city": "Salt Lake City",
+   "url": "https://westminstergriffins.com/sports/wlax/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Westminster Wlax vs. University of Utah",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "venue": "Dumke Field",
+   "city": "Salt Lake City",
+   "url": "https://westminstergriffins.com/sports/wlax/schedule",
    "category": "Sports"
   },
   {
@@ -2457,6 +2478,1526 @@
    "venue": "Burns Arena",
    "city": "St. George",
    "url": "https://utahtechtrailblazers.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  }
+ ],
+ "weber-athletics": [
+  {
+   "title": "Weber State Men’s Basketball vs. Colorado Christian (exhibition)",
+   "date": "2026-10-17",
+   "time": "19:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Westminster (exhibition)",
+   "date": "2026-10-24",
+   "time": "16:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Colorado Mesa (exhibition)",
+   "date": "2026-10-28",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Utah Valley",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Lincoln",
+   "date": "2026-11-14",
+   "time": "16:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Tarleton State",
+   "date": "2026-11-24",
+   "time": "17:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. CSUN",
+   "date": "2026-11-25",
+   "time": "16:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Washington State",
+   "date": "2026-12-09",
+   "time": "12:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Northern Arizona",
+   "date": "2026-12-31",
+   "time": "14:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Montana",
+   "date": "2027-01-07",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Montana State",
+   "date": "2027-01-09",
+   "time": "16:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Idaho",
+   "date": "2027-01-18",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Southern Utah",
+   "date": "2027-01-28",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Utah Tech",
+   "date": "2027-01-30",
+   "time": "13:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Northern Colorado",
+   "date": "2027-02-11",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Portland State",
+   "date": "2027-02-13",
+   "time": "16:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Idaho State",
+   "date": "2027-02-27",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Men’s Basketball vs. Eastern Washington",
+   "date": "2027-03-01",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Football vs. Idaho",
+   "date": "2026-10-10",
+   "time": "13:00",
+   "venue": "Stewart Stadium",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Football vs. Idaho State",
+   "date": "2026-10-17",
+   "time": "13:00",
+   "venue": "Stewart Stadium",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Football vs. UC Davis",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "venue": "Stewart Stadium",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Football vs. Utah Tech",
+   "date": "2026-11-21",
+   "time": "13:00",
+   "venue": "Stewart Stadium",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Men’s Track & Field vs. Weber State High School Invitational",
+   "date": "2027-01-23",
+   "venue": "Stromberg Center Indoor Track",
+   "url": "https://weberstatesports.com/sports/mens-track-and-field/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Westminster",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Denver",
+   "date": "2026-11-07",
+   "time": "16:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Houston Christian",
+   "date": "2026-11-14",
+   "time": "13:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Northern New Mexico",
+   "date": "2026-11-16",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Utah Tech",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Southern Utah",
+   "date": "2026-12-05",
+   "time": "14:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. La Sierra",
+   "date": "2026-12-19",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Portland State",
+   "date": "2027-01-14",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Northern Colorado",
+   "date": "2027-01-16",
+   "time": "14:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Eastern Washington",
+   "date": "2027-01-25",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Northern Arizona",
+   "date": "2027-02-06",
+   "time": "14:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Montana State",
+   "date": "2027-02-18",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Montana",
+   "date": "2027-02-20",
+   "time": "14:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Idaho",
+   "date": "2027-02-22",
+   "time": "18:00",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Basketball vs. Idaho State",
+   "date": "2027-02-27",
+   "venue": "Dee Events Center",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Soccer vs. Utah Tech",
+   "date": "2026-10-08",
+   "time": "19:00",
+   "venue": "Wildcat Soccer Field",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Soccer vs. Southern Utah",
+   "date": "2026-10-11",
+   "time": "13:00",
+   "venue": "Wildcat Soccer Field",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Soccer vs. Northern Colorado",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "venue": "Wildcat Soccer Field",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Soccer vs. Northern Arizona",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "venue": "Wildcat Soccer Field",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Soccer vs. Idaho State",
+   "date": "2026-11-05",
+   "time": "13:00",
+   "venue": "Wildcat Soccer Field",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Softball vs. College of Southern Idaho",
+   "date": "2026-10-09",
+   "time": "14:00",
+   "url": "https://weberstatesports.com/sports/softball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Softball vs. Salt Lake Community College",
+   "date": "2026-10-17",
+   "time": "23:00",
+   "url": "https://weberstatesports.com/sports/softball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Track & Field vs. Weber State High School Invitational",
+   "date": "2027-01-23",
+   "venue": "Stromberg Center Indoor Track",
+   "url": "https://weberstatesports.com/sports/track-and-field/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Northern Colorado",
+   "date": "2026-10-17",
+   "time": "18:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Montana State",
+   "date": "2026-10-22",
+   "time": "18:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Idaho State",
+   "date": "2026-10-27",
+   "time": "18:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Southern Utah",
+   "date": "2026-11-05",
+   "time": "18:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Utah Tech",
+   "date": "2026-11-07",
+   "time": "13:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Idaho",
+   "date": "2026-11-18",
+   "time": "18:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Weber State Women’s Volleyball vs. Eastern Washington",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "venue": "Swenson Gym",
+   "city": "Ogden",
+   "url": "https://weberstatesports.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  }
+ ],
+ "utah-athletics": [
+  {
+   "title": "Utah Utes Baseball vs. College of Southern Idaho",
+   "date": "2026-10-16",
+   "time": "16:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Colorado Mesa",
+   "date": "2026-10-25",
+   "time": "13:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Salt Lake Community College",
+   "date": "2026-10-31",
+   "time": "13:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Northern Colorado",
+   "date": "2027-03-09",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Northern Colorado",
+   "date": "2027-03-10",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. CSUN",
+   "date": "2027-03-12",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. CSUN",
+   "date": "2027-03-13",
+   "time": "14:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. CSUN",
+   "date": "2027-03-14",
+   "time": "13:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. CSUN",
+   "date": "2027-03-15",
+   "time": "12:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Cincinnati",
+   "date": "2027-03-19",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Cincinnati",
+   "date": "2027-03-20",
+   "time": "14:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Cincinnati",
+   "date": "2027-03-21",
+   "time": "12:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Utah Tech",
+   "date": "2027-03-30",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Oklahoma State",
+   "date": "2027-04-09",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Oklahoma State",
+   "date": "2027-04-10",
+   "time": "14:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Oklahoma State",
+   "date": "2027-04-11",
+   "time": "13:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. BYU",
+   "date": "2027-04-15",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. BYU",
+   "date": "2027-04-16",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. BYU",
+   "date": "2027-04-17",
+   "time": "14:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Kansas",
+   "date": "2027-04-30",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Kansas",
+   "date": "2027-05-01",
+   "time": "14:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Kansas",
+   "date": "2027-05-02",
+   "time": "13:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Utah Valley",
+   "date": "2027-05-11",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Arizona State",
+   "date": "2027-05-14",
+   "time": "18:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Arizona State",
+   "date": "2027-05-15",
+   "time": "14:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Baseball vs. Arizona State",
+   "date": "2027-05-16",
+   "time": "13:00",
+   "venue": "America First Ballpark",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/baseball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Oregon [Exh]",
+   "date": "2026-10-21",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Long Beach State",
+   "date": "2026-11-02",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Towson",
+   "date": "2026-11-05",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Weber State",
+   "date": "2026-11-10",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Washington",
+   "date": "2026-11-14",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Eastern Washington",
+   "date": "2026-11-17",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. California",
+   "date": "2026-12-02",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Cal Baptist",
+   "date": "2026-12-09",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Abilene Christian",
+   "date": "2026-12-13",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Portland",
+   "date": "2026-12-16",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Sam Houston State",
+   "date": "2026-12-19",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Southern Utah",
+   "date": "2026-12-22",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Air Force",
+   "date": "2026-12-29",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Kansas",
+   "date": "2027-01-06",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Cincinnati",
+   "date": "2027-01-09",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. West Virginia",
+   "date": "2027-01-20",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Baylor",
+   "date": "2027-01-30",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. BYU",
+   "date": "2027-02-06",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Kansas State",
+   "date": "2027-02-10",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Colorado",
+   "date": "2027-02-20",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Oklahoma State",
+   "date": "2027-02-27",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Basketball vs. Texas Tech",
+   "date": "2027-03-02",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Idaho (EXHIBITION)",
+   "date": "2026-10-18",
+   "time": "14:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Eastern Washington",
+   "date": "2026-11-03",
+   "time": "18:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Colorado State",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Bethune-Cookman",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Houston Christian",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Utah Valley",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Utah State",
+   "date": "2026-12-01",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Denver",
+   "date": "2026-12-06",
+   "time": "14:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Green Bay",
+   "date": "2026-12-12",
+   "time": "14:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Montana",
+   "date": "2026-12-15",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Houston",
+   "date": "2026-12-30",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Kansas State",
+   "date": "2027-01-02",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Kansas",
+   "date": "2027-01-16",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Oklahoma State",
+   "date": "2027-01-19",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. UCF",
+   "date": "2027-01-30",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. BYU",
+   "date": "2027-02-03",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Colorado",
+   "date": "2027-02-13",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Arizona State",
+   "date": "2027-02-20",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Basketball vs. Arizona",
+   "date": "2027-02-24",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-basketball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Football vs. Kansas",
+   "date": "2026-10-10",
+   "time": "20:15",
+   "venue": "Rice-Eccles Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Football vs. Houston",
+   "date": "2026-10-24",
+   "venue": "Rice-Eccles Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Football vs. BYU",
+   "date": "2026-11-07",
+   "venue": "Rice-Eccles Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Football vs. West Virginia",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "venue": "Rice-Eccles Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/football/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Big 12 Match Play",
+   "date": "2026-10-12",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Big 12 Match Play",
+   "date": "2026-10-13",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Big 12 Match Play",
+   "date": "2026-10-14",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Williams Cup",
+   "date": "2026-10-18",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Williams Cup",
+   "date": "2026-10-20",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Black Desert Collegiate",
+   "date": "2027-03-15",
+   "city": "St. George",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Black Desert Collegiate",
+   "date": "2027-03-16",
+   "city": "St. George",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. Black Desert Collegiate",
+   "date": "2027-03-17",
+   "city": "St. George",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Golf vs. NCAA Regionals",
+   "date": "2027-05-15",
+   "url": "https://utahutes.com/sports/mens-golf/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Ski vs. Giant Slalom",
+   "date": "2027-01-28",
+   "venue": "Utah Olympic Park",
+   "city": "Park City",
+   "url": "https://utahutes.com/sports/ski/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Ski vs. Slalom",
+   "date": "2027-01-29",
+   "venue": "Utah Olympic Park",
+   "city": "Park City",
+   "url": "https://utahutes.com/sports/ski/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Soccer vs. Arizona",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "venue": "Ute Field",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Soccer vs. Texas Tech",
+   "date": "2026-10-25",
+   "time": "12:00",
+   "venue": "Ute Field",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Soccer vs. Kansas State",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "venue": "Ute Field",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-soccer/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Softball vs. Utah State",
+   "date": "2026-10-07",
+   "time": "18:30",
+   "venue": "Dumke Family Softball Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/softball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Softball vs. Southern Utah",
+   "date": "2026-10-11",
+   "time": "13:00",
+   "venue": "Dumke Family Softball Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/softball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Softball vs. Southern Utah",
+   "date": "2026-10-11",
+   "time": "15:00",
+   "venue": "Dumke Family Softball Stadium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/softball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Swimming & Diving vs. UNLV",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Swimming & Diving vs. Colorado Mesa University",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Swimming & Diving vs. Utah Winter Classic",
+   "date": "2026-12-12",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Swimming & Diving vs. BYU",
+   "date": "2027-02-06",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Swimming & Diving vs. Utah Tech",
+   "date": "2026-11-05",
+   "time": "17:00",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Swimming & Diving vs. UNLV",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Swimming & Diving vs. Colorado Mesa University",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Swimming & Diving vs. Utah Winter Classic",
+   "date": "2026-12-12",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Swimming & Diving vs. BYU",
+   "date": "2027-02-06",
+   "venue": "Ute Natatorium",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-swimming-and-diving/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. ITA Mountain Regionals",
+   "date": "2026-10-06",
+   "city": "Provo",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Idaho State",
+   "date": "2027-01-30",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. LMU",
+   "date": "2027-02-13",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. UNLV",
+   "date": "2027-02-14",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Denver",
+   "date": "2027-02-26",
+   "time": "12:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Nevada",
+   "date": "2027-03-19",
+   "time": "12:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. BYU",
+   "date": "2027-03-20",
+   "time": "14:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Oklahoma State",
+   "date": "2027-03-25",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Texas Tech",
+   "date": "2027-03-28",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Baylor",
+   "date": "2027-04-08",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Men’s Tennis vs. Grand Canyon",
+   "date": "2027-04-13",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/mens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. ITA Mountain Regionals",
+   "date": "2026-10-13",
+   "city": "Provo",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Utah Tech",
+   "date": "2027-01-23",
+   "time": "10:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Weber State",
+   "date": "2027-01-23",
+   "time": "15:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Idaho State",
+   "date": "2027-01-27",
+   "time": "13:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Kansas State",
+   "date": "2027-03-11",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Oklahoma State",
+   "date": "2027-03-13",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. UCF",
+   "date": "2027-03-18",
+   "time": "16:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Houston",
+   "date": "2027-03-20",
+   "time": "10:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Colorado",
+   "date": "2027-04-08",
+   "time": "17:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Tennis vs. Texas Tech",
+   "date": "2027-04-10",
+   "time": "12:00",
+   "venue": "George S. Eccles Tennis Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-tennis/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. West Virginia",
+   "date": "2026-10-08",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. BYU",
+   "date": "2026-10-15",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. Arizona State",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. Colorado",
+   "date": "2026-10-25",
+   "time": "13:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. Texas Tech",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. Cincinnati",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. Arizona",
+   "date": "2026-11-21",
+   "time": "15:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
+   "category": "Sports"
+  },
+  {
+   "title": "Utah Utes Women’s Volleyball vs. TCU",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "venue": "Jon M. Huntsman Center",
+   "city": "Salt Lake City",
+   "url": "https://utahutes.com/sports/womens-volleyball/schedule",
    "category": "Sports"
   }
  ]
