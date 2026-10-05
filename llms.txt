@@ -1,6 +1,13 @@
 # Go Do
 
-> Go Do (go-do.live) is a free app and website that lists every event and activity in Utah — concerts, games, festivals, theater, family events, classes, community events and outdoor activities — in one feed, soonest first, and helps people make plans with friends. Operated by Go Do, LLC.
+> Go Do (go-do.live) is a free app and website that lists every event and activity in Utah — concerts, games, festivals, theater, family events, classes, community events and outdoor activities — in one feed, soonest first, and helps people make plans with friends. Operated by Go Do, LLC. Tagline: Go Do. Live Life.
+
+## Facts
+- About 12,300 upcoming events and 15,800 activities across Utah (as of 2026-10-04)
+- Gathered from 188+ sources — public calendars, ticket sellers, cities, libraries, venues and partners — by GoDoBot (https://go-do.live/bot/)
+- Updated every morning (Mountain Time); ended events drop off the feed
+- Free for members; no account needed to browse
+- Support: https://go-do.live/contact/
 
 ## Key pages
 - [What is Go Do?](https://go-do.live/what-is-go-do/): what Go Do is, how it started, and its purpose
@@ -8,23 +15,42 @@
 - [This weekend in Utah](https://go-do.live/things-to-do/this-weekend/) and [free things to do this week](https://go-do.live/things-to-do/free/)
 - [Activities in Utah](https://go-do.live/activities/): things to do any time (hikes, hot springs, museums, climbing gyms…) by kind (e.g. https://go-do.live/activities/hot-springs/) and by city (e.g. https://go-do.live/activities/in/provo/)
 - [How to install](https://go-do.live/how-to-install/): add Go Do to an iPhone or Android Home Screen
-- [Advertise](https://go-do.live/advertisers/), [Data feed for partners](https://go-do.live/data-feed/), [AI agents](https://go-do.live/ai-agents/)
+- [Advertise](https://go-do.live/advertisers/), [Data feed for partners](https://go-do.live/data-feed/), [AI agents](https://go-do.live/ai-agents/), [Contact](https://go-do.live/contact/)
+
+## Cities
+- [Things to do in Salt Lake City](https://go-do.live/things-to-do/salt-lake-city/) · [activities in Salt Lake City](https://go-do.live/activities/in/salt-lake-city/)
+- [Things to do in Provo](https://go-do.live/things-to-do/provo/) · [activities in Provo](https://go-do.live/activities/in/provo/)
+- [Things to do in Orem](https://go-do.live/things-to-do/orem/) · [activities in Orem](https://go-do.live/activities/in/orem/)
+- [Things to do in Ogden](https://go-do.live/things-to-do/ogden/) · [activities in Ogden](https://go-do.live/activities/in/ogden/)
+- [Things to do in West Valley City](https://go-do.live/things-to-do/west-valley-city/) · [activities in West Valley City](https://go-do.live/activities/in/west-valley-city/)
+- [Things to do in Sandy](https://go-do.live/things-to-do/sandy/) · [activities in Sandy](https://go-do.live/activities/in/sandy/)
+- [Things to do in West Jordan](https://go-do.live/things-to-do/west-jordan/) · [activities in West Jordan](https://go-do.live/activities/in/west-jordan/)
+- [Things to do in South Jordan](https://go-do.live/things-to-do/south-jordan/) · [activities in South Jordan](https://go-do.live/activities/in/south-jordan/)
+- [Things to do in Lehi](https://go-do.live/things-to-do/lehi/) · [activities in Lehi](https://go-do.live/activities/in/lehi/)
+- [Things to do in Draper](https://go-do.live/things-to-do/draper/) · [activities in Draper](https://go-do.live/activities/in/draper/)
+- [Things to do in Layton](https://go-do.live/things-to-do/layton/) · [activities in Layton](https://go-do.live/activities/in/layton/)
+- [Things to do in Logan](https://go-do.live/things-to-do/logan/) · [activities in Logan](https://go-do.live/activities/in/logan/)
+- [Things to do in Park City](https://go-do.live/things-to-do/park-city/) · [activities in Park City](https://go-do.live/activities/in/park-city/)
+- [Things to do in St. George](https://go-do.live/things-to-do/st-george/) · [activities in St. George](https://go-do.live/activities/in/st-george/)
+- [Things to do in Cedar City](https://go-do.live/things-to-do/cedar-city/) · [activities in Cedar City](https://go-do.live/activities/in/cedar-city/)
+- [Things to do in Moab](https://go-do.live/things-to-do/moab/) · [activities in Moab](https://go-do.live/activities/in/moab/)
 
 ## Listing pages
 - Each event has a page at https://go-do.live/event/{id}/ with schema.org Event data
 - Each activity has a page at https://go-do.live/activity/{id}/ with schema.org place data (address, hours, cost)
 
 ## For AI assistants
-- MCP server with "Sign in with Go Do" (OAuth): https://mcp.go-do.live/mcp
+- MCP server with "Sign in with Go Do" (OAuth 2.1 with PKCE): https://mcp.go-do.live/mcp
 - Public search without an account: https://mcp.go-do.live/mcp/public
 - OpenAPI (REST, for custom GPT actions): https://mcp.go-do.live/openapi.json
-- Tools — search: search_events, search_activities, get_details. The member's account: my_profile, my_plans, my_invites (invites, get-togethers and pings waiting on their answer), replies (how friends answered their pings and plans), plan_details, friends_going, list_friends (friends and groups). With changes allowed, only when the member asks: set_plan (Going / Maybe / Can't go), send_ping ("Should we go?" to friends or groups), plan_with_friends (one day = set; two to five = friends pick), plan_get_together (a private get-together — once, or repeating every week / 2 weeks / month / 3 months; each date is sent 4 / 7 / 7 / 14 days ahead), repeat_settings (in for all of a repeating get-together, or stop its invites), answer_invite, answer_ping.
-- Words: events happen on a date; activities can be done any time (call them activities, not places). The person who sets up a plan is the organizer. A ping is a light "Should we go?"; a plan invite asks friends to a day (or a few to pick from). Dates and times are Utah (Mountain) time.
+- Tools — search: search_events, search_activities, get_details (with what can be followed). The member's account: my_profile, my_plans, my_invites (invites, get-togethers and pings waiting on their answer), replies (how friends answered their pings and plans), plan_details, friends_going, list_friends (friends and groups), my_follows (venues and teams they follow, with what's coming up, and what they've ♥'d). With changes allowed, only when the member asks: set_plan (Going / Maybe / Can't go), send_ping ("Should we go?" to friends or groups), plan_with_friends (one day = set; two to five = friends pick; invite_friends is the same), plan_get_together (a private get-together — once, or repeating every week / 2 weeks / month / 3 months; each date is sent 4 / 7 / 7 / 14 days ahead), repeat_settings (in for all of a repeating get-together, or stop its invites), add_to_plan (invite more friends to a plan), answer_invite, answer_ping, follow (the ♥: an event or activity, everything at its venue, or a team's games — Go Do covers Utah, so away games outside Utah aren't listed yet).
+- Words: events happen on a date; activities can be done any time (call them activities, not places). The person who sets up a plan is the organizer. A ping is a light "Should we go?"; a plan invite asks friends to a day (or a few to pick from). Following a venue or team brings its new listings to the member's Following tab and alerts. Dates and times are Utah (Mountain) time.
 - Setup steps for Claude, ChatGPT, Grok, Perplexity and Le Chat: https://go-do.live/ai-agents/
 
 ## Using Go Do's listings
 - Assistants are welcome to search Go Do for a person who asked (the MCP server and pages above) and to link people to go-do.live.
 - Go Do's listings may not be bulk-downloaded, republished, resold or used to train AI models (Terms & Conditions, section 10).
+- How the listings are gathered: https://go-do.live/bot/
 
 ## Policies
 - [Privacy Policy](https://go-do.live/privacy.html) · [Terms & Conditions](https://go-do.live/terms.html)
