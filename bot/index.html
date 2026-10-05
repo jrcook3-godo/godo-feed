@@ -53,16 +53,20 @@
 <main>
   <h1>GoDoBot</h1>
   <p class="date">How Go Do reads public event calendars</p>
-  <p>Go Do lists everything to do in Utah in one free app, with a link back to the organizer for tickets and details. To keep it complete, a small program called <strong>GoDoBot</strong> reads public event calendars — venues, cities, libraries, parks, schools and organizers — a few times a day.</p>
+  <p>Go Do lists everything to do in Utah in one free app, with a link back to the organizer for tickets and details. To keep it complete, a small program called <strong>GoDoBot</strong> reads public event calendars — venues, cities, libraries, parks, schools and organizers.</p>
   <h2>How it behaves</h2>
   <ul>
-    <li>It identifies itself honestly as <code>GoDoBot</code> with a link to this page.</li>
-    <li>It follows <code>robots.txt</code>. To keep GoDoBot out of all or part of your site, add a rule for <code>User-agent: GoDoBot</code> (or <code>*</code>).</li>
-    <li>It only reads public event listings, a few pages at a time, and no more than every few hours.</li>
-    <li>Each event on Go Do links back to your page, so people buy tickets and get details from you.</li>
+    <li><strong>Once a day.</strong> GoDoBot visits early each morning (Utah time) and reads only public event listings.</li>
+    <li><strong>A few seconds between requests.</strong> It asks your site for one page at a time, at least 3 seconds apart, and never two at once.</li>
+    <li><strong>It follows <code>robots.txt</code> and <code>Crawl-delay</code>.</strong> To keep GoDoBot out of all or part of your site, add a rule for <code>User-agent: GoDoBot</code> (or <code>*</code>). To slow it down further, add a <code>Crawl-delay</code> (in seconds).</li>
+    <li><strong>It asks before downloading again.</strong> When your server supports it, GoDoBot asks whether a page has changed since yesterday and skips it if not.</li>
+    <li>It identifies itself honestly as <code>GoDoBot</code> with a link to this page. It never pretends to be a browser and never tries to get around a block. If your site turns it away, it stops visiting and checks again about once a week.</li>
+    <li><strong>Its requests are signed.</strong> So you can be sure a visit really came from Go Do, GoDoBot signs its requests with <a href="https://developers.cloudflare.com/bots/reference/bot-verification/web-bot-auth/">Web Bot Auth</a> (HTTP Message Signatures, RFC 9421). Each request carries <code>Signature</code>, <code>Signature-Input</code> and <code>Signature-Agent: "https://mcp.go-do.live"</code> headers, and GoDoBot's public key is listed at <a href="https://mcp.go-do.live/.well-known/http-message-signatures-directory"><code>mcp.go-do.live/.well-known/http-message-signatures-directory</code></a>. Its user agent is <code>GoDoBot/0.2 (+https://go-do.live/bot; event discovery for Utah)</code>.</li>
+    <li>Each event on Go Do links back to your page, so people buy tickets and get details from you. Those links are tagged <code>utm_source=go-do.live</code>, so you can see the visitors Go Do sends you in your own analytics.</li>
   </ul>
   <h2>Want your events on Go Do — or corrected, or removed?</h2>
-  <p>The easiest way is to send them to us directly with a free <a href="/data-feed/">Go Do data feed</a>, so they're always accurate. For anything else, use <a href="/contact/">Contact Us</a> and we'll take care of it quickly.</p>
+  <p>The easiest way is to send them to us directly with a free <a href="/data-feed/">Go Do data feed</a>, so they're always accurate.</p>
+  <p>To have GoDoBot stop visiting your site, change how often it visits, or anything else, write to us through <a href="/contact/">Contact Us</a> with your website's address. We'll take care of it quickly.</p>
   <p>Go Do, LLC · Utah, USA</p>
 </main>
 <footer>

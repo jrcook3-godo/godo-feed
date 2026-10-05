@@ -42,28 +42,75 @@ function openPage(req) {
         .then((hit) => (hit ? hit.text() : null))
         .then((html) => {
           const offline = new Response(OFFLINE_PAGE, { headers: { 'content-type': 'text/html; charset=utf-8' } });
-          // Only use the kept page when its code is kept too — otherwise it would open to a blank screen.
-          const src = html && (html.match(/[^"']*\/_expo\/static\/js\/web\/[^"']+\.js/) || [])[0];
-          if (!src) return offline;
+          // Only use the kept page when its code is kept too — otherwise it would open to a blank screen. The app
+          // comes in parts (scripts/web-chunks.mjs); the ones every screen needs are the runtime, the shared code and
+          // the start (entry). A screen's own file that isn't kept shows the app's "try again" instead.
+          const names = html ? [...new Set(html.match(/(__expo-metro-runtime|__common|entry)-[a-f0-9]+\.js/g) || [])] : [];
+          if (!names.some((n) => n.startsWith('entry-'))) return offline;
           return caches
             .open(CODE_CACHE)
-            .then((c) => c.match(new URL(src, self.location.origin).href))
-            .then((code) => (code ? new Response(html, { headers: { 'content-type': 'text/html; charset=utf-8' } }) : offline));
+            .then((c) => Promise.all(names.map((n) => c.match(codeUrl(n)))))
+            .then((hits) => (hits.every(Boolean) ? new Response(html, { headers: { 'content-type': 'text/html; charset=utf-8' } }) : offline));
         })
         .catch(() => new Response(OFFLINE_PAGE, { headers: { 'content-type': 'text/html; charset=utf-8' } })),
     );
 }
 
+const JS_DIR = '_expo/static/js/web/';
+const codeUrl = (name) => new URL(JS_DIR + name, self.registration.scope).href;
+const isAppFile = (url) => url.startsWith(new URL(JS_DIR, self.registration.scope).href);
+
+/** Keep the copy small: the app's own files are tidied by version (keepVersion); fonts and pictures, the newest 60. */
+function trimOthers() {
+  return caches.open(CODE_CACHE).then((c) =>
+    c.keys().then((keys) => {
+      const others = keys.filter((k) => !isAppFile(k.url));
+      return Promise.all(others.slice(0, Math.max(0, others.length - 60)).map((k) => c.delete(k)));
+    }),
+  );
+}
+
+/**
+ * The page asks after it has loaded (scripts/web-chunks.mjs). The app comes in parts, one per screen, downloaded
+ * when first opened. Files of older versions are let go (a page still open on an old version just downloads what it
+ * needs again). With `keep` (the Home Screen app, or a member), every file of the current version is kept, so any
+ * screen opens with no signal — about as much as the old single file, and only files that changed are fetched.
+ */
+function keepVersion(keep) {
+  return fetch(new URL('version.json', self.registration.scope).href, { cache: 'no-store' })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((v) => {
+      if (!v || !Array.isArray(v.files) || !v.files.length) return;
+      const want = new Set(v.files.map(codeUrl));
+      return caches.open(CODE_CACHE).then((c) =>
+        c
+          .keys()
+          .then((keys) => Promise.all(keys.filter((k) => isAppFile(k.url) && !want.has(k.url)).map((k) => c.delete(k))))
+          .then(() => {
+            if (!keep) return;
+            const todo = [...want];
+            // A few at a time, so it doesn't crowd out what the person is doing.
+            const next = () => {
+              const url = todo.shift();
+              if (!url) return Promise.resolve();
+              return c
+                .match(url)
+                .then((hit) => hit || fetch(url).then((res) => (res.ok && res.type === 'basic' ? c.put(url, res) : null)))
+                .catch(() => {})
+                .then(next);
+            };
+            return Promise.all([next(), next(), next()]);
+          }),
+      );
+    })
+    .catch(() => {});
+}
+
 self.addEventListener('install', () => self.skipWaiting());
-self.addEventListener('activate', (e) =>
-  e.waitUntil(
-    Promise.all([
-      self.clients.claim(),
-      // Keep the copy small: the newest 40 files.
-      caches.open(CODE_CACHE).then((c) => c.keys().then((keys) => Promise.all(keys.slice(0, Math.max(0, keys.length - 40)).map((k) => c.delete(k))))),
-    ]).catch(() => {}),
-  ),
-);
+self.addEventListener('activate', (e) => e.waitUntil(Promise.all([self.clients.claim(), trimOthers()]).catch(() => {})));
+self.addEventListener('message', (e) => {
+  if (e.data && e.data.type === 'godo-code') e.waitUntil(Promise.all([keepVersion(!!e.data.keep), trimOthers()]));
+});
 
 self.addEventListener('fetch', (e) => {
   const req = e.request;

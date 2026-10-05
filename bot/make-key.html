@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GoDoBot Key Maker | Go Do</title>
+<meta name="description" content="Makes GoDoBot's signing key in your own browser. For Go Do's owner, used once.">
+<meta name="robots" content="noindex,nofollow">
+<link rel="icon" type="image/png" href="/icons/favicon-64.png">
+<!-- Makes an Ed25519 key in this browser (WebCrypto). Nothing is sent anywhere: this page makes no network requests
+     after it loads. The key is shown once, to copy into two secret stores (GitHub, Cloudflare). -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self'; style-src 'unsafe-inline'; script-src 'unsafe-inline'; connect-src 'none'; form-action 'none'">
+<style>
+  :root { --ink:#1f2933; --muted:#5f6b76; --navy:#1F4E7A; --bg:#ffffff; --line:#e3e7eb; --box:#f5f7f9; --warn:#8a4b00; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --ink:#e8edf2; --muted:#a7b3bf; --navy:#8fb8e6; --bg:#0f1720; --line:#26313c; --box:#17212b; --warn:#f0b35c; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink); font:16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:680px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { color:var(--navy); font-size:26px; margin:0 0 8px; }
+  button { font:inherit; font-weight:600; background:var(--navy); color:#fff; border:0; border-radius:8px; padding:10px 18px; cursor:pointer; }
+  textarea { width:100%; font:14px/1.4 ui-monospace, Menlo, Consolas, monospace; padding:10px; border:1px solid var(--line); border-radius:8px; background:var(--box); color:var(--ink); resize:none; }
+  .warn { color:var(--warn); font-weight:600; }
+  .muted { color:var(--muted); font-size:14px; }
+  [hidden] { display:none !important; }
+</style>
+</head>
+<body>
+<main>
+  <h1>GoDoBot key maker</h1>
+  <p>This makes GoDoBot's signing key right here in your browser. Nothing leaves this page — it doesn't send anything anywhere.</p>
+  <p class="warn">Use it once. Paste the key only into GitHub and Cloudflare, as the steps say. Never paste it into a chat, an email or a document.</p>
+  <p><button id="make" type="button">Make the key</button></p>
+  <p id="err" class="warn" hidden></p>
+  <div id="out" hidden>
+    <p><strong>Your key</strong> (one long line):</p>
+    <textarea id="key" rows="3" readonly spellcheck="false"></textarea>
+    <p><button id="copy" type="button">Copy the key</button> <span id="copied" class="muted" hidden>Copied.</span></p>
+    <p class="muted">Key name (safe to share — it's not secret): <strong id="kid"></strong>. Each morning's data crawler report says "signing requests (key <span id="kid8"></span>…)" once it's working.</p>
+    <p class="muted">When you've pasted it into both places, close this tab. If you lose it before then, just make a new one.</p>
+  </div>
+</main>
+<script>
+(function () {
+  var b64 = function (buf) { var s = ''; new Uint8Array(buf).forEach(function (c) { s += String.fromCharCode(c); }); return btoa(s); };
+  var b64url = function (buf) { return b64(buf).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, ''); };
+  var $ = function (id) { return document.getElementById(id); };
+  $('make').onclick = async function () {
+    try {
+      var pair = await crypto.subtle.generateKey({ name: 'Ed25519' }, true, ['sign', 'verify']);
+      var pkcs8 = await crypto.subtle.exportKey('pkcs8', pair.privateKey);
+      var jwk = await crypto.subtle.exportKey('jwk', pair.publicKey);
+      var kid = b64url(await crypto.subtle.digest('SHA-256', new TextEncoder().encode('{"crv":"Ed25519","kty":"OKP","x":"' + jwk.x + '"}')));
+      $('key').value = b64(pkcs8);
+      $('kid').textContent = kid;
+      $('kid8').textContent = kid.slice(0, 8);
+      $('out').hidden = false;
+      $('make').hidden = true;
+      $('err').hidden = true;
+    } catch (e) {
+      $('err').textContent = "This browser can't make this kind of key. Please try the newest Chrome, Safari, Edge or Firefox.";
+      $('err').hidden = false;
+    }
+  };
+  $('copy').onclick = async function () {
+    try { await navigator.clipboard.writeText($('key').value); } catch (e) { $('key').select(); document.execCommand('copy'); }
+    $('copied').hidden = false;
+  };
+})();
+</script>
+</body>
+</html>
