@@ -3,8 +3,8 @@
 > Go Do (go-do.live) is a free app and website that lists every event and activity in Utah — concerts, games, festivals, theater, family events, classes, community events and outdoor activities — in one feed, soonest first, and helps people make plans with friends. Operated by Go Do, LLC. Tagline: Go Do. Live Life.
 
 ## Facts
-- About 12,300 upcoming events and 15,800 activities across Utah (as of 2026-10-04)
-- Gathered from 188+ sources — public calendars, ticket sellers, cities, libraries, venues and partners — by GoDoBot (https://go-do.live/bot/)
+- About 12,600 upcoming events and 15,800 activities across Utah (as of 2026-10-05)
+- Gathered from 187+ sources — public calendars, ticket sellers, cities, libraries, venues and partners — by GoDoBot (https://go-do.live/bot/)
 - Updated every morning (Mountain Time); ended events drop off the feed
 - Free for members; no account needed to browse
 - Support: https://go-do.live/contact/
