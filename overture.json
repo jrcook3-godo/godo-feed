@@ -323,11 +323,11 @@
    566
   ],
   [
-   "senior_living_facility",
+   "religious_organization",
    562
   ],
   [
-   "religious_organization",
+   "senior_living_facility",
    562
   ],
   [
@@ -475,11 +475,11 @@
    233
   ],
   [
-   "public_utility",
+   "b2b_energy_and_utility_service",
    225
   ],
   [
-   "b2b_energy_and_utility_service",
+   "public_utility",
    225
   ],
   [
@@ -487,11 +487,11 @@
    203
   ],
   [
-   "fire_station",
+   "golf_course",
    200
   ],
   [
-   "golf_course",
+   "fire_station",
    200
   ],
   [
@@ -551,11 +551,11 @@
    153
   ],
   [
-   "government_department",
+   "event_venue",
    152
   ],
   [
-   "event_venue",
+   "government_department",
    152
   ],
   [
@@ -627,15 +627,15 @@
    115
   ],
   [
+   "taxi_or_ride_share_service",
+   114
+  ],
+  [
    "food_service",
    114
   ],
   [
    "courthouse",
-   114
-  ],
-  [
-   "taxi_or_ride_share_service",
    114
   ],
   [
@@ -647,11 +647,11 @@
    108
   ],
   [
-   "fueling_station",
+   "river",
    107
   ],
   [
-   "river",
+   "fueling_station",
    107
   ],
   [
@@ -687,11 +687,11 @@
    88
   ],
   [
-   "agricultural_service",
+   "brewery",
    87
   ],
   [
-   "brewery",
+   "agricultural_service",
    87
   ],
   [
@@ -707,15 +707,15 @@
    71
   ],
   [
+   "dance_club",
+   68
+  ],
+  [
    "industrial_facility_or_service",
    68
   ],
   [
    "water_utility_provider",
-   68
-  ],
-  [
-   "dance_club",
    68
   ],
   [
@@ -727,11 +727,11 @@
    61
   ],
   [
-   "educational_facility",
+   "emergency_or_urgent_care_facility",
    56
   ],
   [
-   "emergency_or_urgent_care_facility",
+   "educational_facility",
    56
   ],
   [
@@ -739,11 +739,11 @@
    54
   ],
   [
-   "playground",
+   "gaming_venue",
    51
   ],
   [
-   "gaming_venue",
+   "playground",
    51
   ],
   [
@@ -755,15 +755,15 @@
    49
   ],
   [
-   "rodeo",
-   47
-  ],
-  [
    "fairgrounds",
    47
   ],
   [
    "condominium",
+   47
+  ],
+  [
+   "rodeo",
    47
   ],
   [
@@ -779,11 +779,11 @@
    43
   ],
   [
-   "electric_utility_provider",
+   "lounge",
    42
   ],
   [
-   "lounge",
+   "electric_utility_provider",
    42
   ],
   [
@@ -807,11 +807,11 @@
    35
   ],
   [
-   "nature_reserve",
+   "dog_park",
    34
   ],
   [
-   "dog_park",
+   "nature_reserve",
    34
   ],
   [
@@ -863,10 +863,6 @@
    23
   ],
   [
-   "winery",
-   22
-  ],
-  [
    "marina",
    22
   ],
@@ -875,11 +871,15 @@
    22
   ],
   [
-   "superstore",
-   21
+   "winery",
+   22
   ],
   [
    "cemetery",
+   21
+  ],
+  [
+   "superstore",
    21
   ],
   [
@@ -891,6 +891,10 @@
    19
   ],
   [
+   "buddhist_place_of_worship",
+   17
+  ],
+  [
    "arts_and_crafts_space",
    17
   ],
@@ -899,20 +903,20 @@
    17
   ],
   [
-   "buddhist_place_of_worship",
-   17
+   "adult_entertainment_venue",
+   16
   ],
   [
    "garden",
    16
   ],
   [
-   "adult_entertainment_venue",
-   16
-  ],
-  [
    "ground_transport_facility_or_service",
    15
+  ],
+  [
+   "hot_springs",
+   14
   ],
   [
    "animal_attraction",
@@ -923,15 +927,11 @@
    14
   ],
   [
-   "hot_springs",
-   14
-  ],
-  [
-   "muslim_place_of_worship",
+   "television_station",
    13
   ],
   [
-   "television_station",
+   "muslim_place_of_worship",
    13
   ],
   [
@@ -947,28 +947,20 @@
    10
   ],
   [
-   "science_attraction",
-   9
-  ],
-  [
    "sculpture_statue",
    9
   ],
   [
-   "embassy",
-   8
+   "science_attraction",
+   9
   ],
   [
    "hindu_place_of_worship",
    8
   ],
   [
-   "jewish_place_of_worship",
-   7
-  ],
-  [
-   "place_of_worship",
-   7
+   "embassy",
+   8
   ],
   [
    "specialty_hospital",
@@ -983,12 +975,12 @@
    7
   ],
   [
-   "parking_lot",
-   6
+   "jewish_place_of_worship",
+   7
   ],
   [
-   "sports_complex",
-   6
+   "place_of_worship",
+   7
   ],
   [
    "planetarium",
@@ -1003,16 +995,20 @@
    6
   ],
   [
+   "parking_lot",
+   6
+  ],
+  [
+   "sports_complex",
+   6
+  ],
+  [
    "public_safety_service",
    5
   ],
   [
    "kiosk",
    5
-  ],
-  [
-   "food_court",
-   4
   ],
   [
    "astrological_advising",
@@ -1027,12 +1023,32 @@
    4
   ],
   [
-   "rural_attraction",
-   3
+   "food_court",
+   4
   ],
   [
    "services_and_business",
    3
+  ],
+  [
+   "rural_attraction",
+   3
+  ],
+  [
+   "kindergarten",
+   2
+  ],
+  [
+   "building",
+   2
+  ],
+  [
+   "canal",
+   2
+  ],
+  [
+   "walk_in_clinic",
+   2
   ],
   [
    "spiritual_advising",
@@ -1051,20 +1067,8 @@
    2
   ],
   [
-   "kindergarten",
-   2
-  ],
-  [
-   "building",
-   2
-  ],
-  [
-   "canal",
-   2
-  ],
-  [
-   "walk_in_clinic",
-   2
+   "castle",
+   1
   ],
   [
    "memorial_site",
@@ -1084,10 +1088,6 @@
   ],
   [
    "lighthouse",
-   1
-  ],
-  [
-   "castle",
    1
   ]
  ],
