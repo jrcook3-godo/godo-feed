@@ -1,7 +1,7 @@
 /* Go Do service worker: shows phone notifications, keeps the app icon's badge number up to date, and keeps a copy
    of the app's code and font files. Those files have a fingerprint in their name (entry-<hash>.js), so a copy can
-   never be out of date — a new version of the app has new names. Data (events.json…) is never cached here, and pages
-   always come from the network first, so new versions and new listings still load right away. The last app page is
+   never be out of date — a new version of the app has new names. The feed's data files come from the network first and
+   only a last copy is kept for no signal (latestData), and pages always come from the network first, so new versions and new listings still load right away. The last app page is
    kept only as a fallback for opening the Home Screen app with no signal (before, iPhone showed "Safari can't open
    the page" with no way to reload); if even that isn't there, a small "You're offline" page with Try again. */
 const CODE_CACHE = 'godo-code-v1';
@@ -106,6 +106,36 @@ function keepVersion(keep) {
     .catch(() => {});
 }
 
+/**
+ * The listings the feed opens with — the next 14 days (events-soon.json), the whole list (events-list.json) and the
+ * activities: always from the network first (so they're never out of date), with the last copy kept for opening with
+ * no signal (then the app shows those instead of its older built-in copy). One copy of each file.
+ */
+const DATA_CACHE = 'godo-data-v1';
+const DATA = /^\/(events-soon|events-list|activities)\.json$/;
+function latestData(req) {
+  return fetch(req)
+    .then((res) => {
+      if (res.ok && res.type === 'basic') {
+        const copy = res.clone();
+        caches
+          .open(DATA_CACHE)
+          .then((c) => c.put(new URL(req.url).pathname, copy))
+          .catch(() => {});
+      }
+      return res;
+    })
+    .catch((err) =>
+      caches
+        .open(DATA_CACHE)
+        .then((c) => c.match(new URL(req.url).pathname))
+        .then((hit) => {
+          if (hit) return hit;
+          throw err;
+        }),
+    );
+}
+
 self.addEventListener('install', () => self.skipWaiting());
 self.addEventListener('activate', (e) => e.waitUntil(Promise.all([self.clients.claim(), trimOthers()]).catch(() => {})));
 self.addEventListener('message', (e) => {
@@ -118,6 +148,7 @@ self.addEventListener('fetch', (e) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
   if (req.mode === 'navigate') return e.respondWith(openPage(req));
+  if (DATA.test(url.pathname)) return e.respondWith(latestData(req));
   if (!IMMUTABLE.test(url.pathname)) return;
   e.respondWith(
     caches.open(CODE_CACHE).then((c) =>

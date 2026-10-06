@@ -43,6 +43,7 @@ Disallow: /edit-profile
 Disallow: /notifications
 Disallow: /events.json
 Disallow: /events-list.json
+Disallow: /events-soon.json
 Disallow: /event-text/
 Disallow: /activities.json
 Disallow: /restaurants.json
