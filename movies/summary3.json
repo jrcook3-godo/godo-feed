@@ -1,0 +1,855 @@
+{
+  "movies-cinemark-layton": {
+    "listings": 48,
+    "films": 7,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 85,
+    "sample": [
+      {
+        "title": "Verity",
+        "start": "2026-10-08T11:30:00-06:00",
+        "end": "2026-10-08T23:55:00-06:00",
+        "description": "Showtimes: 11:30 AM · 1:05 PM (XD) · 2:20 PM · 5:10 PM · 7:05 PM (XD) · 8:00 PM · 9:55 PM\nRated R · 1 hr 56 min",
+        "url": "https://www.cinemark.com/theatres/ut-layton/cinemark-layton-and-xd?showDate=2026-10-08",
+        "image": "https://www.cinemark.com/papi/media/file/umb---5n4bassu---mdverityfinalposter.jpg?prefix=media",
+        "address": "720 W Ring Rd, Layton, UT 84041",
+        "lat": 41.080692
+      },
+      {
+        "title": "Digger",
+        "start": "2026-10-08T12:25:00-06:00",
+        "end": "2026-10-08T23:40:00-06:00",
+        "description": "Showtimes: 12:25 PM · 3:30 PM · 4:00 PM (XD) · 6:35 PM · 9:40 PM\nRated R · 2 hr 9 min",
+        "url": "https://www.cinemark.com/theatres/ut-layton/cinemark-layton-and-xd?showDate=2026-10-08",
+        "image": "https://www.cinemark.com/papi/media/file/umb---2e1fb0ce---mddiggercastposter.jpg?prefix=media",
+        "address": "720 W Ring Rd, Layton, UT 84041",
+        "lat": 41.080692
+      }
+    ]
+  },
+  "movies-cinemark-provo": {
+    "listings": 115,
+    "films": 23,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 70,
+    "sample": [
+      {
+        "title": "Verity",
+        "start": "2026-10-08T11:40:00-06:00",
+        "end": "2026-10-08T23:40:00-06:00",
+        "description": "Showtimes: 11:40 AM · 12:55 PM · 2:35 PM · 3:50 PM · 5:30 PM · 6:45 PM · 8:25 PM · 9:40 PM\nRated R · 1 hr 56 min",
+        "url": "https://www.cinemark.com/theatres/ut-provo/cinemark-provo-16?showDate=2026-10-08",
+        "image": "https://www.cinemark.com/papi/media/file/umb---5n4bassu---mdverityfinalposter.jpg?prefix=media",
+        "address": "1200 Towne Centre Blvd, Provo, UT 84601",
+        "lat": 40.2172851
+      },
+      {
+        "title": "Digger",
+        "start": "2026-10-08T12:55:00-06:00",
+        "end": "2026-10-08T14:55:00-06:00",
+        "description": "Showtimes: 12:55 PM\nRated R · 2 hr 9 min",
+        "url": "https://www.cinemark.com/theatres/ut-provo/cinemark-provo-16?showDate=2026-10-08",
+        "image": "https://www.cinemark.com/papi/media/file/umb---2e1fb0ce---mddiggercastposter.jpg?prefix=media",
+        "address": "1200 Towne Centre Blvd, Provo, UT 84601",
+        "lat": 40.2172851
+      }
+    ]
+  },
+  "movies-cinemark-slc16": {
+    "listings": 109,
+    "films": 24,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 70,
+    "sample": [
+      {
+        "title": "Verity",
+        "start": "2026-10-08T11:00:00-06:00",
+        "end": "2026-10-08T23:15:00-06:00",
+        "description": "Showtimes: 11:00 AM (XD XD D-Box) · 11:30 AM (D-Box) · 12:30 PM · 2:25 PM (D-Box) · 3:25 PM · 5:20 PM (D-Box) · 6:20 PM · 8:15 PM (D-Box) · 9:15 PM\nRated R · 1 hr 56 min",
+        "url": "https://www.cinemark.com/theatres/ut-salt-lake-city/cinemark-century-salt-lake-16-and-xd?showDate=2026-10-08",
+        "image": "https://www.cinemark.com/papi/media/file/umb---5n4bassu---mdverityfinalposter.jpg?prefix=media",
+        "address": "125 East 3300 South, Salt Lake City, UT 84115",
+        "lat": 40.699973
+      },
+      {
+        "title": "Digger",
+        "start": "2026-10-08T11:05:00-06:00",
+        "end": "2026-10-08T23:35:00-06:00",
+        "description": "Showtimes: 11:05 AM · 11:45 AM (D-Box) · 2:10 PM · 6:25 PM · 9:35 PM\nRated R · 2 hr 9 min",
+        "url": "https://www.cinemark.com/theatres/ut-salt-lake-city/cinemark-century-salt-lake-16-and-xd?showDate=2026-10-08",
+        "image": "https://www.cinemark.com/papi/media/file/umb---2e1fb0ce---mddiggercastposter.jpg?prefix=media",
+        "address": "125 East 3300 South, Salt Lake City, UT 84115",
+        "lat": 40.699973
+      }
+    ]
+  },
+  "movies-megaplex-gateway": {
+    "listings": 58,
+    "films": 11,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 6,
+    "sample": [
+      {
+        "title": "Avengers Endgame: Encore",
+        "start": "2026-10-08T20:30:00-06:00",
+        "end": "2026-10-08T22:30:00-06:00",
+        "description": "Showtimes: 8:30 PM\nRated PG-13 · 3 hr 5 min",
+        "url": "https://megaplex.com/film/HO00004428/avengers-endgame-encore",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004428",
+        "address": "165 South Rio Grande Street, Salt Lake City, 84101",
+        "lat": 40.7662010192871
+      },
+      {
+        "title": "Digger",
+        "start": "2026-10-08T18:20:00-06:00",
+        "end": "2026-10-08T23:15:00-06:00",
+        "description": "Showtimes: 6:20 PM (Dolby Atmos) · 9:15 PM (Dolby Atmos)\nRated R · 2 hr 9 min",
+        "url": "https://megaplex.com/film/HO00004137/digger",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004137",
+        "address": "165 South Rio Grande Street, Salt Lake City, 84101",
+        "lat": 40.7662010192871
+      }
+    ]
+  },
+  "movies-megaplex-valley-fair": {
+    "listings": 88,
+    "films": 16,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 4,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:10:00-06:00",
+        "end": "2026-10-08T23:40:00-06:00",
+        "description": "Showtimes: 7:10 PM · 7:55 PM · 8:40 PM · 9:40 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "3620 South 2400 West, West Valley City, UT 84119",
+        "lat": 40.6936988830566
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T11:35:00-06:00",
+        "end": "2026-10-09T23:40:00-06:00",
+        "description": "Showtimes: 11:35 AM · 1:05 PM · 2:05 PM · 3:35 PM · 4:35 PM · 6:10 PM · 7:10 PM · 8:40 PM · 9:40 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "3620 South 2400 West, West Valley City, UT 84119",
+        "lat": 40.6936988830566
+      }
+    ]
+  },
+  "movies-megaplex-cottonwood": {
+    "listings": 48,
+    "films": 8,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 2,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T11:00:00-06:00",
+        "end": "2026-10-09T23:00:00-06:00",
+        "description": "Showtimes: 11:00 AM · 1:30 PM · 4:00 PM · 6:30 PM · 9:00 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1945 East Murray Hollady Blvd, Holladay, UT 84117",
+        "lat": 40.6665992736816
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-10T11:00:00-06:00",
+        "end": "2026-10-10T23:00:00-06:00",
+        "description": "Showtimes: 11:00 AM · 1:30 PM · 4:00 PM · 6:30 PM · 9:00 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1945 East Murray Hollady Blvd, Holladay, UT 84117",
+        "lat": 40.6665992736816
+      }
+    ]
+  },
+  "movies-megaplex-jordan-commons": {
+    "listings": 135,
+    "films": 25,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "9 to 5",
+        "start": "2026-10-09T14:00:00-06:00",
+        "end": "2026-10-09T16:00:00-06:00",
+        "description": "Showtimes: 2:00 PM\nRated PG · 1 hr 50 min",
+        "url": "https://megaplex.com/film/HO00004491/9-to-5",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004491",
+        "address": "9335 South State Street, Sandy, UT 84070",
+        "lat": 40.5817985534668
+      },
+      {
+        "title": "9 to 5",
+        "start": "2026-10-10T14:00:00-06:00",
+        "end": "2026-10-10T16:00:00-06:00",
+        "description": "Showtimes: 2:00 PM\nRated PG · 1 hr 50 min",
+        "url": "https://megaplex.com/film/HO00004491/9-to-5",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004491",
+        "address": "9335 South State Street, Sandy, UT 84070",
+        "lat": 40.5817985534668
+      }
+    ]
+  },
+  "movies-megaplex-district": {
+    "listings": 121,
+    "films": 22,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Daniel and the Fiery Furnace",
+        "start": "2026-10-09T11:20:00-06:00",
+        "end": "2026-10-09T15:50:00-06:00",
+        "description": "Showtimes: 11:20 AM · 1:50 PM\nRated PG-13 · 1 hr 48 min",
+        "url": "https://megaplex.com/film/HO00004471/daniel-and-the-fiery-furnace",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004471",
+        "address": "3761 West Parkway Plaza Drive, South Jordan, UT 84095",
+        "lat": 40.5393981933594
+      },
+      {
+        "title": "Daniel and the Fiery Furnace",
+        "start": "2026-10-10T12:00:00-06:00",
+        "end": "2026-10-10T14:00:00-06:00",
+        "description": "Showtimes: 12:00 PM\nRated PG-13 · 1 hr 48 min",
+        "url": "https://megaplex.com/film/HO00004471/daniel-and-the-fiery-furnace",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004471",
+        "address": "3761 West Parkway Plaza Drive, South Jordan, UT 84095",
+        "lat": 40.5393981933594
+      }
+    ]
+  },
+  "movies-megaplex-daybreak": {
+    "listings": 49,
+    "films": 8,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:50:00-06:00",
+        "end": "2026-10-08T23:59:00-06:00",
+        "description": "Showtimes: 7:50 PM · 10:30 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "11068 Grandville Ave, South Jordan, UT 84009",
+        "lat": 40.5499992370606
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T10:00:00-06:00",
+        "end": "2026-10-09T22:40:00-06:00",
+        "description": "Showtimes: 10:00 AM · 11:00 AM · 1:40 PM · 4:20 PM · 7:00 PM · 8:40 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "11068 Grandville Ave, South Jordan, UT 84009",
+        "lat": 40.5499992370606
+      }
+    ]
+  },
+  "movies-megaplex-legacy": {
+    "listings": 107,
+    "films": 19,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T18:25:00-06:00",
+        "end": "2026-10-08T20:25:00-06:00",
+        "description": "Showtimes: 6:25 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1075 West Legacy Crossing Blvd, Centerville, UT 84014",
+        "lat": 40.9197998046875
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T11:20:00-06:00",
+        "end": "2026-10-09T23:30:00-06:00",
+        "description": "Showtimes: 11:20 AM · 1:55 PM · 4:35 PM · 7:00 PM · 9:30 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1075 West Legacy Crossing Blvd, Centerville, UT 84014",
+        "lat": 40.9197998046875
+      }
+    ]
+  },
+  "movies-megaplex-thanksgiving-point": {
+    "listings": 97,
+    "films": 18,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Always Lalisa",
+        "start": "2026-10-14T18:00:00-06:00",
+        "end": "2026-10-14T20:00:00-06:00",
+        "description": "Showtimes: 6:00 PM\n1 hr 40 min",
+        "url": "https://megaplex.com/film/HO00004463/always-lalisa",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004463",
+        "address": "2935 North Thanksgiving Way, Lehi, UT 84043",
+        "lat": 40.427
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T20:30:00-06:00",
+        "end": "2026-10-08T22:30:00-06:00",
+        "description": "Showtimes: 8:30 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "2935 North Thanksgiving Way, Lehi, UT 84043",
+        "lat": 40.427
+      }
+    ]
+  },
+  "movies-megaplex-geneva": {
+    "listings": 83,
+    "films": 14,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T18:30:00-06:00",
+        "end": "2026-10-08T23:00:00-06:00",
+        "description": "Showtimes: 6:30 PM · 9:00 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "600 North Mill Road, Vineyard, UT 84058",
+        "lat": 40.3077011108398
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T09:40:00-06:00",
+        "end": "2026-10-09T23:59:00-06:00",
+        "description": "Showtimes: 9:40 AM · 10:25 AM · 12:00 PM · 12:55 PM · 2:30 PM · 5:00 PM · 7:30 PM · 10:00 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "600 North Mill Road, Vineyard, UT 84058",
+        "lat": 40.3077011108398
+      }
+    ]
+  },
+  "movies-megaplex-pleasant-grove": {
+    "listings": 41,
+    "films": 6,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:20:00-06:00",
+        "end": "2026-10-08T21:20:00-06:00",
+        "description": "Showtimes: 7:20 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "912 W Garden Dr, Pleasant Grove, UT 84062",
+        "lat": 40.3851013183594
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T11:00:00-06:00",
+        "end": "2026-10-09T23:00:00-06:00",
+        "description": "Showtimes: 11:00 AM · 1:30 PM · 4:00 PM · 6:30 PM · 9:00 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "912 W Garden Dr, Pleasant Grove, UT 84062",
+        "lat": 40.3851013183594
+      }
+    ]
+  },
+  "movies-megaplex-park-city": {
+    "listings": 62,
+    "films": 11,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T18:40:00-06:00",
+        "end": "2026-10-08T20:40:00-06:00",
+        "description": "Showtimes: 6:40 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "6030 Market St, Park City, UT 84098",
+        "lat": 40.7313995361328
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T16:10:00-06:00",
+        "end": "2026-10-09T23:10:00-06:00",
+        "description": "Showtimes: 4:10 PM · 6:40 PM · 9:10 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "6030 Market St, Park City, UT 84098",
+        "lat": 40.7313995361328
+      }
+    ]
+  },
+  "movies-megaplex-junction": {
+    "listings": 84,
+    "films": 14,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T18:10:00-06:00",
+        "end": "2026-10-08T22:50:00-06:00",
+        "description": "Showtimes: 6:10 PM · 8:05 PM · 8:50 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "2351 Kiesel Avenue, Ogden, UT 84401",
+        "lat": 41.2243995666504
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T10:30:00-06:00",
+        "end": "2026-10-09T23:50:00-06:00",
+        "description": "Showtimes: 10:30 AM · 1:00 PM · 3:30 PM · 6:00 PM · 7:50 PM · 8:30 PM · 9:50 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "2351 Kiesel Avenue, Ogden, UT 84401",
+        "lat": 41.2243995666504
+      }
+    ]
+  },
+  "movies-megaplex-providence": {
+    "listings": 63,
+    "films": 11,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:00:00-06:00",
+        "end": "2026-10-08T23:25:00-06:00",
+        "description": "Showtimes: 7:00 PM · 9:25 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "535 West 100 North, Logan, UT 84332",
+        "lat": 41.7113990783691
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T11:40:00-06:00",
+        "end": "2026-10-09T23:40:00-06:00",
+        "description": "Showtimes: 11:40 AM · 2:05 PM · 4:35 PM · 5:05 PM · 7:00 PM · 9:40 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "535 West 100 North, Logan, UT 84332",
+        "lat": 41.7113990783691
+      }
+    ]
+  },
+  "movies-megaplex-logan": {
+    "listings": 49,
+    "films": 7,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:00:00-06:00",
+        "end": "2026-10-08T21:00:00-06:00",
+        "description": "Showtimes: 7:00 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1225 North 200 East, Logan, UT 84341",
+        "lat": 41.753101348877
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T15:15:00-06:00",
+        "end": "2026-10-09T22:15:00-06:00",
+        "description": "Showtimes: 3:15 PM · 5:45 PM · 8:15 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1225 North 200 East, Logan, UT 84341",
+        "lat": 41.753101348877
+      }
+    ]
+  },
+  "movies-megaplex-cedar-city": {
+    "listings": 51,
+    "films": 10,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:40:00-06:00",
+        "end": "2026-10-08T21:40:00-06:00",
+        "description": "Showtimes: 7:40 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1040 Sage Way, Cedar City, UT 84720",
+        "lat": 37.6593017578125
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T14:00:00-06:00",
+        "end": "2026-10-09T21:20:00-06:00",
+        "description": "Showtimes: 2:00 PM · 4:40 PM · 7:20 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1040 Sage Way, Cedar City, UT 84720",
+        "lat": 37.6593017578125
+      }
+    ]
+  },
+  "movies-megaplex-pineview": {
+    "listings": 41,
+    "films": 6,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Brother Joseph Again",
+        "start": "2026-10-08T19:10:00-06:00",
+        "end": "2026-10-08T21:10:00-06:00",
+        "description": "Showtimes: 7:10 PM\nRated PG · 1 hr 31 min",
+        "url": "https://megaplex.com/film/HO00004496/brother-joseph-again",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004496",
+        "address": "2376 East Red Cliffs Drive 200, St. George, UT 84790",
+        "lat": 37.1227989196777
+      },
+      {
+        "title": "Brother Joseph Again",
+        "start": "2026-10-09T11:20:00-06:00",
+        "end": "2026-10-09T21:00:00-06:00",
+        "description": "Showtimes: 11:20 AM · 1:50 PM · 4:50 PM · 7:00 PM\nRated PG · 1 hr 31 min",
+        "url": "https://megaplex.com/film/HO00004496/brother-joseph-again",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004496",
+        "address": "2376 East Red Cliffs Drive 200, St. George, UT 84790",
+        "lat": 37.1227989196777
+      }
+    ]
+  },
+  "movies-megaplex-sunset": {
+    "listings": 76,
+    "films": 13,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T18:30:00-06:00",
+        "end": "2026-10-08T21:30:00-06:00",
+        "description": "Showtimes: 6:30 PM · 7:30 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1091 North Bluff Street, St. George, UT 84770",
+        "lat": 37.1258010864258
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-09T11:15:00-06:00",
+        "end": "2026-10-09T20:30:00-06:00",
+        "description": "Showtimes: 11:15 AM · 2:00 PM · 4:00 PM · 4:40 PM · 6:30 PM\nRated PG-13 · 1 hr 45 min",
+        "url": "https://megaplex.com/film/HO00004413/angel-and-the-badman",
+        "image": "https://img.megaplextheatres.com/FilmPosterGraphic/HO00004413",
+        "address": "1091 North Bluff Street, St. George, UT 84770",
+        "lat": 37.1258010864258
+      }
+    ]
+  },
+  "movies-brewvies": {
+    "listings": 21,
+    "films": 8,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 21,
+    "sample": [
+      {
+        "title": "Other Mommy",
+        "start": "2026-10-08T19:00:00-06:00",
+        "end": "2026-10-08T23:59:00-06:00",
+        "description": "Showtimes: 7:00 PM · 9:00 PM · 11:00 PM\nRated R · 1 hr 43 min",
+        "url": "https://brewvies.com/movie/27283",
+        "image": "https://images.cinemaplus.com/ticketing/posters/6464fa6ee16f1e0c7846bb5d46a8307d.webp",
+        "lat": 40.7608
+      },
+      {
+        "title": "Primetime",
+        "start": "2026-10-08T22:15:00-06:00",
+        "end": "2026-10-08T23:59:00-06:00",
+        "description": "Showtimes: 10:15 PM\nRated R · 2 hr",
+        "url": "https://brewvies.com/movie/26928",
+        "image": "https://images.cinemaplus.com/ticketing/posters/61585fda73a6822a01ca2cc0213d6de1.webp",
+        "lat": 40.7608
+      }
+    ]
+  },
+  "movies-walker-perry": {
+    "listings": 58,
+    "films": 10,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Avengers: Endgame - Encore",
+        "start": "2026-10-08T18:45:00-06:00",
+        "end": "2026-10-08T20:45:00-06:00",
+        "description": "Showtimes: 6:45 PM\nRated PG-13",
+        "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=t588ys4d39qn4xbb6xbkd8x9xc",
+        "image": "https://ticketing.uswest.veezi.com/Media/Poster?siteToken=t588ys4d39qn4xbb6xbkd8x9xc&code=0000004121",
+        "lat": 41.465
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T18:45:00-06:00",
+        "end": "2026-10-08T20:45:00-06:00",
+        "description": "Showtimes: 6:45 PM\nRated PG-13",
+        "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=t588ys4d39qn4xbb6xbkd8x9xc",
+        "image": "https://ticketing.uswest.veezi.com/Media/Poster?siteToken=t588ys4d39qn4xbb6xbkd8x9xc&code=0000004168",
+        "lat": 41.465
+      }
+    ]
+  },
+  "movies-walker-north-ogden": {
+    "listings": 29,
+    "films": 5,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Brother Joseph Again",
+        "start": "2026-10-08T18:45:00-06:00",
+        "end": "2026-10-08T20:45:00-06:00",
+        "description": "Showtimes: 6:45 PM\nRated PG",
+        "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=f5bnrgkszywbqp8da6rdqp0xc4",
+        "image": "https://ticketing.uswest.veezi.com/Media/Poster?siteToken=f5bnrgkszywbqp8da6rdqp0xc4&code=0000004175",
+        "lat": 41.3072
+      },
+      {
+        "title": "Angel and the Badman",
+        "start": "2026-10-08T19:00:00-06:00",
+        "end": "2026-10-08T21:00:00-06:00",
+        "description": "Showtimes: 7:00 PM\nRated PG-13",
+        "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=f5bnrgkszywbqp8da6rdqp0xc4",
+        "image": "https://ticketing.uswest.veezi.com/Media/Poster?siteToken=f5bnrgkszywbqp8da6rdqp0xc4&code=0000004168",
+        "lat": 41.3072
+      }
+    ]
+  },
+  "movies-capitol-brigham": {
+    "listings": 12,
+    "films": 2,
+    "days": [
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14"
+    ],
+    "seconds": 3,
+    "sample": [
+      {
+        "title": "Forgotten Island",
+        "start": "2026-10-08T18:45:00-06:00",
+        "end": "2026-10-08T20:45:00-06:00",
+        "description": "Showtimes: 6:45 PM\nRated PG",
+        "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=5k0yzcyc8sngp63edrzv9q2jv4",
+        "image": "https://ticketing.uswest.veezi.com/Media/Poster?siteToken=5k0yzcyc8sngp63edrzv9q2jv4&code=0000004139",
+        "lat": 41.5102
+      },
+      {
+        "title": "Brother Joseph Again",
+        "start": "2026-10-08T19:00:00-06:00",
+        "end": "2026-10-08T21:00:00-06:00",
+        "description": "Showtimes: 7:00 PM\nRated PG",
+        "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=5k0yzcyc8sngp63edrzv9q2jv4",
+        "image": "https://ticketing.uswest.veezi.com/Media/Poster?siteToken=5k0yzcyc8sngp63edrzv9q2jv4&code=0000004175",
+        "lat": 41.5102
+      }
+    ]
+  }
+}
