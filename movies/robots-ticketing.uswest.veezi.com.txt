@@ -1,0 +1,23 @@
+HTTP 200
+User-agent: *
+Disallow: /purchase?
+Disallow: /Purchase?
+Disallow: /purchase/ #These pages are transient so indexing them makes our site look bad when we get re-crawled and they no longer exist
+Disallow: /Purchase/
+Disallow: /ticketing/selecttickets/ # This is actually a POST action, so a GET will log errors
+Disallow: /ticketing/selectTickets/
+Disallow: /ticketing/Selecttickets/
+Disallow: /ticketing/SelectTickets/
+Disallow: /Ticketing/selecttickets/
+Disallow: /Ticketing/selectTickets/
+Disallow: /Ticketing/Selecttickets/
+Disallow: /Ticketing/SelectTickets/
+Disallow: *siteToken=obu8tLb4f0SZXJ9XGEUdgw%3D%3D* #This is the site token for our demo site
+Disallow: /Alive
+Disallow: /alive
+Disallow: /Image
+Disallow: /image
+Disallow: /Ticketing/Purchase
+Disallow: /Ticketing/purchase
+Disallow: /ticketing/purchase
+Disallow: /ticketing/Purchase

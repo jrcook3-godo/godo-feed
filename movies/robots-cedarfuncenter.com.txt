@@ -1,0 +1,9 @@
+HTTP 200
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://cedarfuncenter.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
