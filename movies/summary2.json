@@ -1,0 +1,38 @@
+{
+  "megaplex-cinemas.json": {
+    "url": "https://apiv2.megaplex.com/api/cinema/cinemas",
+    "robots": "allowed",
+    "bytes": 5445,
+    "ms": 2993
+  },
+  "megaplex-films-0019.json": {
+    "url": "https://apiv2.megaplex.com/api/film/cinemaFilms/0019",
+    "robots": "allowed",
+    "bytes": 1337732,
+    "ms": 3606
+  },
+  "cinemark-papi-plain.json": {
+    "url": "https://www.cinemark.com/papi/theaters/285/showtimes?date=2026-10-09&timeZone=America%2FDenver",
+    "robots": "allowed",
+    "bytes": 116816,
+    "ms": 10391
+  },
+  "cinemark-cinemark-farmington-at-station-park-and-xd-2026-10-10.json": {
+    "url": "https://www.cinemark.com/theatres/ut-farmington/cinemark-farmington-at-station-park-and-xd?showDate=2026-10-10",
+    "data": "https://www.cinemark.com/papi/theaters/1059/showtimes?date=2026-10-10&timeZone=America%2FDenver",
+    "bytes": 146247,
+    "ms": 12027
+  },
+  "cinemark-cinemark-farmington-at-station-park-and-xd-2026-10-11.json": {
+    "url": "https://www.cinemark.com/theatres/ut-farmington/cinemark-farmington-at-station-park-and-xd?showDate=2026-10-11",
+    "data": "https://www.cinemark.com/papi/theaters/1059/showtimes?date=2026-10-11&timeZone=America%2FDenver",
+    "bytes": 123176,
+    "ms": 12146
+  },
+  "cinemark-cinemark-sugarhouse-2026-10-10.json": {
+    "url": "https://www.cinemark.com/theatres/ut-salt-lake-city/cinemark-sugarhouse?showDate=2026-10-10",
+    "data": "https://www.cinemark.com/papi/theaters/54/showtimes?date=2026-10-10&timeZone=America%2FDenver",
+    "bytes": 88234,
+    "ms": 7964
+  }
+}
