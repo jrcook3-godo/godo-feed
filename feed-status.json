@@ -1,10 +1,10 @@
 {
- "at": "2026-10-09T14:48:28.604Z",
- "events": 16060,
- "activities": 13861,
- "restaurants": 11637,
+ "at": "2026-10-10T11:40:48.814Z",
+ "events": 16250,
+ "activities": 13663,
+ "restaurants": 11638,
  "lodging": 2080,
  "sourcesOk": 201,
  "sourcesFailed": 7,
- "coverageGaps": 1018
+ "coverageGaps": 1026
 }
